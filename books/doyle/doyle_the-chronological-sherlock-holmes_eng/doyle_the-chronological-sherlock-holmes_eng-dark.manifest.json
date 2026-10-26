@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/doyle/the-chronological-sherlock-holmes",
   "source_tei": "doyle_the-chronological-sherlock-holmes_eng.xml",
   "source_sha256": "6bcd16139f89a9d2a7abf53d71d1c5c46663cc25d6253718d1e4d0e352fd1c31",
-  "generator_fingerprint": "ee7914ab0b8895db6039c2079f7495c8cddd39f4e4a92cff2d7446761ea50c4e",
+  "generator_fingerprint": "7272082526d429b25399af25a5b119c40e2278f6b8c8e1e999f90ee6dbc7259d",
   "validations": {
     "pdf": {
-      "pages": 1599,
+      "pages": 1596,
       "outline_items": 71
     }
   },
   "files": [
     {
       "name": "doyle_the-chronological-sherlock-holmes_eng-dark.pdf",
-      "bytes": 61011111,
-      "sha256": "7456d2674d52a6a86cd052a64e144e7150deb84be5d976f6b57de08253b2578e"
+      "bytes": 60683905,
+      "sha256": "6d7cc7f49a90c7ccc57ceb53c868c7be31945dd967f9ac232e25a1895bf92ed0"
     }
   ]
 }

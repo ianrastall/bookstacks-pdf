@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/doyle/the-return-of-sherlock-holmes",
   "source_tei": "doyle_the-return-of-sherlock-holmes_eng.xml",
   "source_sha256": "477d1c487fcccb29361f7dab68b40b1e1a7bec9ada4012a3681f468dd7cf9e6c",
-  "generator_fingerprint": "ecfb5e080328e7e5a930b659eac1181ab63ec52a74eaeb096c8bdbf1fda2fd54",
+  "generator_fingerprint": "df2fe2d9c2291773eeb3d421416d805eca0348fcda898532b210c913aea90961",
   "validations": {
     "pdf": {
       "pages": 268,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "doyle_the-return-of-sherlock-holmes_eng-light.pdf",
-      "bytes": 3984627,
-      "sha256": "90a671683384a35d54e514018e4a4b9b53e669e561f7c38750f3570a0058d66b"
+      "bytes": 1614009,
+      "sha256": "c2714ebfd5f65d3b5bec0fbf0140e27b6620e474ed3c4148c8ec6eec84540213"
     }
   ]
 }

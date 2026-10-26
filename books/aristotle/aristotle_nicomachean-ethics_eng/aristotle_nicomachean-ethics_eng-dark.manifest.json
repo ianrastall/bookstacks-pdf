@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/aristotle/nicomachean-ethics",
   "source_tei": "aristotle_nicomachean-ethics_eng.xml",
   "source_sha256": "3ecee2940a3570c5d7c50fdaff270d1a64cb080d848d0facd1198917ce61eedb",
-  "generator_fingerprint": "7a3af3c6a21c48c6af05d023c31abd2041ea564cf5c65be49773d9671f5a8e12",
+  "generator_fingerprint": "969e22ed943a24cf74d86e14405a7b6f2309379da34abb27dc73d3974b1b3c7a",
   "validations": {
     "pdf": {
       "pages": 239,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "aristotle_nicomachean-ethics_eng-dark.pdf",
-      "bytes": 865306,
-      "sha256": "8a4779fcf564b091fb3376ba963aa0d03c63521a7735766e998be3e9d1b42fbd"
+      "bytes": 871916,
+      "sha256": "2613f0d9f7ecd90e5291be1afad589ff15beaa58270d766e0fc19bf56e2f67f2"
     }
   ]
 }

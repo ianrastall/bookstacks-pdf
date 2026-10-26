@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/aristotle/metaphysics",
   "source_tei": "aristotle_metaphysics_eng.xml",
   "source_sha256": "08c8317c4cfde96f08dc3eb2a445cb22ccc59d24d8e935776cdae58e7aee271c",
-  "generator_fingerprint": "defb11dbd8ccdf17388621a0c9bc1f27508b08fa92cbca8a3b03ee10a0622559",
+  "generator_fingerprint": "6530132684cfe1cde8cce7f7cd92ef6494bdc8379594cfc386b9976b0700e1e7",
   "validations": {
     "pdf": {
       "pages": 288,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "aristotle_metaphysics_eng-dark.pdf",
-      "bytes": 1002736,
-      "sha256": "5ed7fa5e817746c0d58efd45d2bcbc52de0ce42f34d78d3f340124cf37f400a7"
+      "bytes": 1012168,
+      "sha256": "986003e67565ac8fa036224417e14d88c3b617469e82761dd5bcbaeb939342c9"
     }
   ]
 }

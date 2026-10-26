@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source_repository": "https://github.com/ianrastall/bookstacks",
-  "source_commit": "532940b3b963d75a6d06e63d015615559e6b7314",
+  "source_commit": "c73624602cfb27a17594457450e6af70c8f926c5",
   "base_url": "https://ianrastall.github.io/bookstacks-pdf/",
   "editions": [
     {
@@ -19,19 +19,19 @@
           "theme": "light",
           "file": "aristotle_metaphysics_eng-light.pdf",
           "path": "books/aristotle/aristotle_metaphysics_eng/aristotle_metaphysics_eng-light.pdf",
-          "bytes": 967603,
-          "sha256": "2aa358f164095440ba66a3866d4b02ed55ec5eb876334662f32ad99c11ef1706",
+          "bytes": 977064,
+          "sha256": "22dde106a19af310c01150023448b2ab721ee5d276c04be0bd9088cf954f659c",
           "pages": 288,
-          "text_sha256": "a8832da4ce9fadb8bfb2114ef25c480ccaac806f995dc2704d0b39f991d4ff05"
+          "text_sha256": "990a597e4762e631932191582d4044882ee42ae284d0756bedf9ce1a8f5c3b6c"
         },
         {
           "theme": "dark",
           "file": "aristotle_metaphysics_eng-dark.pdf",
           "path": "books/aristotle/aristotle_metaphysics_eng/aristotle_metaphysics_eng-dark.pdf",
-          "bytes": 1002736,
-          "sha256": "5ed7fa5e817746c0d58efd45d2bcbc52de0ce42f34d78d3f340124cf37f400a7",
+          "bytes": 1012168,
+          "sha256": "986003e67565ac8fa036224417e14d88c3b617469e82761dd5bcbaeb939342c9",
           "pages": 288,
-          "text_sha256": "a8832da4ce9fadb8bfb2114ef25c480ccaac806f995dc2704d0b39f991d4ff05"
+          "text_sha256": "990a597e4762e631932191582d4044882ee42ae284d0756bedf9ce1a8f5c3b6c"
         }
       ]
     },
@@ -81,19 +81,19 @@
           "theme": "light",
           "file": "aristotle_nicomachean-ethics_eng-light.pdf",
           "path": "books/aristotle/aristotle_nicomachean-ethics_eng/aristotle_nicomachean-ethics_eng-light.pdf",
-          "bytes": 836173,
-          "sha256": "a3d96756a0d3db4b518076ca12e1dd4f96f8c897bb134f29beff3b192debfceb",
+          "bytes": 842885,
+          "sha256": "8df871154f76999e33fd92032eaa8236d66ddf65d9dbc5262d7c9681dc165a71",
           "pages": 239,
-          "text_sha256": "7592d1db8cfc0d07941e1ab6ea1394f467d8dc4d254bde1f71fb55b6c99ac5b2"
+          "text_sha256": "d121fd9a8bf24131e27df51135612f17b11011f23b1f04d77a924645b65b6ebb"
         },
         {
           "theme": "dark",
           "file": "aristotle_nicomachean-ethics_eng-dark.pdf",
           "path": "books/aristotle/aristotle_nicomachean-ethics_eng/aristotle_nicomachean-ethics_eng-dark.pdf",
-          "bytes": 865306,
-          "sha256": "8a4779fcf564b091fb3376ba963aa0d03c63521a7735766e998be3e9d1b42fbd",
+          "bytes": 871916,
+          "sha256": "2613f0d9f7ecd90e5291be1afad589ff15beaa58270d766e0fc19bf56e2f67f2",
           "pages": 239,
-          "text_sha256": "7592d1db8cfc0d07941e1ab6ea1394f467d8dc4d254bde1f71fb55b6c99ac5b2"
+          "text_sha256": "d121fd9a8bf24131e27df51135612f17b11011f23b1f04d77a924645b65b6ebb"
         }
       ]
     },
@@ -205,19 +205,19 @@
           "theme": "light",
           "file": "aristotle_politics_eng-light.pdf",
           "path": "books/aristotle/aristotle_politics_eng/aristotle_politics_eng-light.pdf",
-          "bytes": 823672,
-          "sha256": "166940b20fa54b9e95f14f02302b254dd58a64eeac1ac575aca03cf1c48eb1f9",
+          "bytes": 831176,
+          "sha256": "13dda0b6152fb6cb9d9d808b81cfe17a027c3d8ce6b382ef7476a35b04b47000",
           "pages": 235,
-          "text_sha256": "2817563b78509ecbbc4b3e5cbc431bfe5872e6a86dbedc39dd1fe335187f00a5"
+          "text_sha256": "e3eb1351409a41d23a429bcab3327ecca9e5c8631f0b474bf79d960dadeeb81a"
         },
         {
           "theme": "dark",
           "file": "aristotle_politics_eng-dark.pdf",
           "path": "books/aristotle/aristotle_politics_eng/aristotle_politics_eng-dark.pdf",
-          "bytes": 852323,
-          "sha256": "15bc944d0bd4c0033bb2a6885e01d6397adec45142501d0eb910404178692c29",
+          "bytes": 859748,
+          "sha256": "c868d36bdc21cd1cd4afc4adfb7de5621085f6567973190cbce7552eb38507ec",
           "pages": 235,
-          "text_sha256": "2817563b78509ecbbc4b3e5cbc431bfe5872e6a86dbedc39dd1fe335187f00a5"
+          "text_sha256": "e3eb1351409a41d23a429bcab3327ecca9e5c8631f0b474bf79d960dadeeb81a"
         }
       ]
     },
@@ -1755,19 +1755,19 @@
           "theme": "light",
           "file": "doyle_the-chronological-sherlock-holmes_eng-light.pdf",
           "path": "books/doyle/doyle_the-chronological-sherlock-holmes_eng/doyle_the-chronological-sherlock-holmes_eng-light.pdf",
-          "bytes": 60815546,
-          "sha256": "e43c155fae6d5c4c6c400f73178a7188a2fef650d5a019593331efa017394cc2",
-          "pages": 1599,
-          "text_sha256": "c1f3f07b3e48a5e2efe83f662feeeed050f068a6f49b3a3f23e2364760da2b0d"
+          "bytes": 60489208,
+          "sha256": "9c635ea828e3cec4305933f465eafa82278f432a552d16d4f3904c20a190e215",
+          "pages": 1596,
+          "text_sha256": "01cb7cf308ecace15dfe29b30397f60f849d520d19f9760c284bad7b32d64a0d"
         },
         {
           "theme": "dark",
           "file": "doyle_the-chronological-sherlock-holmes_eng-dark.pdf",
           "path": "books/doyle/doyle_the-chronological-sherlock-holmes_eng/doyle_the-chronological-sherlock-holmes_eng-dark.pdf",
-          "bytes": 61011111,
-          "sha256": "7456d2674d52a6a86cd052a64e144e7150deb84be5d976f6b57de08253b2578e",
-          "pages": 1599,
-          "text_sha256": "c1f3f07b3e48a5e2efe83f662feeeed050f068a6f49b3a3f23e2364760da2b0d"
+          "bytes": 60683905,
+          "sha256": "6d7cc7f49a90c7ccc57ceb53c868c7be31945dd967f9ac232e25a1895bf92ed0",
+          "pages": 1596,
+          "text_sha256": "01cb7cf308ecace15dfe29b30397f60f849d520d19f9760c284bad7b32d64a0d"
         }
       ]
     },
@@ -1786,19 +1786,19 @@
           "theme": "light",
           "file": "doyle_the-complete-sherlock-holmes_eng-light.pdf",
           "path": "books/doyle/doyle_the-complete-sherlock-holmes_eng/doyle_the-complete-sherlock-holmes_eng-light.pdf",
-          "bytes": 60815954,
-          "sha256": "324a0e8874eab6821071cb0623e130bf2cdfc5b05ca9dd9339a2492f58a242d9",
-          "pages": 1599,
-          "text_sha256": "98570bc3c79d634a50af0ed6b1067171b9beb935a40a11fb5b1d6e0401f7e9a3"
+          "bytes": 60489402,
+          "sha256": "7ee07d358d747641e57c123c97c0a8c1b44ab278aad6bac1acf1e0cb47a4b45d",
+          "pages": 1596,
+          "text_sha256": "300481942ae66489c38d80a7e29cdeb83070d94798bb2ca9acad3c9e13703edb"
         },
         {
           "theme": "dark",
           "file": "doyle_the-complete-sherlock-holmes_eng-dark.pdf",
           "path": "books/doyle/doyle_the-complete-sherlock-holmes_eng/doyle_the-complete-sherlock-holmes_eng-dark.pdf",
-          "bytes": 61011432,
-          "sha256": "673d6e431fb4c69eed7bdd5eefa1192416866e9a1fa5c8faecdb3d1f1b093694",
-          "pages": 1599,
-          "text_sha256": "98570bc3c79d634a50af0ed6b1067171b9beb935a40a11fb5b1d6e0401f7e9a3"
+          "bytes": 60684123,
+          "sha256": "d34c3b40f1fc648778edc42831bd48223aa855a0b91556af13227fc51a786297",
+          "pages": 1596,
+          "text_sha256": "300481942ae66489c38d80a7e29cdeb83070d94798bb2ca9acad3c9e13703edb"
         }
       ]
     },
@@ -1941,19 +1941,19 @@
           "theme": "light",
           "file": "doyle_the-return-of-sherlock-holmes_eng-light.pdf",
           "path": "books/doyle/doyle_the-return-of-sherlock-holmes_eng/doyle_the-return-of-sherlock-holmes_eng-light.pdf",
-          "bytes": 3984627,
-          "sha256": "90a671683384a35d54e514018e4a4b9b53e669e561f7c38750f3570a0058d66b",
+          "bytes": 1614009,
+          "sha256": "c2714ebfd5f65d3b5bec0fbf0140e27b6620e474ed3c4148c8ec6eec84540213",
           "pages": 268,
-          "text_sha256": "05faacdb7a0e710022bf6d95dadedaf6f320d10203396083228ca8d6d8000483"
+          "text_sha256": "c447358e0dfb388f1d52c0bd34c5bceebbf48cd559ba69dcd1ba98400b2ee2f7"
         },
         {
           "theme": "dark",
           "file": "doyle_the-return-of-sherlock-holmes_eng-dark.pdf",
           "path": "books/doyle/doyle_the-return-of-sherlock-holmes_eng/doyle_the-return-of-sherlock-holmes_eng-dark.pdf",
-          "bytes": 4017317,
-          "sha256": "f5cccde644e9758dceb804cd2226d7f317a0d7dbfd123a14ab294fae5fb5f128",
+          "bytes": 1646521,
+          "sha256": "5749071f50a8292b9f6462a513f1d566ba4362db1d34c35fb37b12faf705d96d",
           "pages": 268,
-          "text_sha256": "05faacdb7a0e710022bf6d95dadedaf6f320d10203396083228ca8d6d8000483"
+          "text_sha256": "c447358e0dfb388f1d52c0bd34c5bceebbf48cd559ba69dcd1ba98400b2ee2f7"
         }
       ]
     },
@@ -2314,7 +2314,7 @@
           "file": "laozi_tao-te-ching_eng-light.pdf",
           "path": "books/laozi/laozi_tao-te-ching_eng/laozi_tao-te-ching_eng-light.pdf",
           "bytes": 124551,
-          "sha256": "15f7349b63f5afccd5ecd6981742a5b9a1d4d31ba0f1820b1b25b6b791e9585b",
+          "sha256": "b8f16c14925a1865a05d02d456ed28f419b629a7a66f0e3174954c1e73a5cd5c",
           "pages": 45,
           "text_sha256": "e17cda82ae34e564eaef44027579f91fc70270f76c5688d5dafb741f1e1f26a5"
         },
@@ -2323,7 +2323,7 @@
           "file": "laozi_tao-te-ching_eng-dark.pdf",
           "path": "books/laozi/laozi_tao-te-ching_eng/laozi_tao-te-ching_eng-dark.pdf",
           "bytes": 129875,
-          "sha256": "0c0ec5774ad4bf204af12672e2a4bc86777b6b63c4c293071402b1f1083c4c54",
+          "sha256": "6896b7b1bd4d260a7ef5d5582c5ea9b81edec04103d92d48c85f96b06aba70f8",
           "pages": 45,
           "text_sha256": "e17cda82ae34e564eaef44027579f91fc70270f76c5688d5dafb741f1e1f26a5"
         }

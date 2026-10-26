@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/doyle/the-complete-sherlock-holmes",
   "source_tei": "doyle_the-complete-sherlock-holmes_eng.xml",
   "source_sha256": "edb2a78ae9f511486abffb38c60522b1eba74c5da870b8f133bf503963b5323a",
-  "generator_fingerprint": "6b8732863310cbf45397593259b64bc2f7b8f310b068eaba62ef791b15735d4b",
+  "generator_fingerprint": "d99303461a10a144b25234afc92a64a59391abef05197d6286989ec91285d359",
   "validations": {
     "pdf": {
-      "pages": 1599,
+      "pages": 1596,
       "outline_items": 71
     }
   },
   "files": [
     {
       "name": "doyle_the-complete-sherlock-holmes_eng-light.pdf",
-      "bytes": 60815954,
-      "sha256": "324a0e8874eab6821071cb0623e130bf2cdfc5b05ca9dd9339a2492f58a242d9"
+      "bytes": 60489402,
+      "sha256": "7ee07d358d747641e57c123c97c0a8c1b44ab278aad6bac1acf1e0cb47a4b45d"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/aristotle/politics",
   "source_tei": "aristotle_politics_eng.xml",
   "source_sha256": "fc7c75cdafabffa38f0075cf6335176b5412dafb452b7cea110df672c689f5de",
-  "generator_fingerprint": "c5b5b354677253241d55820fd6f055bdde8651cba50f2478965a3357a22c3cd6",
+  "generator_fingerprint": "d15775920b90f5fbb31c8167bc9ccde6a081714495d9cb63d6c0481dc4958efa",
   "validations": {
     "pdf": {
       "pages": 235,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "aristotle_politics_eng-dark.pdf",
-      "bytes": 852323,
-      "sha256": "15bc944d0bd4c0033bb2a6885e01d6397adec45142501d0eb910404178692c29"
+      "bytes": 859748,
+      "sha256": "c868d36bdc21cd1cd4afc4adfb7de5621085f6567973190cbce7552eb38507ec"
     }
   ]
 }

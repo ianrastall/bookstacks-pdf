@@ -13,3 +13,7 @@ all PDF checksums and the matching text/page checks. Font provenance and license
 references are in `font-resources.json`; original source font files remain
 outside this publication repository. All available source illustrations are
 embedded into their PDFs; no canonical image assets or TEI are changed here.
+
+The western-punctuation snapshot corrects xeCJK quote classes for English
+editions with incidental Han characters; both themes of the seven affected
+editions were explicitly regenerated and visually checked.

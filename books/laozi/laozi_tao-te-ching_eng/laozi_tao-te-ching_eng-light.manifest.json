@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/laozi/tao-te-ching",
   "source_tei": "laozi_tao-te-ching_eng.xml",
   "source_sha256": "6d3dc4b09b6f4ce8ef2844e737ea5fab4db587848cbd96b07440cdb78fcb6e7d",
-  "generator_fingerprint": "12dbaf89d93011cc8fb572415639366394124e6acd73fad56460cf126b9ad37b",
+  "generator_fingerprint": "79d753f1088f9279ee8eb1d1310b75db03c2f85065b1cc2a760d87c0c03d83de",
   "validations": {
     "pdf": {
       "pages": 45,
@@ -20,7 +20,7 @@
     {
       "name": "laozi_tao-te-ching_eng-light.pdf",
       "bytes": 124551,
-      "sha256": "15f7349b63f5afccd5ecd6981742a5b9a1d4d31ba0f1820b1b25b6b791e9585b"
+      "sha256": "b8f16c14925a1865a05d02d456ed28f419b629a7a66f0e3174954c1e73a5cd5c"
     }
   ]
 }
