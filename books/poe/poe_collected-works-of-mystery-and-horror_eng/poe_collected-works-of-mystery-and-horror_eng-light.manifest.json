@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "poe_collected-works-of-mystery-and-horror_eng",
+  "work_id": "poe:collected-works-of-mystery-and-horror",
+  "title": "Collected Works of Mystery and Horror",
+  "author": "Edgar Allan Poe (1809-1849)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/poe/collected-works-of-mystery-and-horror",
+  "source_tei": "poe_collected-works-of-mystery-and-horror_eng.xml",
+  "source_sha256": "1270e37df11acdbf5d97a345050dbe164312c4fca4f8ce8270516b91a56c0679",
+  "generator_fingerprint": "4225efc65b858bccbd5b106b38d576196045da0b2b6ed0ce19f59db3aca22ad4",
+  "validations": {
+    "pdf": {
+      "pages": 571,
+      "outline_items": 36
+    }
+  },
+  "files": [
+    {
+      "name": "poe_collected-works-of-mystery-and-horror_eng-light.pdf",
+      "bytes": 23830712,
+      "sha256": "f8d3f4ceb7b8841fa5bcf0d6b9d7d33d50d75307d63ab518421eccf47b3560d5"
+    }
+  ]
+}

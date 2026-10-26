@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_lesser-hippias",
+  "work_id": "plato:lesser-hippias",
+  "title": "Hippias Minor",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/lesser-hippias",
+  "source_tei": "plato_lesser-hippias_eng.xml",
+  "source_sha256": "97eda90c00be83b90dd300a4c38d121b49f0576789e81907f58d6600dee1a4fe",
+  "generator_fingerprint": "545cd41e2947702b5cfb12d5edd08fc14042ff30baf9d6723a526c2734a322d3",
+  "validations": {
+    "pdf": {
+      "pages": 26,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_lesser-hippias_eng-dark.pdf",
+      "bytes": 74935,
+      "sha256": "f664e4e76b435b2675058ac82c55a8e44bcd0d5c26bdfe1441f585f93dbdf685"
+    }
+  ]
+}

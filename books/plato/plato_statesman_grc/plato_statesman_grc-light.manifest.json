@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_statesman",
+  "work_id": "plato:statesman",
+  "title": "Πολιτικός",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/statesman",
+  "source_tei": "plato_statesman_grc.xml",
+  "source_sha256": "ca5035aca22cafb5c41c7767dffa3a4ceaff0c2b0f818d24b9661f158d3210b6",
+  "generator_fingerprint": "5ac939bd68c4a05f21e7b5fc5aafc426153dfbd79e657efe7bf37d6efe850bec",
+  "validations": {
+    "pdf": {
+      "pages": 58,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_statesman_grc-light.pdf",
+      "bytes": 183820,
+      "sha256": "5b832a5a2f2fbbf49f0d7d652d41c64e823835d2af9ffa420e08c89a354f3a8f"
+    }
+  ]
+}

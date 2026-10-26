@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dickens_oliver-twist",
+  "work_id": "dickens:oliver-twist",
+  "title": "Oliver Twist",
+  "author": "Charles Dickens (1812-1870)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dickens/oliver-twist",
+  "source_tei": "dickens_oliver-twist_eng.xml",
+  "source_sha256": "f2ca0ef105177f86ce51ee7a8fc050390e7bb11788e345fc90c6247cd40ee439",
+  "generator_fingerprint": "b25f5abf9675fdb8a6384cd1b69ab5e4a180e53307b261bd6dc057f21449bb04",
+  "validations": {
+    "pdf": {
+      "pages": 418,
+      "outline_items": 53
+    }
+  },
+  "files": [
+    {
+      "name": "dickens_oliver-twist_eng-dark.pdf",
+      "bytes": 1252939,
+      "sha256": "96e56ecf33eb4137c42ca743d55206e9b65cb6e2806af24f309d4928c3196fbc"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_euthydemus",
+  "work_id": "plato:euthydemus",
+  "title": "Euthydemus",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/euthydemus",
+  "source_tei": "plato_euthydemus_eng.xml",
+  "source_sha256": "9e78294e70442d936c15e2dd1395f39251441cd0be82b441f107eb0a239ba142",
+  "generator_fingerprint": "de9bae179bcdf301ab5ac4e5870cbfdf56ac974c4b732c28d0ec963fbc68f2a7",
+  "validations": {
+    "pdf": {
+      "pages": 43,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_euthydemus_eng-dark.pdf",
+      "bytes": 158462,
+      "sha256": "828e01cae23c3e06c235dcdb3999d5c69fb609cac53685c8a9cca37080b1ef90"
+    }
+  ]
+}

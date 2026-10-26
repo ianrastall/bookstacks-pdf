@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_epinomis",
+  "work_id": "plato:epinomis",
+  "title": "Ἐπινομίς",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/epinomis",
+  "source_tei": "plato_epinomis_grc.xml",
+  "source_sha256": "76f03268ae5229063fe36bbbcc41350136abedb1a2e87ceb4ad23d2da7842b13",
+  "generator_fingerprint": "2dac89549010cd3c9a27347200eacd7d802cd89a4f40f624cfa685a940951cc8",
+  "validations": {
+    "pdf": {
+      "pages": 20,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_epinomis_grc-light.pdf",
+      "bytes": 85473,
+      "sha256": "ac2385a4f7d08ee2315dd7ccbd9c413b80b9c3c873097d6c9710e106841e5201"
+    }
+  ]
+}

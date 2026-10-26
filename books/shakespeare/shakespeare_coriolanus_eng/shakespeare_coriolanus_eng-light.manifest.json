@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-coriolanus",
+  "work_id": "shakespeare:coriolanus",
+  "title": "Coriolanus",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/coriolanus",
+  "source_tei": "shakespeare_coriolanus_eng.xml",
+  "source_sha256": "3d4ebd97d670f6b41823de65df4a1675aae0ebc3e63a6d07c1d1ee0a23984543",
+  "generator_fingerprint": "f8db85d3bb99475950e0a02133cd53c0330b0f090fadf1e6358a95b4485cb10a",
+  "validations": {
+    "pdf": {
+      "pages": 192,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_coriolanus_eng-light.pdf",
+      "bytes": 399966,
+      "sha256": "011fceb03960a911c790b91b67cba9f38f946cc5676d47a586cd31e19a41203d"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-as-you-like-it-fra",
+  "work_id": "shakespeare:as-you-like-it",
+  "title": "Comme il vous plaira",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/as-you-like-it",
+  "source_tei": "shakespeare_as-you-like-it_fra.xml",
+  "source_sha256": "eb0d3b988c0266409f37b8b1ed0a19cf5ee3132beb759b3c7ae65e210aac55ef",
+  "generator_fingerprint": "b58a6345c1b976f2930cedb5fa504365e3db7f706ffc00246246a960a4bf7ebe",
+  "validations": {
+    "pdf": {
+      "pages": 128,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_as-you-like-it_fra-light.pdf",
+      "bytes": 289437,
+      "sha256": "8ace57b982aacccbc3cf72170b11486b4ea707bb592b792b467c9fd1236d1f10"
+    }
+  ]
+}

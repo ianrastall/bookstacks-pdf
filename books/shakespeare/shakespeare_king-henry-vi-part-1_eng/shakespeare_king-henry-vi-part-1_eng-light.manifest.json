@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-henry-vi-part-1",
+  "work_id": "shakespeare:king-henry-vi-part-1",
+  "title": "King Henry VI, Part 1",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-henry-vi-part-1",
+  "source_tei": "shakespeare_king-henry-vi-part-1_eng.xml",
+  "source_sha256": "962ac8b0fceced8ee3eafb4cea021d1cd730de648f161fd03113dc751eb0b7ca",
+  "generator_fingerprint": "6f0343c7d0796bd00dd8eb9d01bbcc1e2352519d43a914f1f02dc0995f26d3db",
+  "validations": {
+    "pdf": {
+      "pages": 144,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-henry-vi-part-1_eng-light.pdf",
+      "bytes": 332254,
+      "sha256": "4542a291e33d6156d8feb180acf906bb5078956e1de9a90ae3b8a6043a1f27c4"
+    }
+  ]
+}

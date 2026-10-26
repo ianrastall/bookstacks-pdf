@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "austen_pride-and-prejudice",
+  "work_id": "austen:pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen (1775-1817)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/austen/pride-and-prejudice",
+  "source_tei": "austen_pride-and-prejudice_eng.xml",
+  "source_sha256": "290c4263a5962ac13f09817121fef07b069e4656a98216e6fd8d52e622cedaf0",
+  "generator_fingerprint": "ecaed0b03f0dee70a115f83004ac4cfa4991ae42fa33f334f95667502e8bbaad",
+  "validations": {
+    "pdf": {
+      "pages": 321,
+      "outline_items": 61
+    }
+  },
+  "files": [
+    {
+      "name": "austen_pride-and-prejudice_eng-light.pdf",
+      "bytes": 905918,
+      "sha256": "766a382c8e60fc234d696bbc74f8d87529f8f92e6676244bb71138132fd7c6c7"
+    }
+  ]
+}

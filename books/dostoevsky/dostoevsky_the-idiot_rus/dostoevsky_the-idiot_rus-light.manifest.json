@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dostoevsky_the-idiot",
+  "work_id": "dostoevsky:the-idiot",
+  "title": "Идиот",
+  "author": "Fyodor Dostoevsky (1821-1881)",
+  "language": "ru",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/ru/authors/dostoevsky/the-idiot",
+  "source_tei": "dostoevsky_the-idiot_rus.xml",
+  "source_sha256": "9aa208551fb16418155b5e997e4aa13d1e951402feff5c4a022ccf488b6a9ac4",
+  "generator_fingerprint": "b3aa0ab6b6ec7017533b6bd6ede8edc6dd4c38ad4ca902b5705acaf312403583",
+  "validations": {
+    "pdf": {
+      "pages": 585,
+      "outline_items": 4
+    }
+  },
+  "files": [
+    {
+      "name": "dostoevsky_the-idiot_rus-light.pdf",
+      "bytes": 1702556,
+      "sha256": "7da5617bf681afe672c46a8645dcc503cc3692472c755176566554e1eb6f31d8"
+    }
+  ]
+}

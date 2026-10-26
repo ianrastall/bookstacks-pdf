@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-alls-well-that-ends-well-fra",
+  "work_id": "shakespeare:alls-well-that-ends-well",
+  "title": "Tout est bien qui finit bien",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/alls-well-that-ends-well",
+  "source_tei": "shakespeare_alls-well-that-ends-well_fra.xml",
+  "source_sha256": "21d59404bcbe5c151d0a7e2a3b89f9844eecca9f7a9f8dc0c120ecd6c948415c",
+  "generator_fingerprint": "39b39b1784a19e10de139871df6c4c7b8449b95afcc955abb9b02fc7f5c844e2",
+  "validations": {
+    "pdf": {
+      "pages": 141,
+      "outline_items": 9
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_alls-well-that-ends-well_fra-light.pdf",
+      "bytes": 304219,
+      "sha256": "d826379bba0ab1f251734e04c53a2aa31d9a695315d68e5d777a8708da6be352"
+    }
+  ]
+}

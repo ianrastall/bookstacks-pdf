@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "turgenev-the-torrents-of-spring",
+  "work_id": "turgenev:the-torrents-of-spring",
+  "title": "The Torrents of Spring",
+  "author": "Ivan Turgenev (1818-1883)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/turgenev/the-torrents-of-spring",
+  "source_tei": "turgenev_the-torrents-of-spring_eng.xml",
+  "source_sha256": "c8ac3d62f2395def961133091eeb0248145eb84c90b0302ad18b6fdbeabcff3b",
+  "generator_fingerprint": "5a25d836b564b40d1422d06a5efa6407d7b1d507c613d67621a1f466588c8c8c",
+  "validations": {
+    "pdf": {
+      "pages": 158,
+      "outline_items": 46
+    }
+  },
+  "files": [
+    {
+      "name": "turgenev_the-torrents-of-spring_eng-light.pdf",
+      "bytes": 405220,
+      "sha256": "8c9f8f16e959cd597c43a43a0ea3eb2ce0201cf88d9fbb4ec0f85b244f81e443"
+    }
+  ]
+}

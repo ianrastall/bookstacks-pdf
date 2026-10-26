@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-twelfth-night-fra",
+  "work_id": "shakespeare:twelfth-night",
+  "title": "Le Jour des Rois",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/twelfth-night",
+  "source_tei": "shakespeare_twelfth-night_fra.xml",
+  "source_sha256": "30870dfc11d6f989e50af19637a6fb1440069f75082be6378955584794731353",
+  "generator_fingerprint": "97106d260c4f07d692df110b6d5f4a954003101ea270b5364cf3f33466385633",
+  "validations": {
+    "pdf": {
+      "pages": 133,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_twelfth-night_fra-dark.pdf",
+      "bytes": 302524,
+      "sha256": "ff85fb9f5397399d93956a96cd12f997e731ccefc7a417af8a3bc4f5c21323dc"
+    }
+  ]
+}

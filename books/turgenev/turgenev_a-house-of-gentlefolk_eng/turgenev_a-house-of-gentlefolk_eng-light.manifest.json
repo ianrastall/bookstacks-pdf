@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "turgenev-a-house-of-gentlefolk",
+  "work_id": "turgenev:a-house-of-gentlefolk",
+  "title": "A House of Gentlefolk",
+  "author": "Ivan Turgenev (1818-1883)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/turgenev/a-house-of-gentlefolk",
+  "source_tei": "turgenev_a-house-of-gentlefolk_eng.xml",
+  "source_sha256": "8031da99cc256c1791ea7863e40a430fbc73430391ca9686ed3bd30ba970e87d",
+  "generator_fingerprint": "d31a2b3810ea114668309d66fc4a9d4863b379b40a243c403553932c32e67cd1",
+  "validations": {
+    "pdf": {
+      "pages": 181,
+      "outline_items": 46
+    }
+  },
+  "files": [
+    {
+      "name": "turgenev_a-house-of-gentlefolk_eng-light.pdf",
+      "bytes": 486500,
+      "sha256": "8c3e25eba287593ad2b7d7b12821aec06b90d3156685a4626dafabb1665bcb55"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "laozi_tao-te-ching_zho",
+  "work_id": "laozi:tao-te-ching",
+  "title": "道德经",
+  "author": "老子 (生卒年不详)",
+  "language": "zh-Hans",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/zh-Hans/authors/laozi/tao-te-ching",
+  "source_tei": "laozi_tao-te-ching_zho.xml",
+  "source_sha256": "75047875cc6c5efc337702497f779a59fcab767332f52adffbabd9dfd16bb0c1",
+  "generator_fingerprint": "f609d130d5d7da11b205c30d3fe5cd272dc3903abf1aab12203c94a90719645b",
+  "validations": {
+    "pdf": {
+      "pages": 25,
+      "outline_items": 4
+    }
+  },
+  "files": [
+    {
+      "name": "laozi_tao-te-ching_zho-dark.pdf",
+      "bytes": 270049,
+      "sha256": "2c3206b0df04fff5f2957e9fc319123aad910a830d3381e2f54b01baade1df17"
+    }
+  ]
+}

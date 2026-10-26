@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_menexenus",
+  "work_id": "plato:menexenus",
+  "title": "Menexenus",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/menexenus",
+  "source_tei": "plato_menexenus_eng.xml",
+  "source_sha256": "ae51cff707c961267bf7626e1511b0fa5dbb4bca6226cf95b425a5e29f26e25e",
+  "generator_fingerprint": "a0cf026992e1926b293d3123b0dadfaa4fb07e541bdc3f217ae175b04db31b8b",
+  "validations": {
+    "pdf": {
+      "pages": 23,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_menexenus_eng-dark.pdf",
+      "bytes": 86858,
+      "sha256": "1084854311f0881e78a666b0654b0575dc76f1d13b140fc3f4606ee69e9b9f59"
+    }
+  ]
+}

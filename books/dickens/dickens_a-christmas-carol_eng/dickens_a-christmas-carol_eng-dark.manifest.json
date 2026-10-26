@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dickens_a-christmas-carol",
+  "work_id": "dickens:a-christmas-carol",
+  "title": "A Christmas Carol",
+  "author": "Charles Dickens (1812-1870)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dickens/a-christmas-carol",
+  "source_tei": "dickens_a-christmas-carol_eng.xml",
+  "source_sha256": "6ffe07519a363cbe004581966dda9bc80d46637c062ece2913a3e48e5f8de9a9",
+  "generator_fingerprint": "94de7c3c596fd76f738ebc8ceb2ababd2795d962274128d04a041bcc29bc6857",
+  "validations": {
+    "pdf": {
+      "pages": 76,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "dickens_a-christmas-carol_eng-dark.pdf",
+      "bytes": 240206,
+      "sha256": "c69f90b956ecdaf4eed9fcc207c2f136bca8ffe663d009eb5bbc16eb21509d9f"
+    }
+  ]
+}

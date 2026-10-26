@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "james-washington-square",
+  "work_id": "james:washington-square",
+  "title": "Washington Square",
+  "author": "Henry James (1843-1916)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/james/washington-square",
+  "source_tei": "james_washington-square_eng.xml",
+  "source_sha256": "bc619951127d8dff459e2296216040e602c76e8c83ce0e62efc488069ec62899",
+  "generator_fingerprint": "eae601c9504256e97198dce57dd21a8f1c876bbdf815b67e322128bd21373d29",
+  "validations": {
+    "pdf": {
+      "pages": 177,
+      "outline_items": 35
+    }
+  },
+  "files": [
+    {
+      "name": "james_washington-square_eng-light.pdf",
+      "bytes": 471997,
+      "sha256": "ceb2d5d86397fedd5f04b0b34447bb2ec2411660613a4f552337d615be342bce"
+    }
+  ]
+}

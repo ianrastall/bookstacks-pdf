@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_alcibiades-2",
+  "work_id": "plato:alcibiades-2",
+  "title": "Alcibiades 2",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/alcibiades-2",
+  "source_tei": "plato_alcibiades-2_eng.xml",
+  "source_sha256": "505eca76303352505b50f54bddf6ac618acf743ceb44cc68e689e8ea73ea1a8c",
+  "generator_fingerprint": "001d6b4f0dcfd4e0d62d9e5b8fddfbc0d6be50c3878d8b425f987bca654bf0fd",
+  "validations": {
+    "pdf": {
+      "pages": 20,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_alcibiades-2_eng-dark.pdf",
+      "bytes": 83816,
+      "sha256": "a7220d03bcc131d585237c15b4e0cb9499befc9818468bf1ace817f35b24535a"
+    }
+  ]
+}

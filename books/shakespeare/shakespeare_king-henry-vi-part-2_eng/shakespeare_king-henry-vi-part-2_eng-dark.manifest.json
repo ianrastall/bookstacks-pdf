@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-henry-vi-part-2",
+  "work_id": "shakespeare:king-henry-vi-part-2",
+  "title": "King Henry VI, Part 2",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-henry-vi-part-2",
+  "source_tei": "shakespeare_king-henry-vi-part-2_eng.xml",
+  "source_sha256": "22b946bdf27935f65ae95f894794140cf5fa3c73f9c3c0a20de6a126fd21dc8a",
+  "generator_fingerprint": "02bfdf59df54fdfa578764ea929b2dac45a825d31158d28693b8ef51dbd5be99",
+  "validations": {
+    "pdf": {
+      "pages": 159,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-henry-vi-part-2_eng-dark.pdf",
+      "bytes": 379695,
+      "sha256": "e1a6a510680f2b1602b62adae4b3ef8adcd83dd2c5b789158c61f8035a442aa4"
+    }
+  ]
+}

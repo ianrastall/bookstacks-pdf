@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "aristotle_metaphysics",
+  "work_id": "aristotle:metaphysics",
+  "title": "Metaphysics",
+  "author": "Aristotle (384-322 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/aristotle/metaphysics",
+  "source_tei": "aristotle_metaphysics_eng.xml",
+  "source_sha256": "08c8317c4cfde96f08dc3eb2a445cb22ccc59d24d8e935776cdae58e7aee271c",
+  "generator_fingerprint": "defb11dbd8ccdf17388621a0c9bc1f27508b08fa92cbca8a3b03ee10a0622559",
+  "validations": {
+    "pdf": {
+      "pages": 288,
+      "outline_items": 14
+    }
+  },
+  "files": [
+    {
+      "name": "aristotle_metaphysics_eng-dark.pdf",
+      "bytes": 1002736,
+      "sha256": "5ed7fa5e817746c0d58efd45d2bcbc52de0ce42f34d78d3f340124cf37f400a7"
+    }
+  ]
+}

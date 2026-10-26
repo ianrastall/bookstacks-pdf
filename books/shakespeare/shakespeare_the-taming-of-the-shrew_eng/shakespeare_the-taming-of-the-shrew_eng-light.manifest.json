@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-the-taming-of-the-shrew",
+  "work_id": "shakespeare:the-taming-of-the-shrew",
+  "title": "The Taming of the Shrew",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/the-taming-of-the-shrew",
+  "source_tei": "shakespeare_the-taming-of-the-shrew_eng.xml",
+  "source_sha256": "30145521e89fb90c0f6fdc1f83680746ed7be9f961cf1bcc4c0461e93cc98baf",
+  "generator_fingerprint": "27869dad7ca84f37835343587cc60c9e0b7107b4e77498126aebc438598f8151",
+  "validations": {
+    "pdf": {
+      "pages": 147,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_the-taming-of-the-shrew_eng-light.pdf",
+      "bytes": 302355,
+      "sha256": "ff6ed6d262cf11ccdd9771df13b3d42e600163d42e654961f9f863509469410f"
+    }
+  ]
+}

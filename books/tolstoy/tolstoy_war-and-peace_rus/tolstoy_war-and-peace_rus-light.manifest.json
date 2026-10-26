@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "tolstoy_war-and-peace",
+  "work_id": "tolstoy:war-and-peace",
+  "title": "Война и мир",
+  "author": "Leo Tolstoy (1828-1910)",
+  "language": "ru",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/ru/authors/tolstoy/war-and-peace",
+  "source_tei": "tolstoy_war-and-peace_rus.xml",
+  "source_sha256": "a02c90bb28077517a6accf0b5db49362ea88ac6454fd99227651e27ee6f20d26",
+  "generator_fingerprint": "faaeec8cb6bf7a58c4179dc20ed683924db09f49cbe7c2d35c4b39e22fa710d2",
+  "validations": {
+    "pdf": {
+      "pages": 1366,
+      "outline_items": 5
+    }
+  },
+  "files": [
+    {
+      "name": "tolstoy_war-and-peace_rus-light.pdf",
+      "bytes": 3994938,
+      "sha256": "d893d8a9439ffa396bca33b3e60585b2a96b2d502973e1e3bc0857083bd0030a"
+    }
+  ]
+}

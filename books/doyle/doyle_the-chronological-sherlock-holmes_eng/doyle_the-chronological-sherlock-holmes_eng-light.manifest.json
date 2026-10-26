@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-chronological-sherlock-holmes_eng",
+  "work_id": "doyle:the-chronological-sherlock-holmes",
+  "title": "The Chronological Sherlock Holmes",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-chronological-sherlock-holmes",
+  "source_tei": "doyle_the-chronological-sherlock-holmes_eng.xml",
+  "source_sha256": "6bcd16139f89a9d2a7abf53d71d1c5c46663cc25d6253718d1e4d0e352fd1c31",
+  "generator_fingerprint": "cd04e52c30db65e2219e192935dfe1a2a1ec52aefb57bd8129d1a384b4e97c69",
+  "validations": {
+    "pdf": {
+      "pages": 1599,
+      "outline_items": 71
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-chronological-sherlock-holmes_eng-light.pdf",
+      "bytes": 60815546,
+      "sha256": "e43c155fae6d5c4c6c400f73178a7188a2fef650d5a019593331efa017394cc2"
+    }
+  ]
+}

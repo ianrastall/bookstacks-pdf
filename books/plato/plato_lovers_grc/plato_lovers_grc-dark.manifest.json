@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_lovers",
+  "work_id": "plato:lovers",
+  "title": "Ἐρασταί",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/lovers",
+  "source_tei": "plato_lovers_grc.xml",
+  "source_sha256": "8afcd31b9dbc0a849aa985d2bd40d7008ea2962f67792570170c1d76430cd49c",
+  "generator_fingerprint": "81d7d5f65616ac4af24e0be0334cc4d326a396c4f05fb2f596b4b96adde8dd5d",
+  "validations": {
+    "pdf": {
+      "pages": 13,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_lovers_grc-dark.pdf",
+      "bytes": 55900,
+      "sha256": "cca97e14da076ace948442ebcb8e200294b2bf7aa02c9c5bc01bc90840b6fb61"
+    }
+  ]
+}

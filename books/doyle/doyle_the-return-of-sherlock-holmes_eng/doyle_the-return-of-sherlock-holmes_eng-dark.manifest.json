@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-return-of-sherlock-holmes",
+  "work_id": "doyle:the-return-of-sherlock-holmes",
+  "title": "The Return of Sherlock Holmes",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-return-of-sherlock-holmes",
+  "source_tei": "doyle_the-return-of-sherlock-holmes_eng.xml",
+  "source_sha256": "477d1c487fcccb29361f7dab68b40b1e1a7bec9ada4012a3681f468dd7cf9e6c",
+  "generator_fingerprint": "7ffbcfc18f676d4ceea0ac15bd5334e2c80798ceee2c41e62f5b352cac499621",
+  "validations": {
+    "pdf": {
+      "pages": 268,
+      "outline_items": 13
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-return-of-sherlock-holmes_eng-dark.pdf",
+      "bytes": 4017317,
+      "sha256": "f5cccde644e9758dceb804cd2226d7f317a0d7dbfd123a14ab294fae5fb5f128"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-much-ado-about-nothing-fra",
+  "work_id": "shakespeare:much-ado-about-nothing",
+  "title": "Beaucoup de Bruit pour Rien",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/much-ado-about-nothing",
+  "source_tei": "shakespeare_much-ado-about-nothing_fra.xml",
+  "source_sha256": "af9f6c5712da1b59664669c3abf950cfff560bbf52d132d38b804c6a2a29aabc",
+  "generator_fingerprint": "7261d1cd3df4fe090a930d449fd176b1610932a45c967765b926e453e082bf2e",
+  "validations": {
+    "pdf": {
+      "pages": 132,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_much-ado-about-nothing_fra-dark.pdf",
+      "bytes": 299163,
+      "sha256": "524333b995f8aa9340a96866cb0b6de7508ae1f18761f96d9e977e6c607095b8"
+    }
+  ]
+}

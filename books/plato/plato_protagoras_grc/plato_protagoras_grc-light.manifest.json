@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_protagoras",
+  "work_id": "plato:protagoras",
+  "title": "Πρωταγόρας",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/protagoras",
+  "source_tei": "plato_protagoras_grc.xml",
+  "source_sha256": "92455274fd940551c5de87d5a53849c57d2c6cc3af5a5373c21d093e6fddcd0d",
+  "generator_fingerprint": "3ec1d4f1c1e5ed736ad56a9bb48ea1b756da311b665b8ad6d02bda8b56044386",
+  "validations": {
+    "pdf": {
+      "pages": 45,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_protagoras_grc-light.pdf",
+      "bytes": 179260,
+      "sha256": "371c261154f1698be4064e570df604caedf5ef3fc63bae8ef42abc838dbe49d5"
+    }
+  ]
+}

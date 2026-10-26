@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "aristotle_metaphysics",
+  "work_id": "aristotle:metaphysics",
+  "title": "τὰ Μετὰ τὰ Φυσικά",
+  "author": "Aristotle (384-322 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/aristotle/metaphysics",
+  "source_tei": "aristotle_metaphysics_grc.xml",
+  "source_sha256": "ba4beab06881d0d4291028a0af34214a9454ea55eda3f83350e5f9ee30dd57f4",
+  "generator_fingerprint": "a21c44786ef03ad61bc4e8f30dfcf3387dc0b49b662717ab6f613353d1d26e1f",
+  "validations": {
+    "pdf": {
+      "pages": 171,
+      "outline_items": 14
+    }
+  },
+  "files": [
+    {
+      "name": "aristotle_metaphysics_grc-dark.pdf",
+      "bytes": 620044,
+      "sha256": "5f4144a7c8f280cdea88b98ed5a7168168306ba0635958492b08556a2f4de9ae"
+    }
+  ]
+}

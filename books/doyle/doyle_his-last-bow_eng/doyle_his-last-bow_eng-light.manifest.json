@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_his-last-bow",
+  "work_id": "doyle:his-last-bow",
+  "title": "His Last Bow: Some Later Reminiscences of Sherlock Holmes",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/his-last-bow",
+  "source_tei": "doyle_his-last-bow_eng.xml",
+  "source_sha256": "1c40419eea75127fa73b493dbfb149c0c4f057c5dec681b66ab44cad1b47f58c",
+  "generator_fingerprint": "3a67b875d3f796712fb819ab1bb20cda7866ad8d168d57bce36b045e88273a86",
+  "validations": {
+    "pdf": {
+      "pages": 163,
+      "outline_items": 9
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_his-last-bow_eng-light.pdf",
+      "bytes": 503680,
+      "sha256": "d8353a6a1b0cff6354a0adab60dac235aea15900194bbf816077763bcebaf50c"
+    }
+  ]
+}

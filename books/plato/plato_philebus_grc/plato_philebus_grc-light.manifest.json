@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_philebus",
+  "work_id": "plato:philebus",
+  "title": "Φίληβος",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/philebus",
+  "source_tei": "plato_philebus_grc.xml",
+  "source_sha256": "932f89094aee5e3cfd6299fb7dc5c3f529fe8f8e5979a9165c4e0b67e9a50c35",
+  "generator_fingerprint": "554d1de335244234cae7d3735a868a0b7e66fb25d05578db7ab949ba4fc988d3",
+  "validations": {
+    "pdf": {
+      "pages": 61,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_philebus_grc-light.pdf",
+      "bytes": 187190,
+      "sha256": "cdf31bed624789c009120342044546a87210c22b3e12e3d76e312b2aca560604"
+    }
+  ]
+}

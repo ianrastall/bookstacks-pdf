@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-henry-viii-fra",
+  "work_id": "shakespeare:king-henry-viii",
+  "title": "Henri VIII",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/king-henry-viii",
+  "source_tei": "shakespeare_king-henry-viii_fra.xml",
+  "source_sha256": "5a0da15c9fa544ed5a77bb18cb3b8b585807e68750cadc3f6e114409bff36859",
+  "generator_fingerprint": "6549c4e00c8bbb45444a2aa4b3814c577428765ba1a1d33e7f1e647309eea875",
+  "validations": {
+    "pdf": {
+      "pages": 131,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-henry-viii_fra-dark.pdf",
+      "bytes": 326736,
+      "sha256": "c20864e4e19eb6be30bfc5e7ba1d52b7bc6f5405a1bc0f30117e7bdb9d68459e"
+    }
+  ]
+}

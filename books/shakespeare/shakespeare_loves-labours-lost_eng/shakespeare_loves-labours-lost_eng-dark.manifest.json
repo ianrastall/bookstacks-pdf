@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-loves-labours-lost",
+  "work_id": "shakespeare:loves-labours-lost",
+  "title": "Love's Labour's Lost",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/loves-labours-lost",
+  "source_tei": "shakespeare_loves-labours-lost_eng.xml",
+  "source_sha256": "c17ec7ab27271a1b280d5aa05660121e8c942063c176a1347b448e86154c0c76",
+  "generator_fingerprint": "8db360995efd1069b3deb8d889f32c5049266f6b1abacda097f471020f85d3a2",
+  "validations": {
+    "pdf": {
+      "pages": 152,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_loves-labours-lost_eng-dark.pdf",
+      "bytes": 311357,
+      "sha256": "44943d00b1b523313bb88d1371cc12fbbe7b084bd71b76e04937113570831753"
+    }
+  ]
+}

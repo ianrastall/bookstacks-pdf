@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_letters",
+  "work_id": "plato:letters",
+  "title": "Letters",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/letters",
+  "source_tei": "plato_letters_eng.xml",
+  "source_sha256": "00cefac5a3744b76ef89a23cff918b66158b6c3eea7472e9de19f42bdd639272",
+  "generator_fingerprint": "3c13ea4068b24ed9c92ed93aaad17faa42a28dd525cc37172c2b9451d8c03914",
+  "validations": {
+    "pdf": {
+      "pages": 73,
+      "outline_items": 13
+    }
+  },
+  "files": [
+    {
+      "name": "plato_letters_eng-light.pdf",
+      "bytes": 259521,
+      "sha256": "015cc3c87acb9d892c2514213d3788b77781d2ed23dff2b4eb8d6538edecb27a"
+    }
+  ]
+}

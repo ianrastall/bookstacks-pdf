@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "tolstoy_cossacks",
+  "work_id": "tolstoy:cossacks",
+  "title": "The Cossacks: A Tale of 1852",
+  "author": "Leo Tolstoy (1828-1910)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/tolstoy/cossacks",
+  "source_tei": "tolstoy_cossacks_eng.xml",
+  "source_sha256": "64610112a332cc0250beef20cd2c199195a6527d3dd223bc780f9d7e7b24e991",
+  "generator_fingerprint": "981922a09bc5d599a65334f719eb0344bcf0107ebd0aadaa335383bd079ec07d",
+  "validations": {
+    "pdf": {
+      "pages": 154,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "tolstoy_cossacks_eng-dark.pdf",
+      "bytes": 486099,
+      "sha256": "41fafc19083c7ef1cbb5b5343af3c04b5f1b264cc1f165b8864fe1b2cbb09f3b"
+    }
+  ]
+}

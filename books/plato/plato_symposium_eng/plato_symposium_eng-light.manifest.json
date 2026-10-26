@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_symposium",
+  "work_id": "plato:symposium",
+  "title": "Symposium",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/symposium",
+  "source_tei": "plato_symposium_eng.xml",
+  "source_sha256": "4576ff10e7fe82fd9d6f06f67c6d254a03b1055ad1d86a2febabe57d2f3447cc",
+  "generator_fingerprint": "39bb67dc1e3a3ae2316890763a48ccaa30c26ea3cd2e13540b4412d3e6c22100",
+  "validations": {
+    "pdf": {
+      "pages": 59,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_symposium_eng-light.pdf",
+      "bytes": 213453,
+      "sha256": "84f58714ab1edad389a7639aebc3bdac3ba45e13426709e4d05dc0a45d6a1a46"
+    }
+  ]
+}

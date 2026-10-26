@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-a-midsummer-nights-dream-fra",
+  "work_id": "shakespeare:a-midsummer-nights-dream",
+  "title": "Le songe d'une nuit d'été",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/a-midsummer-nights-dream",
+  "source_tei": "shakespeare_a-midsummer-nights-dream_fra.xml",
+  "source_sha256": "8fed15c77d4bf09d5ea5a4855994cd2df72b8b9e32fa98ab89cea2571ee490cc",
+  "generator_fingerprint": "26953852b414f6c2ea23bc25cb541b8c38e7bf5a107d88dd36f258310217a021",
+  "validations": {
+    "pdf": {
+      "pages": 95,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_a-midsummer-nights-dream_fra-dark.pdf",
+      "bytes": 250986,
+      "sha256": "55c1c852bb082fb0158e139ca193ea72e01c65ec3f2ff279a0551345d98188a2"
+    }
+  ]
+}

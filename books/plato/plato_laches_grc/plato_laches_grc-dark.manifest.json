@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_laches",
+  "work_id": "plato:laches",
+  "title": "Λάχης",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/laches",
+  "source_tei": "plato_laches_grc.xml",
+  "source_sha256": "6c36d85dea5aa2725d12b351f525269a4ec982296a6b950c79c6384364ecdfbc",
+  "generator_fingerprint": "9805deb2d88b02dbc16ee0d0880c3b64197d9635d1f17e9355fcdcb536710fea",
+  "validations": {
+    "pdf": {
+      "pages": 26,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_laches_grc-dark.pdf",
+      "bytes": 102374,
+      "sha256": "c1ff0d912a46c996383f70a48e3262595ce0423275947457196b7558b2336379"
+    }
+  ]
+}

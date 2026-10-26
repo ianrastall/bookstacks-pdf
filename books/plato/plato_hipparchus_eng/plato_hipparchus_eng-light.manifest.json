@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_hipparchus",
+  "work_id": "plato:hipparchus",
+  "title": "Hipparchus",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/hipparchus",
+  "source_tei": "plato_hipparchus_eng.xml",
+  "source_sha256": "1928dd5ad3104f8d9d820dd456f8bee3dc04b06006fe08c64cc96e82ffc85598",
+  "generator_fingerprint": "76ff7696d688a7165e8ced3df44fb1c5b9f6044b45d0d315ed87e5f2c9d31e72",
+  "validations": {
+    "pdf": {
+      "pages": 15,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_hipparchus_eng-light.pdf",
+      "bytes": 51606,
+      "sha256": "07f42d72dea8f31ea865705406548d56ada7ad5e79c3b0ce9a66769420dd7366"
+    }
+  ]
+}

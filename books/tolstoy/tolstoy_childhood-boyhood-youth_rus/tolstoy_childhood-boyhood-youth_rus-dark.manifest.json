@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "tolstoy_childhood-boyhood-youth",
+  "work_id": "tolstoy:childhood-boyhood-youth",
+  "title": "Детство, Отрочество, Юность",
+  "author": "Leo Tolstoy (1828-1910)",
+  "language": "ru",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/ru/authors/tolstoy/childhood-boyhood-youth",
+  "source_tei": "tolstoy_childhood-boyhood-youth_rus.xml",
+  "source_sha256": "dfd6b1e83cc4079d4b246f0c25265d3cca02bea1e06f242bda132ec19949f9af",
+  "generator_fingerprint": "515e2b4e9300e24dfd4cf8ca394b58dca1705e2e8107204c8d081f0443a49d0c",
+  "validations": {
+    "pdf": {
+      "pages": 301,
+      "outline_items": 3
+    }
+  },
+  "files": [
+    {
+      "name": "tolstoy_childhood-boyhood-youth_rus-dark.pdf",
+      "bytes": 952771,
+      "sha256": "199bb8b8bedfe5e43c27b9367c4118599910c7982da6f3a22025d226bca8b7ab"
+    }
+  ]
+}

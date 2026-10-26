@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_hipparchus",
+  "work_id": "plato:hipparchus",
+  "title": "Ἵππαρχος",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/hipparchus",
+  "source_tei": "plato_hipparchus_grc.xml",
+  "source_sha256": "d3100e244844df1381bba3b82684cef562ab84f0f9483aeb367f06504bfb3c56",
+  "generator_fingerprint": "1b69cc977d72c9e8a07a4f41fb18201b452b95147c13cc71cc76f9fe74f59163",
+  "validations": {
+    "pdf": {
+      "pages": 13,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_hipparchus_grc-dark.pdf",
+      "bytes": 55230,
+      "sha256": "853f7179b2501cae65b2385072be00cc416077ea3bedc5d2567a563b257055fb"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_laws",
+  "work_id": "plato:laws",
+  "title": "Laws",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/laws",
+  "source_tei": "plato_laws_eng.xml",
+  "source_sha256": "11f36b7cb7b0d90a90049b9feed03647f4b619d6d5bfaaab17e88f6eabce50f9",
+  "generator_fingerprint": "c7391094ef469bfb994eb4262a42de07787a2c6e1d0b753f47bf38e8f8a7b76d",
+  "validations": {
+    "pdf": {
+      "pages": 354,
+      "outline_items": 12
+    }
+  },
+  "files": [
+    {
+      "name": "plato_laws_eng-dark.pdf",
+      "bytes": 1197260,
+      "sha256": "804fd7a9019f595d22cb0a6a49d9a0ff4e48ca672a341c260141d75ee709cd29"
+    }
+  ]
+}

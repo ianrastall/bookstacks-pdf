@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-as-you-like-it",
+  "work_id": "shakespeare:as-you-like-it",
+  "title": "As You Like It",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/as-you-like-it",
+  "source_tei": "shakespeare_as-you-like-it_eng.xml",
+  "source_sha256": "f5985dbfe15052e95e42c19fd543dcae6c86dd721fbb5b38323a16d93f56b8f6",
+  "generator_fingerprint": "29058c85091aea349c635275e97ad5aae7adc0049e6ad997b6916b561c30637f",
+  "validations": {
+    "pdf": {
+      "pages": 130,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_as-you-like-it_eng-dark.pdf",
+      "bytes": 281515,
+      "sha256": "6d232a08295837baa3fbf29114e1ebe3d6c004bcd36eaa19ebc15bfb338185d6"
+    }
+  ]
+}

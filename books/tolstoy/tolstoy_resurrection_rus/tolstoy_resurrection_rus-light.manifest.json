@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "tolstoy_resurrection",
+  "work_id": "tolstoy:resurrection",
+  "title": "Воскресение. Произведения. Tolstoy Digital",
+  "author": "Leo Tolstoy (1828-1910)",
+  "language": "ru",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/ru/authors/tolstoy/resurrection",
+  "source_tei": "tolstoy_resurrection_rus.xml",
+  "source_sha256": "3b9305d76919b3cd01b2e37a6a63e55376e0b018bc10ac87a6267a5675514024",
+  "generator_fingerprint": "f53b121fa063ac7fda8f238c59e8f413cd80edefbdb098dd106828158380b613",
+  "validations": {
+    "pdf": {
+      "pages": 417,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "tolstoy_resurrection_rus-light.pdf",
+      "bytes": 1176966,
+      "sha256": "b9dc7c8d0a00bf267b7014142a3978c2dabd371582427415e779862b5f8e15b1"
+    }
+  ]
+}

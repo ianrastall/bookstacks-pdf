@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato-republic-grc-orig",
+  "work_id": "plato:republic",
+  "title": "Πολιτεία",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/republic",
+  "source_tei": "plato_republic_grc.xml",
+  "source_sha256": "a6d45741870b2294a9ac5d54f1eab0838815e6937b675ad0e1ba22f3d4e835b4",
+  "generator_fingerprint": "ce9f7d7e168e5029793ae66fcc52b735411c75f8c9bb7f0c6d5cb88362cd72d7",
+  "validations": {
+    "pdf": {
+      "pages": 205,
+      "outline_items": 10
+    }
+  },
+  "files": [
+    {
+      "name": "plato_republic_grc-dark.pdf",
+      "bytes": 763162,
+      "sha256": "8875c429319616ba52e68f7f99c59a50ca76bf7c003ef7e9a5cf39268c0ee7f4"
+    }
+  ]
+}

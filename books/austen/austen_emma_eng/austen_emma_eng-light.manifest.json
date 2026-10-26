@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "austen_emma",
+  "work_id": "austen:emma",
+  "title": "Emma",
+  "author": "Jane Austen (1775-1817)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/austen/emma",
+  "source_tei": "austen_emma_eng.xml",
+  "source_sha256": "07f4cda465f8febc069ee48d66b8537cf92238953d66834a8f16802264cc4411",
+  "generator_fingerprint": "c8cfd4f43ded5a2d42df2175ddc550d99e5aa0bd51a8e9deb339109a679e49e6",
+  "validations": {
+    "pdf": {
+      "pages": 392,
+      "outline_items": 55
+    }
+  },
+  "files": [
+    {
+      "name": "austen_emma_eng-light.pdf",
+      "bytes": 1136201,
+      "sha256": "85d187cda6e17210b33361519bfe3796909b24e9d17aedf41a647beb753f0d52"
+    }
+  ]
+}

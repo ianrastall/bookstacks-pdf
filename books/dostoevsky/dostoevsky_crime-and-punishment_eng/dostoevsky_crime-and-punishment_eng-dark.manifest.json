@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dostoevsky_crime-and-punishment",
+  "work_id": "dostoevsky:crime-and-punishment",
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky (1821-1881)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dostoevsky/crime-and-punishment",
+  "source_tei": "dostoevsky_crime-and-punishment_eng.xml",
+  "source_sha256": "9c3f4b284561213c6c22c8212a556e367e61bb42085a54598f66547105c43bcb",
+  "generator_fingerprint": "ec64c4b673b558c3b5803c45e0ee633e63123561e155d4ae0667cf5878aac9cf",
+  "validations": {
+    "pdf": {
+      "pages": 466,
+      "outline_items": 15
+    }
+  },
+  "files": [
+    {
+      "name": "dostoevsky_crime-and-punishment_eng-dark.pdf",
+      "bytes": 1479549,
+      "sha256": "8f19f13b33a14d9f65e75e036087ef7379efdcea6ffd1f587107d0b371e6445d"
+    }
+  ]
+}

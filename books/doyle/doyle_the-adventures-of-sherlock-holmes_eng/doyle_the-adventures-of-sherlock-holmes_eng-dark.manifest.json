@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-adventures-of-sherlock-holmes",
+  "work_id": "doyle:the-adventures-of-sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-adventures-of-sherlock-holmes",
+  "source_tei": "doyle_the-adventures-of-sherlock-holmes_eng.xml",
+  "source_sha256": "42c58fda692d05c47f6796b2e5140d27459c4ebd1f0d0ef5eb974215386a998e",
+  "generator_fingerprint": "0bbe1f0020a5ebfabad6d779cd4e3b9cb7845afda24c763ec25fa391c61a9cce",
+  "validations": {
+    "pdf": {
+      "pages": 248,
+      "outline_items": 12
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-adventures-of-sherlock-holmes_eng-dark.pdf",
+      "bytes": 785011,
+      "sha256": "143e2d840e725b82d80d8e20e61bd5a166c48a9ff889bfa8fb6defe472380365"
+    }
+  ]
+}

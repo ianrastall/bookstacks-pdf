@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "james-the-wings-of-the-dove",
+  "work_id": "james:the-wings-of-the-dove",
+  "title": "The Wings of the Dove",
+  "author": "Henry James (1843-1916)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/james/the-wings-of-the-dove",
+  "source_tei": "james_the-wings-of-the-dove_eng.xml",
+  "source_sha256": "52b71f9f5105044906835420068fdecf201e7ae1aec9e2bed2516adfefc53c3d",
+  "generator_fingerprint": "d02ebd677d292fc91b30590a3242060238616f837e0a41ab673ed323df8c51f5",
+  "validations": {
+    "pdf": {
+      "pages": 402,
+      "outline_items": 2
+    }
+  },
+  "files": [
+    {
+      "name": "james_the-wings-of-the-dove_eng-dark.pdf",
+      "bytes": 1331630,
+      "sha256": "64d6f94078ee101f4fe7c219b01b10b669af557ce2ab50afb094137c3b1d9a22"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "bronte-charlotte-shirley",
+  "work_id": "bronte-charlotte:shirley",
+  "title": "Shirley",
+  "author": "Charlotte Brontë (1816-1855)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/bronte-charlotte/shirley",
+  "source_tei": "bronte-charlotte_shirley_eng.xml",
+  "source_sha256": "3b95184d76e93bfe374d7e9ce2906a4775fd0eaa0641901e62891cb9374935e0",
+  "generator_fingerprint": "9e2f792b323b6ad546024b99abcec8c4267faa7a959256d9ba179d1ee217b0ba",
+  "validations": {
+    "pdf": {
+      "pages": 505,
+      "outline_items": 2
+    }
+  },
+  "files": [
+    {
+      "name": "bronte-charlotte_shirley_eng-dark.pdf",
+      "bytes": 1625764,
+      "sha256": "e2838cbeb73bc0f5996c72e2cc4831d9131404e0ba33a26cf48098911f331c84"
+    }
+  ]
+}

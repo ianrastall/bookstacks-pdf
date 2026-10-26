@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_minos",
+  "work_id": "plato:minos",
+  "title": "Minos",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/minos",
+  "source_tei": "plato_minos_eng.xml",
+  "source_sha256": "4719d3741a5b1ca37c160bb49b8d464c5758f1451f9720d6f6ba16b403b8b759",
+  "generator_fingerprint": "a3fc80c68b6ac1c15be1c14298483740b7f70d98b1d6df201b35741c8d72d47b",
+  "validations": {
+    "pdf": {
+      "pages": 21,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_minos_eng-dark.pdf",
+      "bytes": 69710,
+      "sha256": "218f118f521e678e3ba695253c4e3b3dea278d26655cbaaa8a11d3ef0f983516"
+    }
+  ]
+}

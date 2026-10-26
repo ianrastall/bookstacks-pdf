@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-hound-of-the-baskervilles",
+  "work_id": "doyle:the-hound-of-the-baskervilles",
+  "title": "The Hound of the Baskervilles",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-hound-of-the-baskervilles",
+  "source_tei": "doyle_the-hound-of-the-baskervilles_eng.xml",
+  "source_sha256": "5732d8340fc701e2099cbf0db06f1422090223a2f02f52190efffd1020fa5f1f",
+  "generator_fingerprint": "1394baca88d92f626bd178a81155519575de8c68f2478a6f03c5ec49a086c8e0",
+  "validations": {
+    "pdf": {
+      "pages": 148,
+      "outline_items": 15
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-hound-of-the-baskervilles_eng-light.pdf",
+      "bytes": 438645,
+      "sha256": "9053a7f7bbc19e9a2d4e20f8c99ddea552b5c1402e5a8fab61b74e6dd6475504"
+    }
+  ]
+}

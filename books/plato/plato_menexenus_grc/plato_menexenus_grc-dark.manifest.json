@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_menexenus",
+  "work_id": "plato:menexenus",
+  "title": "Μενέξενος",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/menexenus",
+  "source_tei": "plato_menexenus_grc.xml",
+  "source_sha256": "c4796c523b1ceb33b4c56159a30f7985435f8f3c043bb394f4c7b312230463ca",
+  "generator_fingerprint": "26784675d79ed365ed1ff695c4fffbaf503e31df40d7f0466ba685070f26e2fb",
+  "validations": {
+    "pdf": {
+      "pages": 17,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_menexenus_grc-dark.pdf",
+      "bytes": 77668,
+      "sha256": "ade876de04befbdcc7ef5257e32ca50037941400494f6d99bbfe96a3fc6efe46"
+    }
+  ]
+}

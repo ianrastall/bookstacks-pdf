@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_lovers",
+  "work_id": "plato:lovers",
+  "title": "Lovers",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/lovers",
+  "source_tei": "plato_lovers_eng.xml",
+  "source_sha256": "a66d46235ec9d0f43a12e29393ca681a1e853f393ce81b5ef0b96e67b1b8dc5f",
+  "generator_fingerprint": "ef751fa3343a5534fb9805f5d126406d8b5fc74f76aa067710820fb71f97ffc2",
+  "validations": {
+    "pdf": {
+      "pages": 15,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_lovers_eng-light.pdf",
+      "bytes": 54813,
+      "sha256": "2495594cfae3d08a35be14011d62846f2b1151da28f83dbde75aca78f6e8f6ec"
+    }
+  ]
+}

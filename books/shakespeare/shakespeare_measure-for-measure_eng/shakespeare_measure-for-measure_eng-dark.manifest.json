@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-measure-for-measure",
+  "work_id": "shakespeare:measure-for-measure",
+  "title": "Measure for Measure",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/measure-for-measure",
+  "source_tei": "shakespeare_measure-for-measure_eng.xml",
+  "source_sha256": "152ce2046fb48ca9375290e3a836ca4db01d510421dd3062110d842300cf9a52",
+  "generator_fingerprint": "47bc532905129f516fc7c1a64d23cb60dc56e3c0488faa0528afdeeac9dcfd47",
+  "validations": {
+    "pdf": {
+      "pages": 145,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_measure-for-measure_eng-dark.pdf",
+      "bytes": 306283,
+      "sha256": "6ac8881df2010d6f559ed4548a117226de8976494df9fe5ac3391b899ada7faf"
+    }
+  ]
+}

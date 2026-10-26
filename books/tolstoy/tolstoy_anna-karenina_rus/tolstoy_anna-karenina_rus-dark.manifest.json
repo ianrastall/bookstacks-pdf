@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "tolstoy_anna-karenina",
+  "work_id": "tolstoy:anna-karenina",
+  "title": "Анна Каренина",
+  "author": "Leo Tolstoy (1828-1910)",
+  "language": "ru",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/ru/authors/tolstoy/anna-karenina",
+  "source_tei": "tolstoy_anna-karenina_rus.xml",
+  "source_sha256": "6d57c873ffe789932b3f90376a78fd3be77d10c8b6c17b86e4d688a0f6ddb645",
+  "generator_fingerprint": "b3985384ddad5d6a79d1dcc5305b08c789d8a34c6331988da416e8f017d6843a",
+  "validations": {
+    "pdf": {
+      "pages": 798,
+      "outline_items": 2
+    }
+  },
+  "files": [
+    {
+      "name": "tolstoy_anna-karenina_rus-dark.pdf",
+      "bytes": 2343742,
+      "sha256": "7f52d0d4eb3885bb0b98f568396c08ffc057105cca8a5011ed425ff3c1deb618"
+    }
+  ]
+}

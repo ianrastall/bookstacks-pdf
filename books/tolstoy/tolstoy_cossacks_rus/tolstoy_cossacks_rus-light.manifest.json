@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "tolstoy_cossacks",
+  "work_id": "tolstoy:cossacks",
+  "title": "Казаки. Произведения. Tolstoy Digital",
+  "author": "Leo Tolstoy (1828-1910)",
+  "language": "ru",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/ru/authors/tolstoy/cossacks",
+  "source_tei": "tolstoy_cossacks_rus.xml",
+  "source_sha256": "5bf99b36b985cd6718b9b6fbcaaba3632e48d8bc9251135ba271d2dfdbacbc1e",
+  "generator_fingerprint": "798daee214bbb0b3a5f1eb0d460e9344f77c792b28ff1c399c463ca9c5787b46",
+  "validations": {
+    "pdf": {
+      "pages": 169,
+      "outline_items": 43
+    }
+  },
+  "files": [
+    {
+      "name": "tolstoy_cossacks_rus-light.pdf",
+      "bytes": 449574,
+      "sha256": "a25f386511fd78f46d0fa09acc9d42682003a14d9c9edee92a2d637c6b02d0a7"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-antony-and-cleopatra-fra",
+  "work_id": "shakespeare:antony-and-cleopatra",
+  "title": "Antoine et Cléopâtre",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/antony-and-cleopatra",
+  "source_tei": "shakespeare_antony-and-cleopatra_fra.xml",
+  "source_sha256": "bcabb7c8badebf86db6ff1cfce74f4a4c41be843a61a217906d23fc25bd23937",
+  "generator_fingerprint": "ac8ef49e91b2571f85d8fc5a74574de331f5072dcb81d17a851533d7973624f1",
+  "validations": {
+    "pdf": {
+      "pages": 169,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_antony-and-cleopatra_fra-light.pdf",
+      "bytes": 343934,
+      "sha256": "ce8c5295a21a77635422e58eead9d67453a66f40d702a92eab3d2301ea7d2bc4"
+    }
+  ]
+}

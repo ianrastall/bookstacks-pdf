@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_greater-hippias",
+  "work_id": "plato:greater-hippias",
+  "title": "Ἱππίας μείζων",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/greater-hippias",
+  "source_tei": "plato_greater-hippias_grc.xml",
+  "source_sha256": "aa590fc54f716f0e7d9bdbee29ffc90eb6f60bf40441edb0be76ce5732a827f7",
+  "generator_fingerprint": "ed13902a4d8fac01f50c1194b6dfb69213b17a0681a5e1320de1f2af308af5b2",
+  "validations": {
+    "pdf": {
+      "pages": 28,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_greater-hippias_grc-dark.pdf",
+      "bytes": 106710,
+      "sha256": "282cd6baebe53a27a8b2f95285f29ebf5946acc9402ea74de35915f3ec570d5f"
+    }
+  ]
+}

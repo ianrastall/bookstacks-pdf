@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-titus-andronicus-fra",
+  "work_id": "shakespeare:titus-andronicus",
+  "title": "Titus Andronicus",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/titus-andronicus",
+  "source_tei": "shakespeare_titus-andronicus_fra.xml",
+  "source_sha256": "686a30906370e7ac87a0839db37ef767760b9df076462aa4bbe515003277e13a",
+  "generator_fingerprint": "dae35b43a1d10a8ca2157bcc36681c4422cc66c588a30cb800a9874cbd35ed8d",
+  "validations": {
+    "pdf": {
+      "pages": 109,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_titus-andronicus_fra-light.pdf",
+      "bytes": 262731,
+      "sha256": "d991a41f2b0177d979ea117577ba7e6f6135941b781d0a365ae45e694f57d2ab"
+    }
+  ]
+}

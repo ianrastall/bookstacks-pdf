@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-alls-well-that-ends-well",
+  "work_id": "shakespeare:alls-well-that-ends-well",
+  "title": "All's Well That Ends Well",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/alls-well-that-ends-well",
+  "source_tei": "shakespeare_alls-well-that-ends-well_eng.xml",
+  "source_sha256": "24e296f3580816274d6bed6f10e0a632cd3c585b091298ed57c0a274aab74506",
+  "generator_fingerprint": "cff369a1afd37bb7160ef3c71060ef2cffa777616726cacdc7fe8863c617c4a6",
+  "validations": {
+    "pdf": {
+      "pages": 148,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_alls-well-that-ends-well_eng-light.pdf",
+      "bytes": 298053,
+      "sha256": "8e96ff10fa20114ea3e12ede4844f3e4ca04c4faf9820f547ac178c96ae38cae"
+    }
+  ]
+}

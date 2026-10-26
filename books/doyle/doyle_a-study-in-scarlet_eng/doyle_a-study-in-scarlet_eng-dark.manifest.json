@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_a-study-in-scarlet",
+  "work_id": "doyle:a-study-in-scarlet",
+  "title": "A Study in Scarlet",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/a-study-in-scarlet",
+  "source_tei": "doyle_a-study-in-scarlet_eng.xml",
+  "source_sha256": "aeabfed73604758159d9b9373c7b32bc5fcf484dcf0a6de844057b674c69e160",
+  "generator_fingerprint": "4fd7f5307afa49076f31733f95feaad13b0c3b43ca0284e8cb249c2cdd93a9a0",
+  "validations": {
+    "pdf": {
+      "pages": 102,
+      "outline_items": 4
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_a-study-in-scarlet_eng-dark.pdf",
+      "bytes": 343611,
+      "sha256": "97f86de4237236518ed4ef3776793023cea396aa5963cbb57001f98b3e250107"
+    }
+  ]
+}

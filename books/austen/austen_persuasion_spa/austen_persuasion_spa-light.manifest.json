@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "austen-persuasion-spa",
+  "work_id": "austen:persuasion",
+  "title": "Persuasión",
+  "author": "Jane Austen (1775-1817)",
+  "language": "es",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/es/authors/austen/persuasion",
+  "source_tei": "austen_persuasion_spa.xml",
+  "source_sha256": "7e21cb878d4af59b208d114e3bc2a9d4b45934a7e77a0404792be9ed3f2abeda",
+  "generator_fingerprint": "1d3304df8bfc53a8d580a3bb25e2647228c163d94740ff54c8cb529d31eb1212",
+  "validations": {
+    "pdf": {
+      "pages": 203,
+      "outline_items": 27
+    }
+  },
+  "files": [
+    {
+      "name": "austen_persuasion_spa-light.pdf",
+      "bytes": 579085,
+      "sha256": "e2b91debcb70ec0565f920acae4029aa83123b3ecf8e279c54b32cdea103bd0d"
+    }
+  ]
+}

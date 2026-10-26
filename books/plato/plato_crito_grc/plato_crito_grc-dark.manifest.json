@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_crito",
+  "work_id": "plato:crito",
+  "title": "Κρίτων",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/crito",
+  "source_tei": "plato_crito_grc.xml",
+  "source_sha256": "e52eab78213caabb9966919c9ae535f5d4b619ad23c233d77a06617ff1eda66f",
+  "generator_fingerprint": "1c49ca0b6b2e43847c25a3a97d97541e01a063a9d8e01880b28e293872d9f962",
+  "validations": {
+    "pdf": {
+      "pages": 16,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_crito_grc-dark.pdf",
+      "bytes": 71723,
+      "sha256": "1d8af6f14a9a0c5ddf9f3bd83818bba8a8a32fda9941d6560b4c7efbd61e35f9"
+    }
+  ]
+}

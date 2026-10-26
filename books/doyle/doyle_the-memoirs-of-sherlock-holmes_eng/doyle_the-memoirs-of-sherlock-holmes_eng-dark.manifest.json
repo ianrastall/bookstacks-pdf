@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-memoirs-of-sherlock-holmes",
+  "work_id": "doyle:the-memoirs-of-sherlock-holmes",
+  "title": "The Memoirs of Sherlock Holmes",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-memoirs-of-sherlock-holmes",
+  "source_tei": "doyle_the-memoirs-of-sherlock-holmes_eng.xml",
+  "source_sha256": "122b6b9e2468c2447e33a03c641400c78280df701f4ebf0b1b80d7d2f34fe072",
+  "generator_fingerprint": "e5256d4622542842e3c8b50621da58cf09af391a1a669d6523aad1db109c56dc",
+  "validations": {
+    "pdf": {
+      "pages": 224,
+      "outline_items": 12
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-memoirs-of-sherlock-holmes_eng-dark.pdf",
+      "bytes": 2171560,
+      "sha256": "96e2de3098a8c522dd51fbd0e8b1b92f5dfdcd8811026bd9b7cfa8939acfb310"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "austen-northanger-abbey-spa",
+  "work_id": "austen:northanger-abbey",
+  "title": "La abadía de Northanger",
+  "author": "Jane Austen (1775-1817)",
+  "language": "es",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/es/authors/austen/northanger-abbey",
+  "source_tei": "austen_northanger-abbey_spa.xml",
+  "source_sha256": "303f1fc24ad6b10ed6c6d3e98e63860a5364bd6fcbed893e4a94bd8f71b50cb9",
+  "generator_fingerprint": "7e86bce76163418615eda71430349a1700bb10c7c16bd42af4d35260c472c3bf",
+  "validations": {
+    "pdf": {
+      "pages": 204,
+      "outline_items": 32
+    }
+  },
+  "files": [
+    {
+      "name": "austen_northanger-abbey_spa-dark.pdf",
+      "bytes": 590013,
+      "sha256": "bed6bb040c3ecfd7af8853f0484640a32a442d5055edf8ea8a22eab22e119e43"
+    }
+  ]
+}

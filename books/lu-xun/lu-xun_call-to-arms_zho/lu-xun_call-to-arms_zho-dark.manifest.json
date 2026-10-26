@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "lu-xun_call-to-arms_zho",
+  "work_id": "lu-xun:call-to-arms",
+  "title": "呐喊",
+  "author": "鲁迅 (1881—1936)",
+  "language": "zh-Hans",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/zh-Hans/authors/lu-xun/call-to-arms",
+  "source_tei": "lu-xun_call-to-arms_zho.xml",
+  "source_sha256": "adbdc4fea7e6cb0ba315d617f597316990f801b2255cab1120752f380447e5ec",
+  "generator_fingerprint": "6b7b626444f66e92aa2b10bfd45854cb6138bbf0fedc8d9635dd21408b7cb7eb",
+  "validations": {
+    "pdf": {
+      "pages": 88,
+      "outline_items": 15
+    }
+  },
+  "files": [
+    {
+      "name": "lu-xun_call-to-arms_zho-dark.pdf",
+      "bytes": 944079,
+      "sha256": "9fc76fcaee37ed03d5ac4fdefeb434c99d9917859211c4b2e3162268ad129c95"
+    }
+  ]
+}

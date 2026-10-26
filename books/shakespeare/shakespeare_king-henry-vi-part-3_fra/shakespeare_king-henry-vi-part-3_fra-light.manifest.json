@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-henry-vi-part-3-fra",
+  "work_id": "shakespeare:king-henry-vi-part-3",
+  "title": "Henri VI (3/3)",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/king-henry-vi-part-3",
+  "source_tei": "shakespeare_king-henry-vi-part-3_fra.xml",
+  "source_sha256": "5fb4618f70918ee3539dbc5874a0be177eb22ab79bf98ed028ae738e5deb4a7f",
+  "generator_fingerprint": "f23c1ee11c8398bfe9e6cc69fc084abbfd153562fb0cb0ee55d6cc6fd21d6a14",
+  "validations": {
+    "pdf": {
+      "pages": 133,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-henry-vi-part-3_fra-light.pdf",
+      "bytes": 304696,
+      "sha256": "4df41e108744187589ca9a655e9ddac82887b4049beae8b250a6a68572984a93"
+    }
+  ]
+}

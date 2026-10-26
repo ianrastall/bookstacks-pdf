@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-complete-sherlock-holmes_eng",
+  "work_id": "doyle:the-complete-sherlock-holmes",
+  "title": "The Complete Sherlock Holmes",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-complete-sherlock-holmes",
+  "source_tei": "doyle_the-complete-sherlock-holmes_eng.xml",
+  "source_sha256": "edb2a78ae9f511486abffb38c60522b1eba74c5da870b8f133bf503963b5323a",
+  "generator_fingerprint": "6499d9d33e2cffdb0ca9f0b3d6b303da8b886ceaa3b1612383e0d6cfd1938d58",
+  "validations": {
+    "pdf": {
+      "pages": 1599,
+      "outline_items": 71
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-complete-sherlock-holmes_eng-dark.pdf",
+      "bytes": 61011432,
+      "sha256": "673d6e431fb4c69eed7bdd5eefa1192416866e9a1fa5c8faecdb3d1f1b093694"
+    }
+  ]
+}

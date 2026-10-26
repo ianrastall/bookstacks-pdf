@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-cymbeline-fra",
+  "work_id": "shakespeare:cymbeline",
+  "title": "Cymbeline: Tragédie",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/cymbeline",
+  "source_tei": "shakespeare_cymbeline_fra.xml",
+  "source_sha256": "5417f19c65a5fd19459beaf042059720169738d2f6ab91734f5dae91f7394b3b",
+  "generator_fingerprint": "b34e5c514f0bd9dfadd0bdabab4e9940e592ba6961a40bd780aca6b19cf194f8",
+  "validations": {
+    "pdf": {
+      "pages": 150,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_cymbeline_fra-dark.pdf",
+      "bytes": 359757,
+      "sha256": "179f1f5b93d1b14b4306bcda1068a4c52a0914fb7b33d5b75c3feb1953081b58"
+    }
+  ]
+}

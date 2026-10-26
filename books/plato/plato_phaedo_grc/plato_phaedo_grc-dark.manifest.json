@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_phaedo",
+  "work_id": "plato:phaedo",
+  "title": "Φαίδων",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/phaedo",
+  "source_tei": "plato_phaedo_grc.xml",
+  "source_sha256": "3c3f6924fc4faae7fda1ff4459a985849d9f85b3a7a629b24bede4831e810905",
+  "generator_fingerprint": "f7dd4541ee06725f9af3cae6d2b193ebcb5f34ed57cf43e3febcac78f925eb42",
+  "validations": {
+    "pdf": {
+      "pages": 53,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_phaedo_grc-dark.pdf",
+      "bytes": 217227,
+      "sha256": "fa2657789d3f288316147f50c0605fb3747e749096dd65e9de8e9ab816140774"
+    }
+  ]
+}

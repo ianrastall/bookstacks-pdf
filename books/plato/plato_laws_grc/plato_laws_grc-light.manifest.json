@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_laws",
+  "work_id": "plato:laws",
+  "title": "Νόμοι",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/laws",
+  "source_tei": "plato_laws_grc.xml",
+  "source_sha256": "108cd55a9ced7d5c2e979b43977d1f52d7b404e66ab7a9e283d122558e1514da",
+  "generator_fingerprint": "c6c40d18469b743bf3b01a0a279f0a791467dcbf12502ad3a189a25520afc95c",
+  "validations": {
+    "pdf": {
+      "pages": 271,
+      "outline_items": 12
+    }
+  },
+  "files": [
+    {
+      "name": "plato_laws_grc-light.pdf",
+      "bytes": 894724,
+      "sha256": "4e7e8eb55f4ba3e8b72d25e350014ae75fb46f5c25e8b1dcc6603466fcef227f"
+    }
+  ]
+}

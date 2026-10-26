@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato-republic-eng-shorey",
+  "work_id": "plato:republic",
+  "title": "The Republic",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/republic",
+  "source_tei": "plato_republic_eng.xml",
+  "source_sha256": "4ebcc220dedd2760cff12877807288d5c1dacad7974d9eb69241062f8db2df27",
+  "generator_fingerprint": "99dcddfebec7fb92063833d4015170814d58b7d15aa57cb912fe8eb25ae5c08c",
+  "validations": {
+    "pdf": {
+      "pages": 480,
+      "outline_items": 10
+    }
+  },
+  "files": [
+    {
+      "name": "plato_republic_eng-dark.pdf",
+      "bytes": 2047287,
+      "sha256": "9f7c4e2f3f4d40ab62ee6a8e0494d3314905380ee98d5518e7db6d219e07c59c"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "turgenev-rudin",
+  "work_id": "turgenev:rudin",
+  "title": "Рудин",
+  "author": "Ivan Turgenev (1818-1883)",
+  "language": "ru",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/ru/authors/turgenev/rudin",
+  "source_tei": "turgenev_rudin_rus.xml",
+  "source_sha256": "71a6287e0f119a7493e8dabbd0069166c81b0571bd70e456638b4230675bef6d",
+  "generator_fingerprint": "59f70aff8177ea741a945a55f3c760c0ff33a1bbfd3a377ccce57f14bb20ff66",
+  "validations": {
+    "pdf": {
+      "pages": 125,
+      "outline_items": 13
+    }
+  },
+  "files": [
+    {
+      "name": "turgenev_rudin_rus-light.pdf",
+      "bytes": 349295,
+      "sha256": "cedebd0bdbc3e00217fee28aff090647a37f2cb46f1bdaa5f9397b17f22cf715"
+    }
+  ]
+}

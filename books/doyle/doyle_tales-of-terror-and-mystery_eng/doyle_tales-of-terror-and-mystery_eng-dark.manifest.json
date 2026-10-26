@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_tales-of-terror-and-mystery",
+  "work_id": "doyle:tales-of-terror-and-mystery",
+  "title": "Tales of Terror and Mystery",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/tales-of-terror-and-mystery",
+  "source_tei": "doyle_tales-of-terror-and-mystery_eng.xml",
+  "source_sha256": "c9bdff4e91b1758cae1c635c88eebf0906b503f60cc633527f9fb514482ccaa2",
+  "generator_fingerprint": "a40f558a24b76a722ba5f20647ebc0249ae131442e9b05ff86f4d9f6ace79020",
+  "validations": {
+    "pdf": {
+      "pages": 167,
+      "outline_items": 4
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_tales-of-terror-and-mystery_eng-dark.pdf",
+      "bytes": 549517,
+      "sha256": "849ff442e6ec6a1356ff73fe2f6c6e6d212358920194e46abe899ff989dae834"
+    }
+  ]
+}

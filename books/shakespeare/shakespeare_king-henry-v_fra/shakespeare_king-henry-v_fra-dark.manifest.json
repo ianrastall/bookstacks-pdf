@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-henry-v-fra",
+  "work_id": "shakespeare:king-henry-v",
+  "title": "Henri V",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/king-henry-v",
+  "source_tei": "shakespeare_king-henry-v_fra.xml",
+  "source_sha256": "756215826c3467020e16db906ceec0a876598be71a4a8cb2d54f1367fa4d12b5",
+  "generator_fingerprint": "cd1e86247bbb456c4e3ea34c4477260648f2e2c25e8f3bc0afbee43a6badef6d",
+  "validations": {
+    "pdf": {
+      "pages": 134,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-henry-v_fra-dark.pdf",
+      "bytes": 334076,
+      "sha256": "72a4724859b06d4bbbc1510e8f798818aa6b316dab07c8e91963503dba8fc018"
+    }
+  ]
+}

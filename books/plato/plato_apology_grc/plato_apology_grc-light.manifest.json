@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_apology",
+  "work_id": "plato:apology",
+  "title": "Ἀπολογία Σωκράτους",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/apology",
+  "source_tei": "plato_apology_grc.xml",
+  "source_sha256": "d311cac44bbfdf05dfed8f2cf55520efa45e738a77578da520f5907fb16248d6",
+  "generator_fingerprint": "42b71e70b34f7a03456dd64f660cd020337c55e851417d7ad5bae0ce781e106a",
+  "validations": {
+    "pdf": {
+      "pages": 25,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_apology_grc-light.pdf",
+      "bytes": 108149,
+      "sha256": "8f8deacc277f5be72e54cc2da9e4cd4adca4117c9648687ba6107b0261dbf05b"
+    }
+  ]
+}

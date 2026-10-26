@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_cratylus",
+  "work_id": "plato:cratylus",
+  "title": "Κρατύλος",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/cratylus",
+  "source_tei": "plato_cratylus_grc.xml",
+  "source_sha256": "5b52853069273d453052c98e507e24d56340f97f5196cd4058eda3d67dfdfd01",
+  "generator_fingerprint": "6e5ea2016e7e4503f8b7976dcda81da533852d77d76e599d568c297dc3a6d25a",
+  "validations": {
+    "pdf": {
+      "pages": 56,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_cratylus_grc-light.pdf",
+      "bytes": 193845,
+      "sha256": "bbf24504aacff8d851567775e778032d4b2e43ddff8c32f5a17d18960b55a08f"
+    }
+  ]
+}

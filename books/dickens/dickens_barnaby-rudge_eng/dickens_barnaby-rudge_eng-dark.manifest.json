@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dickens_barnaby-rudge",
+  "work_id": "dickens:barnaby-rudge",
+  "title": "Barnaby Rudge: A Tale of the Riots of 'Eighty",
+  "author": "Charles Dickens (1812-1870)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dickens/barnaby-rudge",
+  "source_tei": "dickens_barnaby-rudge_eng.xml",
+  "source_sha256": "0b6f000f9675394d5ae9cf4ed55fa65b15cf4ce273c2da9bef65948c74df1ab5",
+  "generator_fingerprint": "f8c7b23263b9475d6e256fb60ac2171b70f7b0f90fbe4038d7b1ee8d6936ea55",
+  "validations": {
+    "pdf": {
+      "pages": 626,
+      "outline_items": 83
+    }
+  },
+  "files": [
+    {
+      "name": "dickens_barnaby-rudge_eng-dark.pdf",
+      "bytes": 1866890,
+      "sha256": "3324d0aad0ef37df044103a7de5e9aa9281dbe46a06ad78502d3bebb614f48c8"
+    }
+  ]
+}

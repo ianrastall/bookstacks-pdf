@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_symposium",
+  "work_id": "plato:symposium",
+  "title": "Συμπόσιον",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/symposium",
+  "source_tei": "plato_symposium_grc.xml",
+  "source_sha256": "c9177c642dde7d6e7d2612dc896f8b62df92b6d84ec43105d3745ad3257ae3c3",
+  "generator_fingerprint": "47585d54c2e81a317afb938cf4da1ee1777497470a1420d4f866f5dcdd979d2c",
+  "validations": {
+    "pdf": {
+      "pages": 43,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_symposium_grc-light.pdf",
+      "bytes": 179945,
+      "sha256": "fb8741404dd9e946f8b79b6d4973786c0f95bf42b2387cbf019bc7023a8ce879"
+    }
+  ]
+}

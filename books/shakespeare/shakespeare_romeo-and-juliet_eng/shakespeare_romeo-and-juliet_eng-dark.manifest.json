@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-romeo-and-juliet",
+  "work_id": "shakespeare:romeo-and-juliet",
+  "title": "Romeo and Juliet",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/romeo-and-juliet",
+  "source_tei": "shakespeare_romeo-and-juliet_eng.xml",
+  "source_sha256": "413368cde25fdf2125235fc899b0f3d0eb255972f1d0e01b2cc92321d8531875",
+  "generator_fingerprint": "7d7bdbee4467fbc4e3dcaab45837cbba015442ce8e0064da3a09625c4ba9ebf7",
+  "validations": {
+    "pdf": {
+      "pages": 158,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_romeo-and-juliet_eng-dark.pdf",
+      "bytes": 360863,
+      "sha256": "f1dfa53e19c89d842c545912bb668546a892040920fe46e35b3c8581879369ca"
+    }
+  ]
+}

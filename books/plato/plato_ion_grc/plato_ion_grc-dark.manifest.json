@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_ion",
+  "work_id": "plato:ion",
+  "title": "Ἴων",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/ion",
+  "source_tei": "plato_ion_grc.xml",
+  "source_sha256": "e712556fa299da2959d8d7df047d1350f528e61c636012fb7e2e69b0d9a25eea",
+  "generator_fingerprint": "bdc2f7d2a9a35d69bacfcabaea53ed81f459742194870a0bc44df5a3a44edc38",
+  "validations": {
+    "pdf": {
+      "pages": 16,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_ion_grc-dark.pdf",
+      "bytes": 70466,
+      "sha256": "5567e01777aed1d4c7ac4e9021044dd2091e89c2ce323ba5eae965a3fb29e2e3"
+    }
+  ]
+}

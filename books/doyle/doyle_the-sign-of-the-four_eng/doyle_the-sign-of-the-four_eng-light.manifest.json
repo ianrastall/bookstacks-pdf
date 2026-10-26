@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-sign-of-the-four",
+  "work_id": "doyle:the-sign-of-the-four",
+  "title": "The Sign of the Four",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-sign-of-the-four",
+  "source_tei": "doyle_the-sign-of-the-four_eng.xml",
+  "source_sha256": "7dfed0eca5059cf0459a4c2df26471b21a12e56842185381929dbc736f22b3c2",
+  "generator_fingerprint": "cad9d0d8376762101aa65ad6362e9481ef056ae7c9065eaa77d50052d81b0bd8",
+  "validations": {
+    "pdf": {
+      "pages": 106,
+      "outline_items": 12
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-sign-of-the-four_eng-light.pdf",
+      "bytes": 331483,
+      "sha256": "8d573fe991cd251f2a3d318cb7f8734045dec0419624d1421d06617c9daa8699"
+    }
+  ]
+}

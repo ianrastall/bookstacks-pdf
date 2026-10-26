@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_alcibiades-2",
+  "work_id": "plato:alcibiades-2",
+  "title": "Ἀλκιβιάδης βʹ",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/alcibiades-2",
+  "source_tei": "plato_alcibiades-2_grc.xml",
+  "source_sha256": "393e12cabfb3dad52a1857e568d1c99878f8eff1eb692d99d79cf4ae78b40817",
+  "generator_fingerprint": "b7169054847a0ebb47b2659d0c70f808e67d1304759c598dafd7d582769b61e9",
+  "validations": {
+    "pdf": {
+      "pages": 18,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_alcibiades-2_grc-light.pdf",
+      "bytes": 76719,
+      "sha256": "afb6b54a15d08fab1464663cd4ab2e3c589b85819d00f6fc412189ef72359177"
+    }
+  ]
+}

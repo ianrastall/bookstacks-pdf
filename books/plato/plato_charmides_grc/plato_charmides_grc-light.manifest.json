@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_charmides",
+  "work_id": "plato:charmides",
+  "title": "Χαρμίδης",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/charmides",
+  "source_tei": "plato_charmides_grc.xml",
+  "source_sha256": "653fb4468dd6928d9545e4384cd04fcafa72fff0116450c263b26d7c2b3b1530",
+  "generator_fingerprint": "e158ec4f97dbebf19ec4fb6abcd272729734fae4c14ede3e037cbf349bbffbc0",
+  "validations": {
+    "pdf": {
+      "pages": 23,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_charmides_grc-light.pdf",
+      "bytes": 99773,
+      "sha256": "e2526a285b01cd9a29da7708ac6131da08cad9b4fe14d8d60f6613e460e8fbce"
+    }
+  ]
+}

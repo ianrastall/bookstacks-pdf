@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_sir-nigel",
+  "work_id": "doyle:sir-nigel",
+  "title": "Sir Nigel",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/sir-nigel",
+  "source_tei": "doyle_sir-nigel_eng.xml",
+  "source_sha256": "731836572fdf33891f930f1e9e4d7a9a7ee9065b0318ce8d287111866564719f",
+  "generator_fingerprint": "f5013516dbf5f6030022eb32381c9e55473af6515f03aac38d65ee6c3a90f109",
+  "validations": {
+    "pdf": {
+      "pages": 302,
+      "outline_items": 28
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_sir-nigel_eng-dark.pdf",
+      "bytes": 949537,
+      "sha256": "adee055de60b4c79506ab8d8c8c75705ce3d4337266de3b0479bb73b856783c9"
+    }
+  ]
+}

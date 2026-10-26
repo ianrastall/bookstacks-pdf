@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "james-the-bostonians",
+  "work_id": "james:the-bostonians",
+  "title": "The Bostonians",
+  "author": "Henry James (1843-1916)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/james/the-bostonians",
+  "source_tei": "james_the-bostonians_eng.xml",
+  "source_sha256": "d85b26ef20e3692a67672ad5dadc9050aa834abc0dd8afb0ef7e63a8275fdfb7",
+  "generator_fingerprint": "af8fb4f6b1ba3c44cde44a813c687a9cf8745141da254d3dd0127ce9c4c7624a",
+  "validations": {
+    "pdf": {
+      "pages": 347,
+      "outline_items": 2
+    }
+  },
+  "files": [
+    {
+      "name": "james_the-bostonians_eng-dark.pdf",
+      "bytes": 1162825,
+      "sha256": "adfac7025b7efd86ac21e2e504a94c54f17ad8731c02c78b7b38b73684b1bf44"
+    }
+  ]
+}

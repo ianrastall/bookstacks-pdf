@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-the-tempest",
+  "work_id": "shakespeare:the-tempest",
+  "title": "The Tempest",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/the-tempest",
+  "source_tei": "shakespeare_the-tempest_eng.xml",
+  "source_sha256": "beea0a73578d5714bdfe764a81a36f789f5cc43fa609d714fc014dc82c619785",
+  "generator_fingerprint": "6c81d876bb65851bc56d9a2bbf6d436b709b7ae55126ee720a1f8a2141bb2f96",
+  "validations": {
+    "pdf": {
+      "pages": 119,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_the-tempest_eng-light.pdf",
+      "bytes": 250649,
+      "sha256": "ea1b0d87aaca6bc264221ba3e7d3089f233ad91289a8a4968a867a2616da9b16"
+    }
+  ]
+}

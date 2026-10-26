@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-julius-caesar-fra",
+  "work_id": "shakespeare:julius-caesar",
+  "title": "Jules César",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/julius-caesar",
+  "source_tei": "shakespeare_julius-caesar_fra.xml",
+  "source_sha256": "0e9b87a0f519f3b81bb6ee1ff80223f88d54ee4e70f96270c153ad8c109c4d1b",
+  "generator_fingerprint": "2740b3b306d417ba76e1e4ac8e7e5305c86ce7d9b7355009dc38ce20d9f8cff1",
+  "validations": {
+    "pdf": {
+      "pages": 130,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_julius-caesar_fra-light.pdf",
+      "bytes": 291419,
+      "sha256": "3bf787e44db4975a86d46533b131f1024f08706ba398cc8499f8d0bd4eb802ee"
+    }
+  ]
+}

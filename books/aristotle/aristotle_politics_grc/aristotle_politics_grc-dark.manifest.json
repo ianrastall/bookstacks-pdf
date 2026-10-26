@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "aristotle_politics",
+  "work_id": "aristotle:politics",
+  "title": "Πολιτικά",
+  "author": "Aristotle (384-322 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/aristotle/politics",
+  "source_tei": "aristotle_politics_grc.xml",
+  "source_sha256": "b37583f98640f09668616b70ed95136b87c6c34e2fe75a300a16bc3bd3062278",
+  "generator_fingerprint": "6b91293cd8a217fee7aca9ab8985c136f71d85a69a65deaa9b849617fbf28e6f",
+  "validations": {
+    "pdf": {
+      "pages": 159,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "aristotle_politics_grc-dark.pdf",
+      "bytes": 580447,
+      "sha256": "3ae5af783c966003690d4d42ad01c4fb6a0a6f2fbd992c0e4803a95089d8bb68"
+    }
+  ]
+}

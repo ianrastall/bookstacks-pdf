@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-much-ado-about-nothing",
+  "work_id": "shakespeare:much-ado-about-nothing",
+  "title": "Much Ado about Nothing",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/much-ado-about-nothing",
+  "source_tei": "shakespeare_much-ado-about-nothing_eng.xml",
+  "source_sha256": "2948704412738b7e8d81868c9afc6d069e5c9211cebdf39197c9040d3dc738e7",
+  "generator_fingerprint": "beab3f6659f11814e85c450800b130bad041beada1988fb03e4368777b97bc66",
+  "validations": {
+    "pdf": {
+      "pages": 132,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_much-ado-about-nothing_eng-dark.pdf",
+      "bytes": 269787,
+      "sha256": "a41e5dca115bcc4730fa474bf945aa08080c403546c032c0b1bdad6e1266bb05"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dickens_martin-chuzzlewit",
+  "work_id": "dickens:martin-chuzzlewit",
+  "title": "Martin Chuzzlewit",
+  "author": "Charles Dickens (1812-1870)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dickens/martin-chuzzlewit",
+  "source_tei": "dickens_martin-chuzzlewit_eng.xml",
+  "source_sha256": "e923e3d0aff77ae7161ec8ad00fd3cc621caae745a2a59f2b6699e83a9a74223",
+  "generator_fingerprint": "88a641616365536ed9e1a6958c3ae369d11f2b828d18cd165b63507401cb2f00",
+  "validations": {
+    "pdf": {
+      "pages": 811,
+      "outline_items": 56
+    }
+  },
+  "files": [
+    {
+      "name": "dickens_martin-chuzzlewit_eng-dark.pdf",
+      "bytes": 2605185,
+      "sha256": "349963c4bd7fd99a03d681f1ef0715f683ec257832de5f4301bce7420efd49e2"
+    }
+  ]
+}

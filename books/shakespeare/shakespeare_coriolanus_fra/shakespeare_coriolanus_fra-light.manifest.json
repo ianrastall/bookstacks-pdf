@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-coriolanus-fra",
+  "work_id": "shakespeare:coriolanus",
+  "title": "Coriolan",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/coriolanus",
+  "source_tei": "shakespeare_coriolanus_fra.xml",
+  "source_sha256": "138c51d99e48da2cfe359210231fd3b14fa1c57280348cde1a14bd6f18fd87ad",
+  "generator_fingerprint": "64b7cea959f107da1d548d34b8fe88cc641e73d2b7bdc28790e9efdecd64d980",
+  "validations": {
+    "pdf": {
+      "pages": 167,
+      "outline_items": 9
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_coriolanus_fra-light.pdf",
+      "bytes": 348416,
+      "sha256": "aadd5c957ed27b204d36313d553bf31e1d161fb1e810ae2c0e5375a3da8a2340"
+    }
+  ]
+}

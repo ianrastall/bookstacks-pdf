@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-richard-ii-fra",
+  "work_id": "shakespeare:king-richard-ii",
+  "title": "La vie et la mort du roi Richard II",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/king-richard-ii",
+  "source_tei": "shakespeare_king-richard-ii_fra.xml",
+  "source_sha256": "35013a2fd50f0342f96a20037a79745e45ff98016e30c310266b6965aa307787",
+  "generator_fingerprint": "21550d016fae5ae20b9d874a3731f3bb1d1f5512b0b4a88e7a4f2bdb62fcbb0c",
+  "validations": {
+    "pdf": {
+      "pages": 119,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-richard-ii_fra-dark.pdf",
+      "bytes": 313138,
+      "sha256": "d605195d77e97eac9c9637809c4378b986991a528ff2940c8bc4710f4c31b3d3"
+    }
+  ]
+}

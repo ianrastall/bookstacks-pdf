@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-white-company",
+  "work_id": "doyle:the-white-company",
+  "title": "The White Company",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-white-company",
+  "source_tei": "doyle_the-white-company_eng.xml",
+  "source_sha256": "d0d2eec05fd6cd1ef3832fc02c0bee0f62b0b5695871aeab57b10acc602434d4",
+  "generator_fingerprint": "82ac43fc0465ee9757e4ba3b68b243b0c26b49956a9b3a62eea5a704bda9bc2e",
+  "validations": {
+    "pdf": {
+      "pages": 358,
+      "outline_items": 38
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-white-company_eng-light.pdf",
+      "bytes": 1067580,
+      "sha256": "726ef5b79f0aa5c1b83403656a554452d3bb84b295d88687e836d9cb16034a49"
+    }
+  ]
+}

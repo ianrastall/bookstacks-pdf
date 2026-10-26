@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-pericles-prince-of-tyre",
+  "work_id": "shakespeare:pericles-prince-of-tyre",
+  "title": "Pericles, Prince of Tyre",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/pericles-prince-of-tyre",
+  "source_tei": "shakespeare_pericles-prince-of-tyre_eng.xml",
+  "source_sha256": "a120ac56e8f06ddcc804f9cd807195f1ec4d39d2ab6cd230955640fda0505bd3",
+  "generator_fingerprint": "76de1a7ce812b7c1c898afa60ac542267941135d5cda20e6fd8047c55be72c49",
+  "validations": {
+    "pdf": {
+      "pages": 121,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_pericles-prince-of-tyre_eng-dark.pdf",
+      "bytes": 268056,
+      "sha256": "d13b7bbf273116afb04eec21e5599ed11f77097693d483a720bdaf6ed0e9c6f2"
+    }
+  ]
+}

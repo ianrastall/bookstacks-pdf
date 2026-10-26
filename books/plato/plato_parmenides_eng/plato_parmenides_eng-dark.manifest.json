@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_parmenides",
+  "work_id": "plato:parmenides",
+  "title": "Parmenides",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/parmenides",
+  "source_tei": "plato_parmenides_eng.xml",
+  "source_sha256": "e151da2d0f0adb85c2c27c85900b817775d0b8013b0f81efb201e142a64b49e2",
+  "generator_fingerprint": "fb519ebaff6f531fdb871d3145d38110f88f09cc4f8230b1cb4fbfdc25c9113e",
+  "validations": {
+    "pdf": {
+      "pages": 42,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_parmenides_eng-dark.pdf",
+      "bytes": 141596,
+      "sha256": "10b29774fdf15cb18c134bc3ec9212d8467897da69f09300d4426fb2e3cf659c"
+    }
+  ]
+}

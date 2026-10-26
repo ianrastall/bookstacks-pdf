@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_theages",
+  "work_id": "plato:theages",
+  "title": "Θεάγης",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/theages",
+  "source_tei": "plato_theages_grc.xml",
+  "source_sha256": "2029f30b78177d5cb33ca83bff1bbb23bb08c622dd4094ecda61635924ce69f8",
+  "generator_fingerprint": "a457d300fabbbf71f55ed1e47c5506f818b36fbf3f55bedf5f53be3dd09f1fbb",
+  "validations": {
+    "pdf": {
+      "pages": 15,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_theages_grc-light.pdf",
+      "bytes": 66341,
+      "sha256": "9ab0232cb3333c129c1f19dd69995607b701d32406fdff2c65a94db38a731513"
+    }
+  ]
+}

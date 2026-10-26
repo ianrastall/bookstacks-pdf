@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-the-comedy-of-errors",
+  "work_id": "shakespeare:the-comedy-of-errors",
+  "title": "The Comedy of Errors",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/the-comedy-of-errors",
+  "source_tei": "shakespeare_the-comedy-of-errors_eng.xml",
+  "source_sha256": "85da5f70fd497ab50157dfedc8c4400f3804e309f86fbbd3e585df406e6b8f8e",
+  "generator_fingerprint": "8ff8a73f470f1a19e48619a752fa9d4cb931cb3740782e9578ed08ffe8cdcf85",
+  "validations": {
+    "pdf": {
+      "pages": 101,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_the-comedy-of-errors_eng-light.pdf",
+      "bytes": 208478,
+      "sha256": "f625df80c0739f42d65e590ddd4e18a0ed2b7844a2d6a699375e97c8a7a02005"
+    }
+  ]
+}

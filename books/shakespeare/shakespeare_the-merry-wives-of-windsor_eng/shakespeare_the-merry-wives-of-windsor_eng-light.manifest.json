@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-the-merry-wives-of-windsor",
+  "work_id": "shakespeare:the-merry-wives-of-windsor",
+  "title": "The Merry Wives of Windsor",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/the-merry-wives-of-windsor",
+  "source_tei": "shakespeare_the-merry-wives-of-windsor_eng.xml",
+  "source_sha256": "1a35e09b57753b8beb3c7c992402b7d01b4f0943993f3a99f96366d29260c720",
+  "generator_fingerprint": "10711ff9150d4563ba4ebdfae3cc62949ef45b201d76d716cdd0f3caf628a18d",
+  "validations": {
+    "pdf": {
+      "pages": 139,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_the-merry-wives-of-windsor_eng-light.pdf",
+      "bytes": 264578,
+      "sha256": "086bdbce7d2d3ea622f81d67173ea3906f01cfb9e527e2f2dd8029d7ca1a4a3d"
+    }
+  ]
+}

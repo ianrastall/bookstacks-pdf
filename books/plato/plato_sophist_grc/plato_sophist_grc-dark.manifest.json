@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_sophist",
+  "work_id": "plato:sophist",
+  "title": "Σοφιστής",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/sophist",
+  "source_tei": "plato_sophist_grc.xml",
+  "source_sha256": "1c0bae51e850ccc4bb290c6d0cc833ec4b390b7b3221b14ad280ebfa92ba41c8",
+  "generator_fingerprint": "1dae56035db0060a126363baf6696fa6db067eb2d96a8c33409b0bfe77be335a",
+  "validations": {
+    "pdf": {
+      "pages": 59,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_sophist_grc-dark.pdf",
+      "bytes": 185205,
+      "sha256": "70077b4c12485fab14e937d06a799b630c6774a8a8dff502d10c8bddb12920a9"
+    }
+  ]
+}

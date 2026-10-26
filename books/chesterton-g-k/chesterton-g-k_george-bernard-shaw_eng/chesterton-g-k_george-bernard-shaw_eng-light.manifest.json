@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "chesterton-g-k-george-bernard-shaw",
+  "work_id": "chesterton-g-k:george-bernard-shaw",
+  "title": "George Bernard Shaw",
+  "author": "G. K. Chesterton (1874-1936)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/chesterton-g-k/george-bernard-shaw",
+  "source_tei": "chesterton-g-k_george-bernard-shaw_eng.xml",
+  "source_sha256": "d95831d71f343ff5237426a636534c6e5a7ff359f4fe5574d071dae64f4b4943",
+  "generator_fingerprint": "09d7e1b07df7dc5af8738f2da4aab2890eb132dbd96209aaa6ff66e6dbf5842b",
+  "validations": {
+    "pdf": {
+      "pages": 121,
+      "outline_items": 5
+    }
+  },
+  "files": [
+    {
+      "name": "chesterton-g-k_george-bernard-shaw_eng-light.pdf",
+      "bytes": 399067,
+      "sha256": "66359d2a50ba9247d3a1d7815355ddecdc1163727ae6af3f1afe736955f9240c"
+    }
+  ]
+}

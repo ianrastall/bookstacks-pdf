@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "aristotle_poetics",
+  "work_id": "aristotle:poetics",
+  "title": "Poetics",
+  "author": "Aristotle (384-322 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/aristotle/poetics",
+  "source_tei": "aristotle_poetics_eng.xml",
+  "source_sha256": "f70327983b425f475b53ebb3ad6c43738e52b4722ab1262f25caf9ca76271b2d",
+  "generator_fingerprint": "a0f725ded1abd3edbb3272bb1312dcc4f37c1d8d7c927f9f3d99b03cff27e455",
+  "validations": {
+    "pdf": {
+      "pages": 71,
+      "outline_items": 26
+    }
+  },
+  "files": [
+    {
+      "name": "aristotle_poetics_eng-dark.pdf",
+      "bytes": 236394,
+      "sha256": "bedf2cdfb8d44d6e22b217a9a2921f4aaf09a30f437b50af15eb365bbf0d2610"
+    }
+  ]
+}

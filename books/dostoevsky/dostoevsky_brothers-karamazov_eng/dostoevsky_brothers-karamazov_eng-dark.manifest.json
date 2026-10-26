@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dostoevsky_brothers-karamazov",
+  "work_id": "dostoevsky:brothers-karamazov",
+  "title": "The Brothers Karamazov",
+  "author": "Fyodor Dostoevsky (1821-1881)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dostoevsky/brothers-karamazov",
+  "source_tei": "dostoevsky_brothers-karamazov_eng.xml",
+  "source_sha256": "4915e521865a4158c291e180cb2b286ea670d9d0457555ccd790dfdfdcb5a2fd",
+  "generator_fingerprint": "438b8b654188455c31eb983600957fcc88f917323a88c6db626a1d45342d4776",
+  "validations": {
+    "pdf": {
+      "pages": 779,
+      "outline_items": 5
+    }
+  },
+  "files": [
+    {
+      "name": "dostoevsky_brothers-karamazov_eng-dark.pdf",
+      "bytes": 2489991,
+      "sha256": "d9094e18b5b91abad92a5a6a64abfa2ab009fdc22959e2a2d90a730793829b7f"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "austen_sense-and-sensibility",
+  "work_id": "austen:sense-and-sensibility",
+  "title": "Sense and Sensibility",
+  "author": "Jane Austen (1775-1817)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/austen/sense-and-sensibility",
+  "source_tei": "austen_sense-and-sensibility_eng.xml",
+  "source_sha256": "6e6b4ae0a06c6ca56332a8534451d8dc3f09f5226a2cc68218226fa98df6f724",
+  "generator_fingerprint": "40eeb09ac8f87e4f1ae23522d19beee7f4bb4c4297d8a1ddd0d609ce58141d4d",
+  "validations": {
+    "pdf": {
+      "pages": 303,
+      "outline_items": 50
+    }
+  },
+  "files": [
+    {
+      "name": "austen_sense-and-sensibility_eng-light.pdf",
+      "bytes": 859340,
+      "sha256": "41a8f26116ffe68b7756ab5dca13237cbe1d0e982e113d67e9cc121cc5906531"
+    }
+  ]
+}

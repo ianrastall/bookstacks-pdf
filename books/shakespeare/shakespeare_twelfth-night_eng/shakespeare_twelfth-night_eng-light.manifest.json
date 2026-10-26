@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-twelfth-night",
+  "work_id": "shakespeare:twelfth-night",
+  "title": "Twelfth Night",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/twelfth-night",
+  "source_tei": "shakespeare_twelfth-night_eng.xml",
+  "source_sha256": "57ccb32f241d2d6b1cfa32edfd01ce6cca7314cbef88a77b318e5a3754588035",
+  "generator_fingerprint": "08a45a86ae8f33b1b1c74539db1c936abe6bfa83cd490973e8b1674b8aba5615",
+  "validations": {
+    "pdf": {
+      "pages": 132,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_twelfth-night_eng-light.pdf",
+      "bytes": 254874,
+      "sha256": "2cdfe5172e79d71dfcffc5a9f4dcf22a3591c74ed4e45bad3392da2d95be109a"
+    }
+  ]
+}

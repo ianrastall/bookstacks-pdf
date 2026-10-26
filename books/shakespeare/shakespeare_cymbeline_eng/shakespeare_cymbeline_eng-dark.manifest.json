@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-cymbeline",
+  "work_id": "shakespeare:cymbeline",
+  "title": "Cymbeline",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/cymbeline",
+  "source_tei": "shakespeare_cymbeline_eng.xml",
+  "source_sha256": "1fc3edb4629c3572a64a812ddfaac48fc914b16a6e3e7a971d915ff88e0083dd",
+  "generator_fingerprint": "feb8142022e17be2818bc5fc8a46fdf687f54b3550d3eefad443de068710b70f",
+  "validations": {
+    "pdf": {
+      "pages": 177,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_cymbeline_eng-dark.pdf",
+      "bytes": 416093,
+      "sha256": "c1307da13d5f7acbb489a9381c94af5304f8727da8206864b00ab1812de7a8e5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "turgenev-mumu",
+  "work_id": "turgenev:mumu",
+  "title": "Муму",
+  "author": "Ivan Turgenev (1818-1883)",
+  "language": "ru",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/ru/authors/turgenev/mumu",
+  "source_tei": "turgenev_mumu_rus.xml",
+  "source_sha256": "da991d1c5d1ce0128598a1aef2afec8c444620584e9b2185681d832d4e7ed0e8",
+  "generator_fingerprint": "af7fbdb0573a4babf121630760fca524e4ed5f705ed07d0ab7d3c39f342fa783",
+  "validations": {
+    "pdf": {
+      "pages": 29,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "turgenev_mumu_rus-dark.pdf",
+      "bytes": 101092,
+      "sha256": "ffdd69dc0d1d23b3f6793e7be03e160706b187d26a023cce1d02f1fa631ac4c6"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "turgenev-on-the-eve",
+  "work_id": "turgenev:on-the-eve",
+  "title": "On the Eve",
+  "author": "Ivan Turgenev (1818-1883)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/turgenev/on-the-eve",
+  "source_tei": "turgenev_on-the-eve_eng.xml",
+  "source_sha256": "0d90cde5041e228a353470cff054229b68d773b7ddd257b2b1c4a8a8f41d2e19",
+  "generator_fingerprint": "04b59cc85614cfb0c504f3e80cbb2414269e402af51e1f1d773306ded260c258",
+  "validations": {
+    "pdf": {
+      "pages": 169,
+      "outline_items": 40
+    }
+  },
+  "files": [
+    {
+      "name": "turgenev_on-the-eve_eng-light.pdf",
+      "bytes": 463337,
+      "sha256": "246ed12a7a2f00d0e85f7cb92608c4a6495b344e82b9ebad689af29997fbea3a"
+    }
+  ]
+}

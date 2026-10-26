@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dostoevsky_demons",
+  "work_id": "dostoevsky:demons",
+  "title": "Бесы",
+  "author": "Fyodor Dostoevsky (1821-1881)",
+  "language": "ru",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/ru/authors/dostoevsky/demons",
+  "source_tei": "dostoevsky_demons_rus.xml",
+  "source_sha256": "c093a1f5089c88a1a7ac29372be4b6a0bc2fa16fc97a05e635ae4e2a251a426e",
+  "generator_fingerprint": "35564ca0116d39649ba28fc73e8707bcfd85c47e9fba21228cf38ebc8acc09d8",
+  "validations": {
+    "pdf": {
+      "pages": 610,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "dostoevsky_demons_rus-light.pdf",
+      "bytes": 1767298,
+      "sha256": "72a8e056d150991dc7104d2d704e1cecdf74d75923bd4651fa03ee0be5964afa"
+    }
+  ]
+}

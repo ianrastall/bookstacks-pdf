@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dickens_a-tale-of-two-cities",
+  "work_id": "dickens:a-tale-of-two-cities",
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens (1812-1870)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dickens/a-tale-of-two-cities",
+  "source_tei": "dickens_a-tale-of-two-cities_eng.xml",
+  "source_sha256": "c9d93ef9f1112e1a12a534ef29eca174d4567685dd4bc751f9ac26645757449a",
+  "generator_fingerprint": "359a977fe60d4945031bfa68b0c5e95794bfd07213beb84a66cf62f1c459facc",
+  "validations": {
+    "pdf": {
+      "pages": 319,
+      "outline_items": 3
+    }
+  },
+  "files": [
+    {
+      "name": "dickens_a-tale-of-two-cities_eng-dark.pdf",
+      "bytes": 994649,
+      "sha256": "fcc59e8133e40d7a78e0e7cd6bca7a23e4f056303e5fda20df951fe289d60f58"
+    }
+  ]
+}

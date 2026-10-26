@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "tolstoy_novellas",
+  "work_id": "tolstoy:novellas",
+  "title": "Novellas",
+  "author": "Leo Tolstoy (1828-1910)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/tolstoy/novellas",
+  "source_tei": "tolstoy_novellas_eng.xml",
+  "source_sha256": "6d67206690cbcadd20c8af97210e16ee12e962728e7a8540f5600f5e707a3e25",
+  "generator_fingerprint": "6413c0acbb38369a4d0c6ff1191da7673bd26a2d242e61b6f03ea52413b3d20f",
+  "validations": {
+    "pdf": {
+      "pages": 505,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "tolstoy_novellas_eng-light.pdf",
+      "bytes": 1538183,
+      "sha256": "187f54e2834504a33004df7be1d14b9ccda2dc5e965c6171fb86f1120bcd85c0"
+    }
+  ]
+}

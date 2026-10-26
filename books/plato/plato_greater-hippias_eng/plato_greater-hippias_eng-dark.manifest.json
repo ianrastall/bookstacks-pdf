@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_greater-hippias",
+  "work_id": "plato:greater-hippias",
+  "title": "Hippias Major",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/greater-hippias",
+  "source_tei": "plato_greater-hippias_eng.xml",
+  "source_sha256": "a8c53c173b919701b8166f77a78cadaee595cece9fde8c211596984e8c5a47b8",
+  "generator_fingerprint": "872d5bd011ca9f6bbf8b91efb1483ce0ea74b599a9e1a4635e648370600d2a84",
+  "validations": {
+    "pdf": {
+      "pages": 42,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_greater-hippias_eng-dark.pdf",
+      "bytes": 119686,
+      "sha256": "5f8292729a37cb99a98018021cbc5d6930a92e2054c4214cdeac8ba4844a77ff"
+    }
+  ]
+}

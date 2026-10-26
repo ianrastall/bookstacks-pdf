@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "bronte-charlotte-the-professor",
+  "work_id": "bronte-charlotte:the-professor",
+  "title": "The Professor",
+  "author": "Charlotte Brontë (1816-1855)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/bronte-charlotte/the-professor",
+  "source_tei": "bronte-charlotte_the-professor_eng.xml",
+  "source_sha256": "c89b6e92a1d303b381c218ea03ca16454c0f7db787eba305d9f356c10a5a4953",
+  "generator_fingerprint": "5bb383fc63a010a294b89ffbd74e8b62d9e191b0cb28fb0006e6ae3a3db62347",
+  "validations": {
+    "pdf": {
+      "pages": 223,
+      "outline_items": 27
+    }
+  },
+  "files": [
+    {
+      "name": "bronte-charlotte_the-professor_eng-dark.pdf",
+      "bytes": 693233,
+      "sha256": "239e872ba7002b8ab7ddf6b74008d223381246c08b07f566b53159077419e134"
+    }
+  ]
+}

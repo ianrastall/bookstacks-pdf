@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "aristotle_nicomachean-ethics",
+  "work_id": "aristotle:nicomachean-ethics",
+  "title": "Ἠθικὰ Νικομάχεια",
+  "author": "Aristotle (384-322 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/aristotle/nicomachean-ethics",
+  "source_tei": "aristotle_nicomachean-ethics_grc.xml",
+  "source_sha256": "a386b5432fc569750e379a4fa18954e43e0fdf73d67d4c9bcb2e7faf587a4ba1",
+  "generator_fingerprint": "7b3b9a48be13ab8e3264da27a7846c6c3d7539fbbaae4b086624ccace0fe020e",
+  "validations": {
+    "pdf": {
+      "pages": 132,
+      "outline_items": 10
+    }
+  },
+  "files": [
+    {
+      "name": "aristotle_nicomachean-ethics_grc-light.pdf",
+      "bytes": 473592,
+      "sha256": "4428507c5d19693bb58c507863faeb2a273c839754198ee2a5eebe22aff2e860"
+    }
+  ]
+}

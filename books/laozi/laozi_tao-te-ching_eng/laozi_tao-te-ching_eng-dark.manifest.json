@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "laozi_tao-te-ching_eng",
+  "work_id": "laozi:tao-te-ching",
+  "title": "The Tao Teh King, or the Tao and its Characteristics",
+  "author": "老子 (生卒年不详)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/laozi/tao-te-ching",
+  "source_tei": "laozi_tao-te-ching_eng.xml",
+  "source_sha256": "6d3dc4b09b6f4ce8ef2844e737ea5fab4db587848cbd96b07440cdb78fcb6e7d",
+  "generator_fingerprint": "d9650b1d05fbfc5baebee71b49f1977fcbb957b3dd515b7b4d9bcac58e9d7d33",
+  "validations": {
+    "pdf": {
+      "pages": 45,
+      "outline_items": 4
+    }
+  },
+  "files": [
+    {
+      "name": "laozi_tao-te-ching_eng-dark.pdf",
+      "bytes": 129875,
+      "sha256": "0c0ec5774ad4bf204af12672e2a4bc86777b6b63c4c293071402b1f1083c4c54"
+    }
+  ]
+}

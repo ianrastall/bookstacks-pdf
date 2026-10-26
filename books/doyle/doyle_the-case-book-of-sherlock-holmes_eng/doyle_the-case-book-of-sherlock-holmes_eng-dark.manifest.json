@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-case-book-of-sherlock-holmes",
+  "work_id": "doyle:the-case-book-of-sherlock-holmes",
+  "title": "The Case-Book of Sherlock Holmes",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-case-book-of-sherlock-holmes",
+  "source_tei": "doyle_the-case-book-of-sherlock-holmes_eng.xml",
+  "source_sha256": "b415f5e7516f32267eb673062180e8afcdc45de1e153cebce5e7ce0c8c6a2058",
+  "generator_fingerprint": "3fc18c8a42ef47e0516d45ad83ce6d9a9160e11fa4d552cba0b4ff6c5b072df5",
+  "validations": {
+    "pdf": {
+      "pages": 200,
+      "outline_items": 12
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-case-book-of-sherlock-holmes_eng-dark.pdf",
+      "bytes": 621289,
+      "sha256": "168a257c4459a05f7d5d2a87471a47f9244a1f244c173229ff331651e74742eb"
+    }
+  ]
+}

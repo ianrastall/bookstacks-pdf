@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-poison-belt",
+  "work_id": "doyle:the-poison-belt",
+  "title": "The Poison Belt",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-poison-belt",
+  "source_tei": "doyle_the-poison-belt_eng.xml",
+  "source_sha256": "ffecbef9dd881c60a0b8555ba1660179ef3608f0fe8cd5e759ea4123c194bba7",
+  "generator_fingerprint": "6db812fbb9cfec8422e5c4fc6a10c2a7213491393bd45565c55383d6b62c0617",
+  "validations": {
+    "pdf": {
+      "pages": 76,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-poison-belt_eng-dark.pdf",
+      "bytes": 250224,
+      "sha256": "caeaa185c207da029f1a1e0c30246c648328a308d7b68dd197668eeabfd145dc"
+    }
+  ]
+}

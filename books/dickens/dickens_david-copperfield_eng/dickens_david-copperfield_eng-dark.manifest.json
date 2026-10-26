@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dickens_david-copperfield",
+  "work_id": "dickens:david-copperfield",
+  "title": "David Copperfield",
+  "author": "Charles Dickens (1812-1870)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dickens/david-copperfield",
+  "source_tei": "dickens_david-copperfield_eng.xml",
+  "source_sha256": "d640fb53f45d70f75fdcd88f0c7b13de8bb584a91fda8c9b24d336002f4165ca",
+  "generator_fingerprint": "96b45cb0f9db4795365e00d211aba0a6614364126ffdb572fbddaabc95a44036",
+  "validations": {
+    "pdf": {
+      "pages": 822,
+      "outline_items": 66
+    }
+  },
+  "files": [
+    {
+      "name": "dickens_david-copperfield_eng-dark.pdf",
+      "bytes": 2544244,
+      "sha256": "5b91697380f3e6e8d7ad0efb3a0655b5d5795e6b5057441ad6f7d15d2879d077"
+    }
+  ]
+}

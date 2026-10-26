@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-lost-world",
+  "work_id": "doyle:the-lost-world",
+  "title": "The Lost World",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-lost-world",
+  "source_tei": "doyle_the-lost-world_eng.xml",
+  "source_sha256": "7a7085828ec62f35785e0063ea89b14b84f2941a2734e681349633815585924b",
+  "generator_fingerprint": "68ad011795ad9b1798b6d1891e7c2c653e9c134fdb4be2af3dd5986dbb452342",
+  "validations": {
+    "pdf": {
+      "pages": 181,
+      "outline_items": 18
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-lost-world_eng-dark.pdf",
+      "bytes": 589345,
+      "sha256": "1baf385261e76a43bca8926a6cc8cc99ea95a36bc9ee88c883a5b98942ec02a7"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dostoevsky_notes-from-underground",
+  "work_id": "dostoevsky:notes-from-underground",
+  "title": "Notes from the Underground",
+  "author": "Fyodor Dostoevsky (1821-1881)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/dostoevsky/notes-from-underground",
+  "source_tei": "dostoevsky_notes-from-underground_eng.xml",
+  "source_sha256": "bc2e2500b31903ae57c70cf1d7e6f52a922227fb66a417242b83b54663ecbf98",
+  "generator_fingerprint": "268cbebc3dc2ddcab428ecc8edf79230ea099bc476c857b800fd295c19dafb72",
+  "validations": {
+    "pdf": {
+      "pages": 103,
+      "outline_items": 5
+    }
+  },
+  "files": [
+    {
+      "name": "dostoevsky_notes-from-underground_eng-dark.pdf",
+      "bytes": 346130,
+      "sha256": "70f70468292d97ce8039796c7389bd041553de8c5c97c1ee3c9ab531eb8e7a04"
+    }
+  ]
+}

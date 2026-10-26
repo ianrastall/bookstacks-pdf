@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_alcibiades-1",
+  "work_id": "plato:alcibiades-1",
+  "title": "Ἀλκιβιάδης αʹ",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/alcibiades-1",
+  "source_tei": "plato_alcibiades-1_grc.xml",
+  "source_sha256": "dea8d6e9a7b2e4bacce0b7ee3e419648a66dfd3618e5bfac76ace30952a998c3",
+  "generator_fingerprint": "ecf2701529e3d44ec43c2b4c47991d1225be9d58ba73737801983d1a13c02d82",
+  "validations": {
+    "pdf": {
+      "pages": 42,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_alcibiades-1_grc-dark.pdf",
+      "bytes": 132921,
+      "sha256": "a469b761ce25c5b47984edc586cc8b0ff54cda5cefaa5b73d85af739834e8a43"
+    }
+  ]
+}

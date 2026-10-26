@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-troilus-and-cressida",
+  "work_id": "shakespeare:troilus-and-cressida",
+  "title": "Troilus and Cressida",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/troilus-and-cressida",
+  "source_tei": "shakespeare_troilus-and-cressida_eng.xml",
+  "source_sha256": "6fb4174364c11464ef697ad81584b61b892ae2cb44b75953cbd96e1dbee82840",
+  "generator_fingerprint": "19b60d9603418b272c3e8937bd017e415392b9e592152a416206c16ef40d3bed",
+  "validations": {
+    "pdf": {
+      "pages": 182,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_troilus-and-cressida_eng-light.pdf",
+      "bytes": 368871,
+      "sha256": "c3d21d44f2daaf629202c05f5cfcdd779488abb1f21b93cadc1743f8c30cba6d"
+    }
+  ]
+}

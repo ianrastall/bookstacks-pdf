@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "james-the-ambassadors",
+  "work_id": "james:the-ambassadors",
+  "title": "The Ambassadors",
+  "author": "Henry James (1843-1916)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/james/the-ambassadors",
+  "source_tei": "james_the-ambassadors_eng.xml",
+  "source_sha256": "20323089cbd9fd46ecf397fb7789c469d6a1d88a3333825e07b9a2d1a96b37d4",
+  "generator_fingerprint": "9de7b042705df645f0e8dcbe0c849f7abe20c7c500ccaf7ceee9285326329cf8",
+  "validations": {
+    "pdf": {
+      "pages": 361,
+      "outline_items": 3
+    }
+  },
+  "files": [
+    {
+      "name": "james_the-ambassadors_eng-dark.pdf",
+      "bytes": 1194141,
+      "sha256": "e650fdf988bf2a4a08ff922ef08742c23e80ad19d695a7faacb1c35417cf78af"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "wu-chengen_journey-to-the-west_zho",
+  "work_id": "wu-chengen:journey-to-the-west",
+  "title": "西游记",
+  "author": "吴承恩 (约1500—约1582)",
+  "language": "zh-Hans",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/zh-Hans/authors/wu-chengen/journey-to-the-west",
+  "source_tei": "wu-chengen_journey-to-the-west_zho.xml",
+  "source_sha256": "d4fa8b3ac4563d928a26ae2d322f0ba0b87b361a72f3aa2bc3d06e1d04f357e1",
+  "generator_fingerprint": "9b949f215221adcd64570a0d52377636abe8c97fd039a70afaa29237d3a45b48",
+  "validations": {
+    "pdf": {
+      "pages": 710,
+      "outline_items": 100
+    }
+  },
+  "files": [
+    {
+      "name": "wu-chengen_journey-to-the-west_zho-dark.pdf",
+      "bytes": 3531801,
+      "sha256": "9521c01e3b47fbd68a707576321fc6921378fc105b3b32b6d1e51f200a94ba55"
+    }
+  ]
+}

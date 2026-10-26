@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dostoevsky_demons",
+  "work_id": "dostoevsky:demons",
+  "title": "The Possessed",
+  "author": "Fyodor Dostoevsky (1821-1881)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/dostoevsky/demons",
+  "source_tei": "dostoevsky_demons_eng.xml",
+  "source_sha256": "1f0572422e44c460fb9be4a8bfbf409a2a120ab2866aad6b90b6ca4338fd25e7",
+  "generator_fingerprint": "529b64b805a5eb2b7c72df426e77eb6816acfaf00f80ed6df066a1bedd95e0c9",
+  "validations": {
+    "pdf": {
+      "pages": 582,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "dostoevsky_demons_eng-light.pdf",
+      "bytes": 1783652,
+      "sha256": "c18131a4dabb5517fa79e67aea5afbcb882805c74e80973053d5742f8f5ef6c1"
+    }
+  ]
+}

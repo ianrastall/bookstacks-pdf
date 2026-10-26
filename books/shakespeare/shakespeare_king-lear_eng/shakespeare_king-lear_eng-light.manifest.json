@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-lear",
+  "work_id": "shakespeare:king-lear",
+  "title": "King Lear",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-lear",
+  "source_tei": "shakespeare_king-lear_eng.xml",
+  "source_sha256": "7d66a636fff5987b64de0ed9bfc8760e32669852383ac4c0e804f4f50c9df509",
+  "generator_fingerprint": "144721efd70362a4a48f903f1c551b3fad182fe1d143a5bfb7e65c26d9c41e60",
+  "validations": {
+    "pdf": {
+      "pages": 181,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-lear_eng-light.pdf",
+      "bytes": 379840,
+      "sha256": "f6becbef6bd2bf1af5c8d1aeb36298fa8931372939018451ee99eecd9d3c5347"
+    }
+  ]
+}

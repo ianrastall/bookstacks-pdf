@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-henry-iv-part-2",
+  "work_id": "shakespeare:king-henry-iv-part-2",
+  "title": "King Henry IV, Part 2",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-henry-iv-part-2",
+  "source_tei": "shakespeare_king-henry-iv-part-2_eng.xml",
+  "source_sha256": "bc66f324b08622b0f3a85918e186c0c62209131b69f444dd47480779e2c9bf86",
+  "generator_fingerprint": "227bdece4a681b2b304b2e7342fa8e3ccaa4f6c93eda20cb755b8946abc06e13",
+  "validations": {
+    "pdf": {
+      "pages": 151,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-henry-iv-part-2_eng-dark.pdf",
+      "bytes": 331273,
+      "sha256": "04a7b3721afe120eecca8dc48fe92f427d49b29835bdef92a1095c1a4c710e59"
+    }
+  ]
+}

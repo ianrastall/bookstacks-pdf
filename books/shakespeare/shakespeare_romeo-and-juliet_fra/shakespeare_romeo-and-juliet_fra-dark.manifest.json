@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-romeo-and-juliet-fra",
+  "work_id": "shakespeare:romeo-and-juliet",
+  "title": "Roméo et Juliette / Tragédie",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/romeo-and-juliet",
+  "source_tei": "shakespeare_romeo-and-juliet_fra.xml",
+  "source_sha256": "97b848810e3ba48c4eaf64085aaa51069cdfd45d0e0638fdbaf186273013b0e2",
+  "generator_fingerprint": "823be520526300656bcc32380fcd4af018ff2c141aec9ebde69f651ae71add86",
+  "validations": {
+    "pdf": {
+      "pages": 147,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_romeo-and-juliet_fra-dark.pdf",
+      "bytes": 370664,
+      "sha256": "092bd20b92e1c0924cdcf52f16dcded331bd4a7a16bb931a84cdf0e6bf1360d5"
+    }
+  ]
+}

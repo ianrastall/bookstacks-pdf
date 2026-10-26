@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_timaeus",
+  "work_id": "plato:timaeus",
+  "title": "Timaeus",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/timaeus",
+  "source_tei": "plato_timaeus_eng.xml",
+  "source_sha256": "9aa0fb7e326858eca2206161d8bb9b4d54c29a768f6107aa5477dc2eb3408c70",
+  "generator_fingerprint": "f6cea312a95c67521bf0640c4402d2070c852a45d85002d309db0a104f6c36ce",
+  "validations": {
+    "pdf": {
+      "pages": 86,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_timaeus_eng-light.pdf",
+      "bytes": 307866,
+      "sha256": "1d42f5705e13e857c83feebfc33f53bd9bd1998160707865490612a555671ce3"
+    }
+  ]
+}

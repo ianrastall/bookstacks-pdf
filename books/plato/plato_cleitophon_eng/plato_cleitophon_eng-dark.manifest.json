@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_cleitophon",
+  "work_id": "plato:cleitophon",
+  "title": "Cleitophon",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/cleitophon",
+  "source_tei": "plato_cleitophon_eng.xml",
+  "source_sha256": "a686449745f97cc63bd3593bb156e146456447743d24b6ce289994faf57c47bc",
+  "generator_fingerprint": "4ca7dbafba8f10b587d697609771b0d23be124cb3a9187371c68c81df6e9c25c",
+  "validations": {
+    "pdf": {
+      "pages": 11,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_cleitophon_eng-dark.pdf",
+      "bytes": 46853,
+      "sha256": "ffd2887c00c982d93b796d5b3f19dfbae9f5cb3cad5ccff32ece4c049e7fc68f"
+    }
+  ]
+}

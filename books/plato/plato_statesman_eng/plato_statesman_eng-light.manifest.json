@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_statesman",
+  "work_id": "plato:statesman",
+  "title": "Statesman",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/plato/statesman",
+  "source_tei": "plato_statesman_eng.xml",
+  "source_sha256": "cc390a7d41d43c4947df71926e4fa88d1d66d7bedf77770646cbd74bec261540",
+  "generator_fingerprint": "68ed376b2c07c3696408b6a3d2a33294d2271f63aff03711021ef3d78111e16f",
+  "validations": {
+    "pdf": {
+      "pages": 69,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_statesman_eng-light.pdf",
+      "bytes": 211780,
+      "sha256": "0fd0775e6ee2bc00af1112e2c567aa81de637f2eaa5547660f923471679694a9"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dickens_nicholas-nickleby",
+  "work_id": "dickens:nicholas-nickleby",
+  "title": "Nicholas Nickleby",
+  "author": "Charles Dickens (1812-1870)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/dickens/nicholas-nickleby",
+  "source_tei": "dickens_nicholas-nickleby_eng.xml",
+  "source_sha256": "0333d9db0f3640ee8775d6856f8736932e2ba2d87823ef4d85928588dd3f0a53",
+  "generator_fingerprint": "236c5692d77a258dd1746b18136877ef72563355dcab2bd61a3fc3d8f9307a8e",
+  "validations": {
+    "pdf": {
+      "pages": 809,
+      "outline_items": 66
+    }
+  },
+  "files": [
+    {
+      "name": "dickens_nicholas-nickleby_eng-light.pdf",
+      "bytes": 2438534,
+      "sha256": "52de52abc820368524c5aaeb0402f316c21ce1f876ef4e813759d5fca33bd915"
+    }
+  ]
+}

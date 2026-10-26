@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-richard-iii-fra",
+  "work_id": "shakespeare:king-richard-iii",
+  "title": "La vie et la mort du roi Richard III",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "fr",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/king-richard-iii",
+  "source_tei": "shakespeare_king-richard-iii_fra.xml",
+  "source_sha256": "aea80d213d56823ffdff2e64dd806352ba1d54ccbab259279c27f2b60f97bb5c",
+  "generator_fingerprint": "8c23b64822f659f5c3935d24b4806a289d579cd547aa1e94cc1bd6748dee65a3",
+  "validations": {
+    "pdf": {
+      "pages": 171,
+      "outline_items": 8
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-richard-iii_fra-dark.pdf",
+      "bytes": 398908,
+      "sha256": "1dc565245b3038b53793ab6c481350a91dca6033ee9c2676a97b5a37efe96f25"
+    }
+  ]
+}

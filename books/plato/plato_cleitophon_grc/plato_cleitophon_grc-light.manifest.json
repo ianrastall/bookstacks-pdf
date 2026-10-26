@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "plato_cleitophon",
+  "work_id": "plato:cleitophon",
+  "title": "Κλειτοφῶν",
+  "author": "Plato (c. 428-348 BCE)",
+  "language": "grc",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/grc/authors/plato/cleitophon",
+  "source_tei": "plato_cleitophon_grc.xml",
+  "source_sha256": "0aaf2c978b4e6169b5d1a0bb2636e10e178f9c300aa5d03411b1932857ee9335",
+  "generator_fingerprint": "14f222e6e6da9c20817f956c49722ac5d0df59dde57e45bb68cb7c6331950c26",
+  "validations": {
+    "pdf": {
+      "pages": 9,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "plato_cleitophon_grc-light.pdf",
+      "bytes": 47709,
+      "sha256": "44a48771bd213c0d59ce76ed381130617e36ae18a44a575ad12eec54ad280d89"
+    }
+  ]
+}

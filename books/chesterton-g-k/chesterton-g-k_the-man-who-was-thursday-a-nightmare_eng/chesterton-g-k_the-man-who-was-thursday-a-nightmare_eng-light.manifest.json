@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "chesterton-g-k-the-man-who-was-thursday-a-nightmare",
+  "work_id": "chesterton-g-k:the-man-who-was-thursday-a-nightmare",
+  "title": "The Man Who Was Thursday: A Nightmare",
+  "author": "G. K. Chesterton (1874-1936)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/chesterton-g-k/the-man-who-was-thursday-a-nightmare",
+  "source_tei": "chesterton-g-k_the-man-who-was-thursday-a-nightmare_eng.xml",
+  "source_sha256": "96af56ac5ddb78c9aae04875ded00a79e9bb9715e4094928752ef7f33e6f75fc",
+  "generator_fingerprint": "2a3496cc0fc028f18ae24d07bc1f9a7088ea852e903e7d55bef955c9d8d98cd4",
+  "validations": {
+    "pdf": {
+      "pages": 138,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "chesterton-g-k_the-man-who-was-thursday-a-nightmare_eng-light.pdf",
+      "bytes": 429258,
+      "sha256": "5f5a4b517dd6a9f573a12c163245671de7e2ae1ddc21f1cc4b7f3e52448fa5b6"
+    }
+  ]
+}

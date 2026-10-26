@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dostoevsky_the-double",
+  "work_id": "dostoevsky:the-double",
+  "title": "Двойник",
+  "author": "Fyodor Dostoevsky (1821-1881)",
+  "language": "ru",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/ru/authors/dostoevsky/the-double",
+  "source_tei": "dostoevsky_the-double_rus.xml",
+  "source_sha256": "c89953318bf6f08e0d19ff47cff2af40be5c087321475d24db0f789ca38a0961",
+  "generator_fingerprint": "939415acbab09dfa1b6ab04109a06b9bd39a7c9bab60bf3de17f69e9b2ed56a8",
+  "validations": {
+    "pdf": {
+      "pages": 144,
+      "outline_items": 2
+    }
+  },
+  "files": [
+    {
+      "name": "dostoevsky_the-double_rus-dark.pdf",
+      "bytes": 444982,
+      "sha256": "4f0d50f851b9ff4bdf51da9752b420d775aa5565b2fe6e308f84abfd5baef99b"
+    }
+  ]
+}

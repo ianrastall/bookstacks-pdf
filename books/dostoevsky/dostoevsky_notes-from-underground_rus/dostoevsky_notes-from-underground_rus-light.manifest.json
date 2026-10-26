@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "dostoevsky_notes-from-underground",
+  "work_id": "dostoevsky:notes-from-underground",
+  "title": "Записки из подполья",
+  "author": "Fyodor Dostoevsky (1821-1881)",
+  "language": "ru",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/ru/authors/dostoevsky/notes-from-underground",
+  "source_tei": "dostoevsky_notes-from-underground_rus.xml",
+  "source_sha256": "c859ec6181b2cb5b7f4a04a10e324ea0e1e2997feeed931e74fc9c03e3c37300",
+  "generator_fingerprint": "5ba98a35a97492c940e8367be2a70207526722fc4e46cc7afaf359c3f5cd42b1",
+  "validations": {
+    "pdf": {
+      "pages": 99,
+      "outline_items": 2
+    }
+  },
+  "files": [
+    {
+      "name": "dostoevsky_notes-from-underground_rus-light.pdf",
+      "bytes": 314682,
+      "sha256": "60f5c5a525f4f780222cb9983913f1e30716d350de6775488f8608a3ad014fcd"
+    }
+  ]
+}

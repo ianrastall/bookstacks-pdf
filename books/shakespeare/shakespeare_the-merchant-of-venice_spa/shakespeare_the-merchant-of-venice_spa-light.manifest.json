@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-the-merchant-of-venice-spa",
+  "work_id": "shakespeare:the-merchant-of-venice",
+  "title": "El mercader de Venecia",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "es",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/es/authors/shakespeare/the-merchant-of-venice",
+  "source_tei": "shakespeare_the-merchant-of-venice_spa.xml",
+  "source_sha256": "10c1ef5a85651e7cc7b867b55091cc2ef40224c816ee8c54d06067d8bd207207",
+  "generator_fingerprint": "9246b11c7857e94950dcc6982bf01e0f7d9a33889936451292a222df2f65492f",
+  "validations": {
+    "pdf": {
+      "pages": 98,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_the-merchant-of-venice_spa-light.pdf",
+      "bytes": 203828,
+      "sha256": "3f8f82d9dea0bd01869f479aab7a9545ebf93c39de45db4aa51de63e481e368f"
+    }
+  ]
+}

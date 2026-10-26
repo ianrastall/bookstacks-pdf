@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "doyle_the-valley-of-fear",
+  "work_id": "doyle:the-valley-of-fear",
+  "title": "The Valley of Fear",
+  "author": "Arthur Conan Doyle (1859-1930)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/doyle/the-valley-of-fear",
+  "source_tei": "doyle_the-valley-of-fear_eng.xml",
+  "source_sha256": "5a62ca497951d874f1f2315f589aa5e21100006a9ee26ff8748ad75f96579827",
+  "generator_fingerprint": "3f068e0a1302ec52755ecf5d290370de7cda0d11f26a62f065a0e7227bc3fd66",
+  "validations": {
+    "pdf": {
+      "pages": 138,
+      "outline_items": 5
+    }
+  },
+  "files": [
+    {
+      "name": "doyle_the-valley-of-fear_eng-dark.pdf",
+      "bytes": 438798,
+      "sha256": "93813320d133e8d38f21c9a0b371f35732e2c1fe6c4bcfb0c70af258dca0d533"
+    }
+  ]
+}

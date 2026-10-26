@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "turgenev-a-house-of-gentlefolk",
+  "work_id": "turgenev:a-house-of-gentlefolk",
+  "title": "Дворянское гнездо",
+  "author": "Ivan Turgenev (1818-1883)",
+  "language": "ru",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/ru/authors/turgenev/a-house-of-gentlefolk",
+  "source_tei": "turgenev_a-house-of-gentlefolk_rus.xml",
+  "source_sha256": "556f8a5471ac76e45abbfca652f7e987982e67ed91394c963c89ee867d1eebfd",
+  "generator_fingerprint": "a32b9337db7b73d3e15e8ff1ac409c0777024d2fed0cec78c0966df75ef87cc6",
+  "validations": {
+    "pdf": {
+      "pages": 178,
+      "outline_items": 46
+    }
+  },
+  "files": [
+    {
+      "name": "turgenev_a-house-of-gentlefolk_rus-light.pdf",
+      "bytes": 460813,
+      "sha256": "ba8629630cbe37699ca2a4d57e73b7843aa7b14c16f691f5127136cef46eef16"
+    }
+  ]
+}
