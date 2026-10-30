@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source_repository": "https://github.com/ianrastall/bookstacks",
-  "source_commit": "3a69ee0daca29bdc871b4ce94f72186407d9742a",
+  "source_commit": "d126be6f3745751893b444e44845340b0085af15",
   "base_url": "https://ianrastall.github.io/bookstacks-pdf/",
   "editions": [
     {
@@ -6329,6 +6329,37 @@
       ]
     },
     {
+      "edition_key": "shakespeare_king-lear_spa",
+      "edition_id": "shakespeare-king-lear-spa",
+      "source_tei": "shakespeare_king-lear_spa.xml",
+      "source_path": "tei/shakespeare/shakespeare_king-lear_spa.xml",
+      "source_sha256": "785a1635eaf21b9aa6db708e55b4eccc4330107bf8a14bb4c162d2bc0ce76194",
+      "title": "El Rey Lear",
+      "author": "William Shakespeare (1564-1616)",
+      "language": "es",
+      "canonical_url": "https://bookstacks.org/es/authors/shakespeare/king-lear",
+      "files": [
+        {
+          "theme": "light",
+          "file": "shakespeare_king-lear_spa-light.pdf",
+          "path": "books/shakespeare/shakespeare_king-lear_spa/shakespeare_king-lear_spa-light.pdf",
+          "bytes": 325094,
+          "sha256": "f1c94758310b606fc9be0e3547293628dae434515779cfe69dc5b29a7e7ff033",
+          "pages": 158,
+          "text_sha256": "ee6b6bb5b9b59a40d3f25a25d00d441c4df1bf9be1e679289e0355b7fecbba2a"
+        },
+        {
+          "theme": "dark",
+          "file": "shakespeare_king-lear_spa-dark.pdf",
+          "path": "books/shakespeare/shakespeare_king-lear_spa/shakespeare_king-lear_spa-dark.pdf",
+          "bytes": 343973,
+          "sha256": "d17da2a98a8dd1ee2c0bc748e0fd93d9164030e1fb06a24f64bf2d5d087fbdfb",
+          "pages": 158,
+          "text_sha256": "ee6b6bb5b9b59a40d3f25a25d00d441c4df1bf9be1e679289e0355b7fecbba2a"
+        }
+      ]
+    },
+    {
       "edition_key": "shakespeare_king-richard-ii_eng",
       "edition_id": "shakespeare-king-richard-ii",
       "source_tei": "shakespeare_king-richard-ii_eng.xml",
@@ -6449,6 +6480,37 @@
           "sha256": "2174f1dbbca4bd922a0601e6c7f96ad82eb25c715f9376c9579d73169abe5b3b",
           "pages": 172,
           "text_sha256": "3ac7ba7ab3a24650d9d29bff6efdccd9fdf0b7866b56f0c4222a81d0949b4a44"
+        }
+      ]
+    },
+    {
+      "edition_key": "shakespeare_king-richard-iii_spa",
+      "edition_id": "shakespeare-king-richard-iii-spa",
+      "source_tei": "shakespeare_king-richard-iii_spa.xml",
+      "source_path": "tei/shakespeare/shakespeare_king-richard-iii_spa.xml",
+      "source_sha256": "c3ba084747607c26c64c738d044b8eebb8d3d6e8c15f409b81fc9510a7392d32",
+      "title": "Ricardo III",
+      "author": "William Shakespeare (1564-1616)",
+      "language": "es",
+      "canonical_url": "https://bookstacks.org/es/authors/shakespeare/king-richard-iii",
+      "files": [
+        {
+          "theme": "light",
+          "file": "shakespeare_king-richard-iii_spa-light.pdf",
+          "path": "books/shakespeare/shakespeare_king-richard-iii_spa/shakespeare_king-richard-iii_spa-light.pdf",
+          "bytes": 313249,
+          "sha256": "c5f13eb646c8941535136823c81adfef6a38c7880a3670a96723acda2cce0d1c",
+          "pages": 154,
+          "text_sha256": "bbe05875548e1a2c08a6911e41d66a14f04753b56b2d3d09c11ce23559506de8"
+        },
+        {
+          "theme": "dark",
+          "file": "shakespeare_king-richard-iii_spa-dark.pdf",
+          "path": "books/shakespeare/shakespeare_king-richard-iii_spa/shakespeare_king-richard-iii_spa-dark.pdf",
+          "bytes": 331703,
+          "sha256": "aac0e68b0c02011efef6c13be42a5b61dc7d23a5caf19138e67e4820c59ed3b1",
+          "pages": 154,
+          "text_sha256": "bbe05875548e1a2c08a6911e41d66a14f04753b56b2d3d09c11ce23559506de8"
         }
       ]
     },

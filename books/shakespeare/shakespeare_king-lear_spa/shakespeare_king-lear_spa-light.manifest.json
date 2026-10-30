@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-lear-spa",
+  "work_id": "shakespeare:king-lear",
+  "title": "El Rey Lear",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "es",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/es/authors/shakespeare/king-lear",
+  "source_tei": "shakespeare_king-lear_spa.xml",
+  "source_sha256": "785a1635eaf21b9aa6db708e55b4eccc4330107bf8a14bb4c162d2bc0ce76194",
+  "generator_fingerprint": "01c0cc70d04a785223407fb997024bce58f73da87135d71291e406e46916210d",
+  "validations": {
+    "pdf": {
+      "pages": 158,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-lear_spa-light.pdf",
+      "bytes": 325094,
+      "sha256": "f1c94758310b606fc9be0e3547293628dae434515779cfe69dc5b29a7e7ff033"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-king-richard-iii-spa",
+  "work_id": "shakespeare:king-richard-iii",
+  "title": "Ricardo III",
+  "author": "William Shakespeare (1564-1616)",
+  "language": "es",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/es/authors/shakespeare/king-richard-iii",
+  "source_tei": "shakespeare_king-richard-iii_spa.xml",
+  "source_sha256": "c3ba084747607c26c64c738d044b8eebb8d3d6e8c15f409b81fc9510a7392d32",
+  "generator_fingerprint": "6932b591d4be29dab95a59c42096e7565e9febfc8bffddf09103c827e42d6d09",
+  "validations": {
+    "pdf": {
+      "pages": 154,
+      "outline_items": 7
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_king-richard-iii_spa-dark.pdf",
+      "bytes": 331703,
+      "sha256": "aac0e68b0c02011efef6c13be42a5b61dc7d23a5caf19138e67e4820c59ed3b1"
+    }
+  ]
+}
