@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-henry-vi-part-1",
   "source_tei": "shakespeare_king-henry-vi-part-1_eng.xml",
   "source_sha256": "962ac8b0fceced8ee3eafb4cea021d1cd730de648f161fd03113dc751eb0b7ca",
-  "generator_fingerprint": "6f0343c7d0796bd00dd8eb9d01bbcc1e2352519d43a914f1f02dc0995f26d3db",
+  "generator_fingerprint": "5ce32b60c6bd47c94284557308f49c2ba8141f5e09d6030024f4f617236a8ee0",
   "validations": {
     "pdf": {
-      "pages": 144,
+      "pages": 143,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_king-henry-vi-part-1_eng-light.pdf",
-      "bytes": 332254,
-      "sha256": "4542a291e33d6156d8feb180acf906bb5078956e1de9a90ae3b8a6043a1f27c4"
+      "bytes": 338516,
+      "sha256": "863af0c1b58e4b6fe1fef0988ab25cb68c62de1315cc9f095a31d1748ea1ae37"
     }
   ]
 }

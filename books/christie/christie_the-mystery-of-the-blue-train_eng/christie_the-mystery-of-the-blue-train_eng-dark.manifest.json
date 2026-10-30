@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-mystery-of-the-blue-train_eng",
+  "work_id": "christie:the-mystery-of-the-blue-train",
+  "title": "The Mystery of the Blue Train",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-mystery-of-the-blue-train",
+  "source_tei": "christie_the-mystery-of-the-blue-train_eng.xml",
+  "source_sha256": "0d8058bd74f2002e8f2f45faeba62f6b1a973139dbd32c33a66524ce47786134",
+  "generator_fingerprint": "d447be200f86521f690b1facc8be45e811466a1322913ca21502e9d9a2b686bf",
+  "validations": {
+    "pdf": {
+      "pages": 233,
+      "outline_items": 36
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-mystery-of-the-blue-train_eng-dark.pdf",
+      "bytes": 14890058,
+      "sha256": "76bbf33d0b258a9d22e995913112f8a5a13a91c7571cd20d51ec383f42d7d1d3"
+    }
+  ]
+}

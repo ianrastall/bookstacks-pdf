@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/the-winters-tale",
   "source_tei": "shakespeare_the-winters-tale_fra.xml",
   "source_sha256": "a66beddbb7e0c069dedcf559ffc7a389f5186cab15255a8297420b7e326d9dce",
-  "generator_fingerprint": "42a25e460952a60cdb454d4935f8a3fad2e745d73193e0349fb1a56f7f4c958e",
+  "generator_fingerprint": "59860393a520c037c8241cc68826502ec7a67bbac61db706748c18e88e1d8220",
   "validations": {
     "pdf": {
-      "pages": 134,
+      "pages": 132,
       "outline_items": 7
     }
   },
   "files": [
     {
       "name": "shakespeare_the-winters-tale_fra-dark.pdf",
-      "bytes": 334452,
-      "sha256": "cdf67fededd47740e4249fdd228dcb50bffa11df5170abf68fb917a9327def7a"
+      "bytes": 340205,
+      "sha256": "c60e9f4a75b09a9df97634970faf482a4112891f8d6ccd21c6c2b339b750e288"
     }
   ]
 }

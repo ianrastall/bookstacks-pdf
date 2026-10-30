@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/alls-well-that-ends-well",
   "source_tei": "shakespeare_alls-well-that-ends-well_eng.xml",
   "source_sha256": "24e296f3580816274d6bed6f10e0a632cd3c585b091298ed57c0a274aab74506",
-  "generator_fingerprint": "cff369a1afd37bb7160ef3c71060ef2cffa777616726cacdc7fe8863c617c4a6",
+  "generator_fingerprint": "b24575294b08e33a2ca3fc79e762262b79f118801d39083fe23b484d80dd0e9b",
   "validations": {
     "pdf": {
-      "pages": 148,
+      "pages": 147,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_alls-well-that-ends-well_eng-light.pdf",
-      "bytes": 298053,
-      "sha256": "8e96ff10fa20114ea3e12ede4844f3e4ca04c4faf9820f547ac178c96ae38cae"
+      "bytes": 307854,
+      "sha256": "ee8ef507bbbeb0202c455a2876b691bca63b36d8f68731a471e06fd68be6a7a2"
     }
   ]
 }

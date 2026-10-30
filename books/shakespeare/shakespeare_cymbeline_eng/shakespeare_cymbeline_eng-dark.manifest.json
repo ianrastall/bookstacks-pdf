@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/cymbeline",
   "source_tei": "shakespeare_cymbeline_eng.xml",
   "source_sha256": "1fc3edb4629c3572a64a812ddfaac48fc914b16a6e3e7a971d915ff88e0083dd",
-  "generator_fingerprint": "feb8142022e17be2818bc5fc8a46fdf687f54b3550d3eefad443de068710b70f",
+  "generator_fingerprint": "81f8615421c2f0a9fc87fa63ee064105974ab1620922c2894305acb262ffde3b",
   "validations": {
     "pdf": {
-      "pages": 177,
+      "pages": 176,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_cymbeline_eng-dark.pdf",
-      "bytes": 416093,
-      "sha256": "c1307da13d5f7acbb489a9381c94af5304f8727da8206864b00ab1812de7a8e5"
+      "bytes": 421670,
+      "sha256": "9b8878e176a3c7929c6b1d07c937f35eda50f6c6abdf935820d54b495fb9174a"
     }
   ]
 }

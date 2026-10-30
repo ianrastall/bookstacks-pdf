@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/the-two-noble-kinsmen",
   "source_tei": "shakespeare_the-two-noble-kinsmen_eng.xml",
   "source_sha256": "ee94be56920796caa5ce96eb5473fcc331443e9f61fc47a12d6b3cce7edc0a87",
-  "generator_fingerprint": "ff0a7017a1dc978b0404ea16a4675cf50dc05e1d38b3f8941038245818a29c51",
+  "generator_fingerprint": "0865c392e03327682920fa19280180df0bb34f90d0c796ed4687d32f2912f2ab",
   "validations": {
     "pdf": {
-      "pages": 166,
+      "pages": 167,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_the-two-noble-kinsmen_eng-dark.pdf",
-      "bytes": 381261,
-      "sha256": "eb6daf5c83e7ef5e07c76795f27440311fecdbc82f114497f4a7dc863539a133"
+      "bytes": 388710,
+      "sha256": "530e73404269e8fdcae72add5c73aa508a76c56eaa2e9575f00bf3f41d63c5f9"
     }
   ]
 }

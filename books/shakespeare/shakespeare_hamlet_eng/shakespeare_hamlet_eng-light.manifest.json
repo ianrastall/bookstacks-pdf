@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/hamlet",
   "source_tei": "shakespeare_hamlet_eng.xml",
   "source_sha256": "a4490149ef745393aea08484639c63196b7e08a0b5f5e2e81e53d0080c44c501",
-  "generator_fingerprint": "4f771e619e0fd1b1c219620e9987c889797df10dab6e4e2b08a3451dc22005f2",
+  "generator_fingerprint": "df7d5142977e4d2cf5e2723d182cf5047133e889926b67153b28a1d4420f179c",
   "validations": {
     "pdf": {
       "pages": 192,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_hamlet_eng-light.pdf",
-      "bytes": 404779,
-      "sha256": "664413a615468e89052eba0eabd3eb419d59bafb0e3898992bf2b816ad118328"
+      "bytes": 414006,
+      "sha256": "fb0aaf747b66a848b6e848085b3b009d2a3e858a0af4472405b8243d59b268d2"
     }
   ]
 }

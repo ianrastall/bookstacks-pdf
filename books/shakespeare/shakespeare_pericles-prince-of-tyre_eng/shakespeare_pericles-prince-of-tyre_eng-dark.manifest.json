@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/pericles-prince-of-tyre",
   "source_tei": "shakespeare_pericles-prince-of-tyre_eng.xml",
   "source_sha256": "a120ac56e8f06ddcc804f9cd807195f1ec4d39d2ab6cd230955640fda0505bd3",
-  "generator_fingerprint": "76de1a7ce812b7c1c898afa60ac542267941135d5cda20e6fd8047c55be72c49",
+  "generator_fingerprint": "97f4e297e9e893e1a4c362ce09d1b126cb7624ea9af26eb3ccda0587776be4f9",
   "validations": {
     "pdf": {
-      "pages": 121,
+      "pages": 118,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_pericles-prince-of-tyre_eng-dark.pdf",
-      "bytes": 268056,
-      "sha256": "d13b7bbf273116afb04eec21e5599ed11f77097693d483a720bdaf6ed0e9c6f2"
+      "bytes": 271695,
+      "sha256": "0d590e3d57a21fb1f3d3bbf40dc5168a71b7b882604650638bc3fde826a0ec36"
     }
   ]
 }

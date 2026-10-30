@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/the-tempest",
   "source_tei": "shakespeare_the-tempest_fra.xml",
   "source_sha256": "9b82dbcadb59e9683f945f5d820897f5d9dde1b976c17c744bb5e86749f625fe",
-  "generator_fingerprint": "da5353451a25a5336f76707888322f54d3af35f72877e9c67b60e11d39415c4f",
+  "generator_fingerprint": "894b3b9549dbc6665c44839af730f8ad182ea38ede7dae894855359d9ea8b01f",
   "validations": {
     "pdf": {
-      "pages": 107,
+      "pages": 106,
       "outline_items": 9
     }
   },
   "files": [
     {
       "name": "shakespeare_the-tempest_fra-light.pdf",
-      "bytes": 247800,
-      "sha256": "a87f40a7cfe23f4e2504d3db15f2b4d079e31ea5121eee5eb2b69995c607d04a"
+      "bytes": 253896,
+      "sha256": "3c4875bb661cc54a96a739f78b82282899b6d41e38d13bdbd8a190e48ede005e"
     }
   ]
 }

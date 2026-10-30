@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-richard-iii",
   "source_tei": "shakespeare_king-richard-iii_eng.xml",
   "source_sha256": "41bacdb5712b6e52bebe2c88f26f1c98fb59970bf2c2437de90e179e41cdaff7",
-  "generator_fingerprint": "85a5dec26d32403455d342e3c821f3e634826ddff25e5dcacd47b0572a692520",
+  "generator_fingerprint": "7d070af2ec146e5af5be707f08c57e7b797f02eb483ebd9a2e7ed12a46f6469d",
   "validations": {
     "pdf": {
-      "pages": 194,
+      "pages": 192,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_king-richard-iii_eng-light.pdf",
-      "bytes": 413897,
-      "sha256": "634c9d62154a760ff2a30f178fca1d07dc0daff125a5fb4dc290d03191a3fa68"
+      "bytes": 421246,
+      "sha256": "7133a25e30725b51fe008e8e76907e047e882e7aa00103257544c9894feb65c7"
     }
   ]
 }

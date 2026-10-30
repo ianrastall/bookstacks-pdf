@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/macbeth",
   "source_tei": "shakespeare_macbeth_fra.xml",
   "source_sha256": "0349b038d76ecc751b9e99158ce4c0e5bb357088d009f3ba890b562b88deabe9",
-  "generator_fingerprint": "ff9bf4e368ab1bcc2b10aed5529477d76ff56cecf0c204479e2b21571b3bef75",
+  "generator_fingerprint": "574f6283fb6a0e7536d1fa40ba1456b507f58ca1911a6b4188fd3f1fce4c0e42",
   "validations": {
     "pdf": {
       "pages": 122,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_macbeth_fra-dark.pdf",
-      "bytes": 309824,
-      "sha256": "3463b4ebdc6d4b23ffeb6c1ebd1785813be417c2217fdf00d3e892b0c2a38d3d"
+      "bytes": 316707,
+      "sha256": "988298f9f1d2a9722cf1e2c3eb21962267fa8f1032ac19232a29e6a4bff30d20"
     }
   ]
 }

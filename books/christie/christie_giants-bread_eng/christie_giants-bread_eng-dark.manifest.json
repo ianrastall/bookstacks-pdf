@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_giants-bread_eng",
+  "work_id": "christie:giants-bread",
+  "title": "Giants’ Bread",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/giants-bread",
+  "source_tei": "christie_giants-bread_eng.xml",
+  "source_sha256": "1574ba28a32b20ffaaedb012b0e533825d7a0677e0fc249b84d90975ad9996f4",
+  "generator_fingerprint": "d06ef8962dc03a419aba0ac1c556f965f7837b1c6c944a79d52641dbcf88dd52",
+  "validations": {
+    "pdf": {
+      "pages": 285,
+      "outline_items": 6
+    }
+  },
+  "files": [
+    {
+      "name": "christie_giants-bread_eng-dark.pdf",
+      "bytes": 12537793,
+      "sha256": "da2c6225a602d40d1a6d760943edd56797edc8232154801bc8cb9d5e37d8965c"
+    }
+  ]
+}

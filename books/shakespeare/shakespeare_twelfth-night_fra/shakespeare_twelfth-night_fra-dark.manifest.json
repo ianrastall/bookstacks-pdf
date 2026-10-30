@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/twelfth-night",
   "source_tei": "shakespeare_twelfth-night_fra.xml",
   "source_sha256": "30870dfc11d6f989e50af19637a6fb1440069f75082be6378955584794731353",
-  "generator_fingerprint": "97106d260c4f07d692df110b6d5f4a954003101ea270b5364cf3f33466385633",
+  "generator_fingerprint": "a7516a001d1e2928c615cc8b42085b1927a8301f5825e49bbe6a89191ce0a37c",
   "validations": {
     "pdf": {
       "pages": 133,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_twelfth-night_fra-dark.pdf",
-      "bytes": 302524,
-      "sha256": "ff85fb9f5397399d93956a96cd12f997e731ccefc7a417af8a3bc4f5c21323dc"
+      "bytes": 312291,
+      "sha256": "f3d2a9ecde25234b71ec9d3b1001fd57bdc01f0f95b88196e1b43e1aa1fa112e"
     }
   ]
 }

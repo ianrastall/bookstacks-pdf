@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/timon-of-athens",
   "source_tei": "shakespeare_timon-of-athens_eng.xml",
   "source_sha256": "399437d0a79a36a3d022b8f718c2b490b8c2e0506fdb24e2d06445137483adf5",
-  "generator_fingerprint": "b527d834c47c51e806d271caf3180fdcb8b9835e70ae61a118a97e89e3c2dd70",
+  "generator_fingerprint": "0fe039e0059f17caf3f6753c136594eca6960c1cf867f6a53f1c5d51a5bf2bb4",
   "validations": {
     "pdf": {
-      "pages": 134,
+      "pages": 133,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_timon-of-athens_eng-dark.pdf",
-      "bytes": 283451,
-      "sha256": "5cd2a85407b0ffad075b841a0345745611e884ef0ac7ef89fbb1429899a00cbf"
+      "bytes": 290273,
+      "sha256": "2a4ea4ac0f8dfb5327219a3f049e2161f3eadb808aaf8b0e28e63cd866857ede"
     }
   ]
 }

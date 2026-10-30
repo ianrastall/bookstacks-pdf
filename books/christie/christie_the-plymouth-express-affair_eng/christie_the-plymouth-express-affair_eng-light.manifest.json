@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-plymouth-express-affair_eng",
+  "work_id": "christie:the-plymouth-express-affair",
+  "title": "The Plymouth Express Affair",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-plymouth-express-affair",
+  "source_tei": "christie_the-plymouth-express-affair_eng.xml",
+  "source_sha256": "bd1487d12951f091515456d2c34994e242c9a54f9fd541936ac36b71b1c9483e",
+  "generator_fingerprint": "cce5762efa90bbfd2eb628b4b3a0ef4fb76e0629d7df64666916c6f6253b87b3",
+  "validations": {
+    "pdf": {
+      "pages": 18,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-plymouth-express-affair_eng-light.pdf",
+      "bytes": 494212,
+      "sha256": "3e06ff208394b0204b8ae3207e757986661be989904252c9f4ad6486d315b5bb"
+    }
+  ]
+}

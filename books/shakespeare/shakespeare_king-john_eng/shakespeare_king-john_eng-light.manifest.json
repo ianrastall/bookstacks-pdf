@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-john",
   "source_tei": "shakespeare_king-john_eng.xml",
   "source_sha256": "f4b37eeac23c991cd3fa49ad6882688e6865bd07c1d08d441474313536570728",
-  "generator_fingerprint": "a1d57cd8c6a0fb170ba93460a79334daeadbfc85073c2c4a857af6496f9098c7",
+  "generator_fingerprint": "6ff8052cc4876201e4eae82cd03a1bfc446011694bcfbf5cba6501c71ee2915c",
   "validations": {
     "pdf": {
-      "pages": 127,
+      "pages": 126,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_king-john_eng-light.pdf",
-      "bytes": 305780,
-      "sha256": "410648e56a5898a412720bd311d670a0766cd02d27aa45f98a91370a0b09bc09"
+      "bytes": 308580,
+      "sha256": "71f2051520a9fdcc0ad5aaecc049a62d5fffb22ed70ce8e8c291f29690c6fff2"
     }
   ]
 }

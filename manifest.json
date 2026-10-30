@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source_repository": "https://github.com/ianrastall/bookstacks",
-  "source_commit": "8bdce4f699bf701b34a4e614f4ec99e4c5d94ba8",
+  "source_commit": "3a69ee0daca29bdc871b4ce94f72186407d9742a",
   "base_url": "https://ianrastall.github.io/bookstacks-pdf/",
   "editions": [
     {
@@ -931,6 +931,533 @@
           "sha256": "ca8abf72be0d261d97117dfb9c1f2873438473ffe34df57dfa44586fb886dacf",
           "pages": 138,
           "text_sha256": "c221542b76bf80fc1aae0410920ac6db7da7b6eda6b84487124ff6a44d273510"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_giants-bread_eng",
+      "edition_id": "christie_giants-bread_eng",
+      "source_tei": "christie_giants-bread_eng.xml",
+      "source_path": "tei/christie/christie_giants-bread_eng.xml",
+      "source_sha256": "1574ba28a32b20ffaaedb012b0e533825d7a0677e0fc249b84d90975ad9996f4",
+      "title": "Giants’ Bread",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/giants-bread",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_giants-bread_eng-light.pdf",
+          "path": "books/christie/christie_giants-bread_eng/christie_giants-bread_eng-light.pdf",
+          "bytes": 12503192,
+          "sha256": "47a5a4b4a08ea82d134f88441829185f188c98e6d4e8cb7a92f75ff720b7ffa0",
+          "pages": 285,
+          "text_sha256": "ea268489ee4f8d6bbf60518b77c4e79b82d65a0623369f77aa73cb7895ad8216"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_giants-bread_eng-dark.pdf",
+          "path": "books/christie/christie_giants-bread_eng/christie_giants-bread_eng-dark.pdf",
+          "bytes": 12537793,
+          "sha256": "da2c6225a602d40d1a6d760943edd56797edc8232154801bc8cb9d5e37d8965c",
+          "pages": 285,
+          "text_sha256": "ea268489ee4f8d6bbf60518b77c4e79b82d65a0623369f77aa73cb7895ad8216"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_murder-at-the-vicarage_eng",
+      "edition_id": "christie_murder-at-the-vicarage_eng",
+      "source_tei": "christie_murder-at-the-vicarage_eng.xml",
+      "source_path": "tei/christie/christie_murder-at-the-vicarage_eng.xml",
+      "source_sha256": "0bf5fdf540b303e98931bad68898c31a57807161b2a694859eb164abec89b813",
+      "title": "Murder at the Vicarage",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/murder-at-the-vicarage",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_murder-at-the-vicarage_eng-light.pdf",
+          "path": "books/christie/christie_murder-at-the-vicarage_eng/christie_murder-at-the-vicarage_eng-light.pdf",
+          "bytes": 13770298,
+          "sha256": "f1dee928a7c31bd2cc900b12046788cf4b93b7ffb059cabe43cefceca61fd929",
+          "pages": 224,
+          "text_sha256": "53ea2712c165f808deb49bff22d375b075f09777d762a4eb24a6b91972978f4d"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_murder-at-the-vicarage_eng-dark.pdf",
+          "path": "books/christie/christie_murder-at-the-vicarage_eng/christie_murder-at-the-vicarage_eng-dark.pdf",
+          "bytes": 13797480,
+          "sha256": "6078e3069e22392d303a80ed844927281af4e66efcbfea42d8999aa128209565",
+          "pages": 224,
+          "text_sha256": "53ea2712c165f808deb49bff22d375b075f09777d762a4eb24a6b91972978f4d"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_partners-in-crime_eng",
+      "edition_id": "christie_partners-in-crime_eng",
+      "source_tei": "christie_partners-in-crime_eng.xml",
+      "source_path": "tei/christie/christie_partners-in-crime_eng.xml",
+      "source_sha256": "fb7ff77c880bbdead24d8a57b23666f126ae5d87b3afc9d40fea2be182b76e15",
+      "title": "Partners in Crime",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/partners-in-crime",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_partners-in-crime_eng-light.pdf",
+          "path": "books/christie/christie_partners-in-crime_eng/christie_partners-in-crime_eng-light.pdf",
+          "bytes": 9864995,
+          "sha256": "5b76a1573c3cd0fa871660773a5deeb2d2e7ee4b0a78bd8df4ba91a224357fe4",
+          "pages": 205,
+          "text_sha256": "11615febbd47784c88dbc8368e031fb9b86f19b82c36448cc94800138e939f1b"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_partners-in-crime_eng-dark.pdf",
+          "path": "books/christie/christie_partners-in-crime_eng/christie_partners-in-crime_eng-dark.pdf",
+          "bytes": 9889868,
+          "sha256": "9a2adfcec4b799a8258018d0129fa6c59bc9f772a2f8711735ed32df8c270a91",
+          "pages": 205,
+          "text_sha256": "11615febbd47784c88dbc8368e031fb9b86f19b82c36448cc94800138e939f1b"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_poirot-investigates_eng",
+      "edition_id": "christie_poirot-investigates_eng",
+      "source_tei": "christie_poirot-investigates_eng.xml",
+      "source_path": "tei/christie/christie_poirot-investigates_eng.xml",
+      "source_sha256": "907f1dcc0892730296b765b46f9a5766ac04db07cadb510866641c1075fb6f05",
+      "title": "Poirot Investigates",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/poirot-investigates",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_poirot-investigates_eng-light.pdf",
+          "path": "books/christie/christie_poirot-investigates_eng/christie_poirot-investigates_eng-light.pdf",
+          "bytes": 4864897,
+          "sha256": "d9ed389e4768f4f24191e847804a691652e108d48dce12ac5d7c7656c9318cc2",
+          "pages": 147,
+          "text_sha256": "71d2c32a483e4d740dd8d9fc9fd6fbdf49ae25653b808ba96f887ef205a656c8"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_poirot-investigates_eng-dark.pdf",
+          "path": "books/christie/christie_poirot-investigates_eng/christie_poirot-investigates_eng-dark.pdf",
+          "bytes": 4882585,
+          "sha256": "5f641d605bd7ec71c4ab259fd1931292b67cbc509a59facbb8c0581b3dd4edf3",
+          "pages": 147,
+          "text_sha256": "71d2c32a483e4d740dd8d9fc9fd6fbdf49ae25653b808ba96f887ef205a656c8"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-big-four_eng",
+      "edition_id": "christie_the-big-four_eng",
+      "source_tei": "christie_the-big-four_eng.xml",
+      "source_path": "tei/christie/christie_the-big-four_eng.xml",
+      "source_sha256": "0ccd3e492f9566e4fc08014d7a40c92ea8dfe940fa1706ad43d1c3e5029bd83a",
+      "title": "The Big Four",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-big-four",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-big-four_eng-light.pdf",
+          "path": "books/christie/christie_the-big-four_eng/christie_the-big-four_eng-light.pdf",
+          "bytes": 7785251,
+          "sha256": "ea631481c28dd9cea8332e3ec1a9c8b15d908e2b0c8b26f9e5d987b3b0026076",
+          "pages": 159,
+          "text_sha256": "b45397fd4448c8e7213540b0e10584bd34f7222ab4d0c9464a11e3461e965e3f"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-big-four_eng-dark.pdf",
+          "path": "books/christie/christie_the-big-four_eng/christie_the-big-four_eng-dark.pdf",
+          "bytes": 7804469,
+          "sha256": "d4ab4741a53ddf001e761e1032a68ee04d281382f9fb3ca734d5f7270be2dabf",
+          "pages": 159,
+          "text_sha256": "b45397fd4448c8e7213540b0e10584bd34f7222ab4d0c9464a11e3461e965e3f"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-hunters-lodge-case_eng",
+      "edition_id": "christie_the-hunters-lodge-case_eng",
+      "source_tei": "christie_the-hunters-lodge-case_eng.xml",
+      "source_path": "tei/christie/christie_the-hunters-lodge-case_eng.xml",
+      "source_sha256": "7e234e9998bab6dd9a64bf88924a7b50e0b1e219848df71a409070890d22d8a7",
+      "title": "The Hunter’s Lodge Case",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-hunters-lodge-case",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-hunters-lodge-case_eng-light.pdf",
+          "path": "books/christie/christie_the-hunters-lodge-case_eng/christie_the-hunters-lodge-case_eng-light.pdf",
+          "bytes": 458693,
+          "sha256": "d6fb5430f088f539fe903815558c4e72635174a2e1dec285a0d22f2ec1bb75bd",
+          "pages": 17,
+          "text_sha256": "277f22dcaf49286682fb6910f4d28e09c0c0aaf0941622e65c62f61f6fac3ea1"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-hunters-lodge-case_eng-dark.pdf",
+          "path": "books/christie/christie_the-hunters-lodge-case_eng/christie_the-hunters-lodge-case_eng-dark.pdf",
+          "bytes": 460639,
+          "sha256": "eac907cdd85d1ad6a988e0ef5405d64fe9c20a992af232bcc308bd54999df23d",
+          "pages": 17,
+          "text_sha256": "277f22dcaf49286682fb6910f4d28e09c0c0aaf0941622e65c62f61f6fac3ea1"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-man-in-the-brown-suit_eng",
+      "edition_id": "christie_the-man-in-the-brown-suit_eng",
+      "source_tei": "christie_the-man-in-the-brown-suit_eng.xml",
+      "source_path": "tei/christie/christie_the-man-in-the-brown-suit_eng.xml",
+      "source_sha256": "3e4c9d0f9d1cefcbd99a2f42297d24efbcac92cde5e2e48f519f0e0009459aee",
+      "title": "The Man in the Brown Suit",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-man-in-the-brown-suit",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-man-in-the-brown-suit_eng-light.pdf",
+          "path": "books/christie/christie_the-man-in-the-brown-suit_eng/christie_the-man-in-the-brown-suit_eng-light.pdf",
+          "bytes": 15187339,
+          "sha256": "0877ba762c8944d5a0dee023493fe99f28e6e28fcd085129cfe421579989a0d4",
+          "pages": 227,
+          "text_sha256": "1aaec460d87fb58f587147855fc301f9e6d4f918d8b6e5c476775c8b4fc9771d"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-man-in-the-brown-suit_eng-dark.pdf",
+          "path": "books/christie/christie_the-man-in-the-brown-suit_eng/christie_the-man-in-the-brown-suit_eng-dark.pdf",
+          "bytes": 15214798,
+          "sha256": "0b3997a0e6e5947140768f39798552dbe51e3d0e440f6f3a90e6234ef98d85c4",
+          "pages": 227,
+          "text_sha256": "1aaec460d87fb58f587147855fc301f9e6d4f918d8b6e5c476775c8b4fc9771d"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-missing-will_eng",
+      "edition_id": "christie_the-missing-will_eng",
+      "source_tei": "christie_the-missing-will_eng.xml",
+      "source_path": "tei/christie/christie_the-missing-will_eng.xml",
+      "source_sha256": "5a2f4cfdbf613239633696861063f9ef6678c1b061b791a84e97305cddbaa1b5",
+      "title": "The Missing Will",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-missing-will",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-missing-will_eng-light.pdf",
+          "path": "books/christie/christie_the-missing-will_eng/christie_the-missing-will_eng-light.pdf",
+          "bytes": 432942,
+          "sha256": "6debec49230ddfe627d4c670419dd331d54af6407247ca03593abc068943ff1e",
+          "pages": 14,
+          "text_sha256": "21527e631f4fce68e73f3d88225b7ddc1b9c9b7edad2651ddbeffdac54625161"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-missing-will_eng-dark.pdf",
+          "path": "books/christie/christie_the-missing-will_eng/christie_the-missing-will_eng-dark.pdf",
+          "bytes": 434535,
+          "sha256": "b3f8d1b2ec960be8c84b20d29b329fed2aa16b6f2ca8b3c2725c4152d159d7d4",
+          "pages": 14,
+          "text_sha256": "21527e631f4fce68e73f3d88225b7ddc1b9c9b7edad2651ddbeffdac54625161"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-murder-of-roger-ackroyd_eng",
+      "edition_id": "christie_the-murder-of-roger-ackroyd_eng",
+      "source_tei": "christie_the-murder-of-roger-ackroyd_eng.xml",
+      "source_path": "tei/christie/christie_the-murder-of-roger-ackroyd_eng.xml",
+      "source_sha256": "496d13d0e3063e366e1dc3813c5651dc29552f9ddc35d6a8d00ad0966ecf3f62",
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-murder-of-roger-ackroyd",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-murder-of-roger-ackroyd_eng-light.pdf",
+          "path": "books/christie/christie_the-murder-of-roger-ackroyd_eng/christie_the-murder-of-roger-ackroyd_eng-light.pdf",
+          "bytes": 11729455,
+          "sha256": "cd1b3dac57381aff81910047de422e2e456e5a64f8df0198926287bd639498f5",
+          "pages": 213,
+          "text_sha256": "0f274da04e40ff0fadb570050e426aa5ef914598a45463d101e50f5f07bf32eb"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-murder-of-roger-ackroyd_eng-dark.pdf",
+          "path": "books/christie/christie_the-murder-of-roger-ackroyd_eng/christie_the-murder-of-roger-ackroyd_eng-dark.pdf",
+          "bytes": 11755371,
+          "sha256": "36a75cb63245e6834445d41cffa854d99be4329a40832b315b1ed3948bc9be47",
+          "pages": 213,
+          "text_sha256": "0f274da04e40ff0fadb570050e426aa5ef914598a45463d101e50f5f07bf32eb"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-murder-on-the-links_eng",
+      "edition_id": "christie_the-murder-on-the-links_eng",
+      "source_tei": "christie_the-murder-on-the-links_eng.xml",
+      "source_path": "tei/christie/christie_the-murder-on-the-links_eng.xml",
+      "source_sha256": "442af7899c9a557ce00c06bd2aaa5b4c63dc23e2b5fec98dbe5da578d8062bd0",
+      "title": "The Murder on the Links",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-murder-on-the-links",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-murder-on-the-links_eng-light.pdf",
+          "path": "books/christie/christie_the-murder-on-the-links_eng/christie_the-murder-on-the-links_eng-light.pdf",
+          "bytes": 11367930,
+          "sha256": "416412eedbb88d0119045c55d309ddb9a62fc94b70e7460f97a6bfcca96baf21",
+          "pages": 201,
+          "text_sha256": "76421e95a5f3e8d2e121bd8cc619114b52e3496bc26d4e24ca084b01dfb3c838"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-murder-on-the-links_eng-dark.pdf",
+          "path": "books/christie/christie_the-murder-on-the-links_eng/christie_the-murder-on-the-links_eng-dark.pdf",
+          "bytes": 11392312,
+          "sha256": "f999f98656bcbdf7e6e12a2f615e9e0f808745650110dd46f65b8722d4960c9d",
+          "pages": 201,
+          "text_sha256": "76421e95a5f3e8d2e121bd8cc619114b52e3496bc26d4e24ca084b01dfb3c838"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-mysterious-affair-at-styles_eng",
+      "edition_id": "christie_the-mysterious-affair-at-styles_eng",
+      "source_tei": "christie_the-mysterious-affair-at-styles_eng.xml",
+      "source_path": "tei/christie/christie_the-mysterious-affair-at-styles_eng.xml",
+      "source_sha256": "aba01155045346997a11039ea053bf81996bede7e1ad8a9c5366a3b5866bf129",
+      "title": "The Mysterious Affair at Styles",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-mysterious-affair-at-styles",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-mysterious-affair-at-styles_eng-light.pdf",
+          "path": "books/christie/christie_the-mysterious-affair-at-styles_eng/christie_the-mysterious-affair-at-styles_eng-light.pdf",
+          "bytes": 5973804,
+          "sha256": "1cf85c41d8b603f48bc75db61f646a4aa4c19f3b8fef6aefe1f48afe5627d9b9",
+          "pages": 166,
+          "text_sha256": "d1e2da2f2bf25def660d97857022fe24d6e75ffd0c1cd09964e8699de5596aaa"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-mysterious-affair-at-styles_eng-dark.pdf",
+          "path": "books/christie/christie_the-mysterious-affair-at-styles_eng/christie_the-mysterious-affair-at-styles_eng-dark.pdf",
+          "bytes": 5993919,
+          "sha256": "2fb7241616839d311a5dd900b51459b573724ec60f20bd17ff14002b2798a374",
+          "pages": 166,
+          "text_sha256": "d1e2da2f2bf25def660d97857022fe24d6e75ffd0c1cd09964e8699de5596aaa"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-mysterious-mr-quin_eng",
+      "edition_id": "christie_the-mysterious-mr-quin_eng",
+      "source_tei": "christie_the-mysterious-mr-quin_eng.xml",
+      "source_path": "tei/christie/christie_the-mysterious-mr-quin_eng.xml",
+      "source_sha256": "247317bb1c1a90e2e8e961f70147f81241e70f9d9ffe5fb07ee1f0010988a551",
+      "title": "The Mysterious Mr. Quin",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-mysterious-mr-quin",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-mysterious-mr-quin_eng-light.pdf",
+          "path": "books/christie/christie_the-mysterious-mr-quin_eng/christie_the-mysterious-mr-quin_eng-light.pdf",
+          "bytes": 5463126,
+          "sha256": "981603e0ffe86bc72bf261b14a9a3257d72e69ff9a15fa594b636f447e44bb6a",
+          "pages": 211,
+          "text_sha256": "4f140e83421f0bd3c5be1728bf77b92202dfbac41c1d7bbde78338882c5e94b6"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-mysterious-mr-quin_eng-dark.pdf",
+          "path": "books/christie/christie_the-mysterious-mr-quin_eng/christie_the-mysterious-mr-quin_eng-dark.pdf",
+          "bytes": 5488687,
+          "sha256": "ccc188b230928fc1ecd7350591f7ece158c60557c6c2f78e911128228e171a91",
+          "pages": 211,
+          "text_sha256": "4f140e83421f0bd3c5be1728bf77b92202dfbac41c1d7bbde78338882c5e94b6"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-mystery-of-the-blue-train_eng",
+      "edition_id": "christie_the-mystery-of-the-blue-train_eng",
+      "source_tei": "christie_the-mystery-of-the-blue-train_eng.xml",
+      "source_path": "tei/christie/christie_the-mystery-of-the-blue-train_eng.xml",
+      "source_sha256": "0d8058bd74f2002e8f2f45faeba62f6b1a973139dbd32c33a66524ce47786134",
+      "title": "The Mystery of the Blue Train",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-mystery-of-the-blue-train",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-mystery-of-the-blue-train_eng-light.pdf",
+          "path": "books/christie/christie_the-mystery-of-the-blue-train_eng/christie_the-mystery-of-the-blue-train_eng-light.pdf",
+          "bytes": 14861842,
+          "sha256": "5866e41d36ead104990da17267b4f7240d9db2d1870ad5d081912fe0f5b84601",
+          "pages": 233,
+          "text_sha256": "f9125920b2956fb7969fe95605ac18e1a481cea431a0892e0dd843b802ea30f8"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-mystery-of-the-blue-train_eng-dark.pdf",
+          "path": "books/christie/christie_the-mystery-of-the-blue-train_eng/christie_the-mystery-of-the-blue-train_eng-dark.pdf",
+          "bytes": 14890058,
+          "sha256": "76bbf33d0b258a9d22e995913112f8a5a13a91c7571cd20d51ec383f42d7d1d3",
+          "pages": 233,
+          "text_sha256": "f9125920b2956fb7969fe95605ac18e1a481cea431a0892e0dd843b802ea30f8"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-plymouth-express-affair_eng",
+      "edition_id": "christie_the-plymouth-express-affair_eng",
+      "source_tei": "christie_the-plymouth-express-affair_eng.xml",
+      "source_path": "tei/christie/christie_the-plymouth-express-affair_eng.xml",
+      "source_sha256": "bd1487d12951f091515456d2c34994e242c9a54f9fd541936ac36b71b1c9483e",
+      "title": "The Plymouth Express Affair",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-plymouth-express-affair",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-plymouth-express-affair_eng-light.pdf",
+          "path": "books/christie/christie_the-plymouth-express-affair_eng/christie_the-plymouth-express-affair_eng-light.pdf",
+          "bytes": 494212,
+          "sha256": "3e06ff208394b0204b8ae3207e757986661be989904252c9f4ad6486d315b5bb",
+          "pages": 18,
+          "text_sha256": "81fc9d61bcac7bc2d76235f6a11c9f61f7e8a6f7da6517bae56f47172e6b5eaa"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-plymouth-express-affair_eng-dark.pdf",
+          "path": "books/christie/christie_the-plymouth-express-affair_eng/christie_the-plymouth-express-affair_eng-dark.pdf",
+          "bytes": 496272,
+          "sha256": "30314db81935d1a046122e22fa71ebc0566b43b0437d9391b7524582e961986c",
+          "pages": 18,
+          "text_sha256": "81fc9d61bcac7bc2d76235f6a11c9f61f7e8a6f7da6517bae56f47172e6b5eaa"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-secret-adversary_eng",
+      "edition_id": "christie_the-secret-adversary_eng",
+      "source_tei": "christie_the-secret-adversary_eng.xml",
+      "source_path": "tei/christie/christie_the-secret-adversary_eng.xml",
+      "source_sha256": "0e460721f234b07af5ce8834f38f72130dfecdc019a78471e9f3d57bcc0f4458",
+      "title": "The Secret Adversary",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-secret-adversary",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-secret-adversary_eng-light.pdf",
+          "path": "books/christie/christie_the-secret-adversary_eng/christie_the-secret-adversary_eng-light.pdf",
+          "bytes": 12053853,
+          "sha256": "44191c79b6b5d29d3f1d89341800fadd2da88b65d7185c45d85519b54e7796c5",
+          "pages": 232,
+          "text_sha256": "f53a405a5035be8458f554e8358ddd22f49cbbe15c5857f4200180a8f3ed3500"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-secret-adversary_eng-dark.pdf",
+          "path": "books/christie/christie_the-secret-adversary_eng/christie_the-secret-adversary_eng-dark.pdf",
+          "bytes": 12081913,
+          "sha256": "8b1714d164028b7022397f2160c6b76d0dbffd586c91722376c14b71f8d3f98d",
+          "pages": 232,
+          "text_sha256": "f53a405a5035be8458f554e8358ddd22f49cbbe15c5857f4200180a8f3ed3500"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-secret-of-chimneys_eng",
+      "edition_id": "christie_the-secret-of-chimneys_eng",
+      "source_tei": "christie_the-secret-of-chimneys_eng.xml",
+      "source_path": "tei/christie/christie_the-secret-of-chimneys_eng.xml",
+      "source_sha256": "d251857013f3ffd9222b57d99d2bafc1740acf839285c93df88fb7891723834b",
+      "title": "The Secret of Chimneys",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-secret-of-chimneys",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-secret-of-chimneys_eng-light.pdf",
+          "path": "books/christie/christie_the-secret-of-chimneys_eng/christie_the-secret-of-chimneys_eng-light.pdf",
+          "bytes": 12796481,
+          "sha256": "7b2652a6ab7fd755d458aa7378fcc71045e94bd97fe9225d62b045e550baa936",
+          "pages": 235,
+          "text_sha256": "a84b7964227d4e8f83663cc2dac51c72d6808a114c1650e24f32af8842ba0522"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-secret-of-chimneys_eng-dark.pdf",
+          "path": "books/christie/christie_the-secret-of-chimneys_eng/christie_the-secret-of-chimneys_eng-dark.pdf",
+          "bytes": 12824899,
+          "sha256": "b17cd3aa61be6c7797563c7037214812d71ee3df40e4292f72843e9fb5e9d932",
+          "pages": 235,
+          "text_sha256": "a84b7964227d4e8f83663cc2dac51c72d6808a114c1650e24f32af8842ba0522"
+        }
+      ]
+    },
+    {
+      "edition_key": "christie_the-seven-dials-mystery_eng",
+      "edition_id": "christie_the-seven-dials-mystery_eng",
+      "source_tei": "christie_the-seven-dials-mystery_eng.xml",
+      "source_path": "tei/christie/christie_the-seven-dials-mystery_eng.xml",
+      "source_sha256": "d0120b7c5f3bf0c59fa25ffde79e6173c9092452ca90ade450e35507684974c4",
+      "title": "The Seven Dials Mystery",
+      "author": "Agatha Christie (1890-1976)",
+      "language": "en",
+      "canonical_url": "https://bookstacks.org/en/authors/christie/the-seven-dials-mystery",
+      "files": [
+        {
+          "theme": "light",
+          "file": "christie_the-seven-dials-mystery_eng-light.pdf",
+          "path": "books/christie/christie_the-seven-dials-mystery_eng/christie_the-seven-dials-mystery_eng-light.pdf",
+          "bytes": 14142471,
+          "sha256": "c194e62f10449563a1e82723a0164d8bc3998df91a4caf6982fdf4d640cb4f68",
+          "pages": 218,
+          "text_sha256": "aa894629b4323ca5efc715d2f86d95ac67964805fb6d9de71d83607647672427"
+        },
+        {
+          "theme": "dark",
+          "file": "christie_the-seven-dials-mystery_eng-dark.pdf",
+          "path": "books/christie/christie_the-seven-dials-mystery_eng/christie_the-seven-dials-mystery_eng-dark.pdf",
+          "bytes": 14168960,
+          "sha256": "1fb57af950abf1b7139a58e0a754eba23552d920e9f217007fd22d21a4c3acf5",
+          "pages": 218,
+          "text_sha256": "aa894629b4323ca5efc715d2f86d95ac67964805fb6d9de71d83607647672427"
         }
       ]
     },
@@ -4669,19 +5196,19 @@
           "theme": "light",
           "file": "shakespeare_a-midsummer-nights-dream_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_a-midsummer-nights-dream_eng/shakespeare_a-midsummer-nights-dream_eng-light.pdf",
-          "bytes": 232778,
-          "sha256": "e9b65ff5295fffe1abd0591ee29de3b7f435a5c26f6df248f0b1a4d6a3be9061",
-          "pages": 106,
-          "text_sha256": "946528f90411d7caa4830627d3fc3f442570b02ecc925018e12054f81252a070"
+          "bytes": 236482,
+          "sha256": "757668ee15442a7ebe85487605381b11d62d4a346748523691e699f7613466ed",
+          "pages": 104,
+          "text_sha256": "76d86f418f4c2e5feedfa9227c0767463b9c396740ffd6a81c725b4f91b12976"
         },
         {
           "theme": "dark",
           "file": "shakespeare_a-midsummer-nights-dream_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_a-midsummer-nights-dream_eng/shakespeare_a-midsummer-nights-dream_eng-dark.pdf",
-          "bytes": 245537,
-          "sha256": "13ea6dfb5afed572eadef04a630a582b4b3b3d23e4adb638a407e6e5e3947f8d",
-          "pages": 106,
-          "text_sha256": "946528f90411d7caa4830627d3fc3f442570b02ecc925018e12054f81252a070"
+          "bytes": 248913,
+          "sha256": "59cf4d92df3a95575106f4d7b7b53392682a42d68f3c86db55cc455e1b170daf",
+          "pages": 104,
+          "text_sha256": "76d86f418f4c2e5feedfa9227c0767463b9c396740ffd6a81c725b4f91b12976"
         }
       ]
     },
@@ -4700,19 +5227,19 @@
           "theme": "light",
           "file": "shakespeare_a-midsummer-nights-dream_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_a-midsummer-nights-dream_fra/shakespeare_a-midsummer-nights-dream_fra-light.pdf",
-          "bytes": 239545,
-          "sha256": "4fc832f408335c5cb58b5084d082bea192dee2b2d0985a45959dd320285bc1fe",
-          "pages": 95,
-          "text_sha256": "80342f53a00ef789f81bb10cf5477341987ee282c9f8eb2155bbc809db920400"
+          "bytes": 246533,
+          "sha256": "6de57f88cb49f7388d74c12e11f4eb65da90cda75cdd7df2ada00f40347ee87c",
+          "pages": 98,
+          "text_sha256": "148700d852e7dcb7750d41a2ef6d6a1955678818477ac4001fca2fb84725efb2"
         },
         {
           "theme": "dark",
           "file": "shakespeare_a-midsummer-nights-dream_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_a-midsummer-nights-dream_fra/shakespeare_a-midsummer-nights-dream_fra-dark.pdf",
-          "bytes": 250986,
-          "sha256": "55c1c852bb082fb0158e139ca193ea72e01c65ec3f2ff279a0551345d98188a2",
-          "pages": 95,
-          "text_sha256": "80342f53a00ef789f81bb10cf5477341987ee282c9f8eb2155bbc809db920400"
+          "bytes": 258251,
+          "sha256": "dd5ea0ebd81af95f0d1d17de02442ebc34bf2ce30a1b168d6da3a6251b660eb7",
+          "pages": 98,
+          "text_sha256": "148700d852e7dcb7750d41a2ef6d6a1955678818477ac4001fca2fb84725efb2"
         }
       ]
     },
@@ -4731,19 +5258,19 @@
           "theme": "light",
           "file": "shakespeare_alls-well-that-ends-well_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_alls-well-that-ends-well_eng/shakespeare_alls-well-that-ends-well_eng-light.pdf",
-          "bytes": 298053,
-          "sha256": "8e96ff10fa20114ea3e12ede4844f3e4ca04c4faf9820f547ac178c96ae38cae",
-          "pages": 148,
-          "text_sha256": "892da8ff7a1dda6fe8a598a36c5d3c41c28595fecc6903343d0521e402e33b9f"
+          "bytes": 307854,
+          "sha256": "ee8ef507bbbeb0202c455a2876b691bca63b36d8f68731a471e06fd68be6a7a2",
+          "pages": 147,
+          "text_sha256": "0906335193ead27b12d671e6380031364d88800ba7caeca77418e44999ebf901"
         },
         {
           "theme": "dark",
           "file": "shakespeare_alls-well-that-ends-well_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_alls-well-that-ends-well_eng/shakespeare_alls-well-that-ends-well_eng-dark.pdf",
-          "bytes": 315958,
-          "sha256": "69614116875c7bdcea6ab27b8d505888bb4993414d553cfc1fc19d2438638451",
-          "pages": 148,
-          "text_sha256": "892da8ff7a1dda6fe8a598a36c5d3c41c28595fecc6903343d0521e402e33b9f"
+          "bytes": 325407,
+          "sha256": "6f6662aeb6f52b70c9f1ed3baa7ad3ee9d88854c375d7da316fef870b8e05bd2",
+          "pages": 147,
+          "text_sha256": "0906335193ead27b12d671e6380031364d88800ba7caeca77418e44999ebf901"
         }
       ]
     },
@@ -4762,19 +5289,19 @@
           "theme": "light",
           "file": "shakespeare_alls-well-that-ends-well_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_alls-well-that-ends-well_fra/shakespeare_alls-well-that-ends-well_fra-light.pdf",
-          "bytes": 304219,
-          "sha256": "d826379bba0ab1f251734e04c53a2aa31d9a695315d68e5d777a8708da6be352",
-          "pages": 141,
-          "text_sha256": "a09cb2014721654ad45eeebcecec540de6d1f0aac0fdf55f671bc347fcb3f33e"
+          "bytes": 312001,
+          "sha256": "8bf36094b13fd6b46ffa2537cab9d56cb0a5565ad3c151953be2ea5a2092a451",
+          "pages": 140,
+          "text_sha256": "d16bd0801b75d747f9417eaa71b46a04159503f2d1c19702820882a6b007fe72"
         },
         {
           "theme": "dark",
           "file": "shakespeare_alls-well-that-ends-well_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_alls-well-that-ends-well_fra/shakespeare_alls-well-that-ends-well_fra-dark.pdf",
-          "bytes": 321401,
-          "sha256": "a2738b586ef4080a1df071ca4f951898a37fdeaaa2626c50401b87cb62831d37",
-          "pages": 141,
-          "text_sha256": "a09cb2014721654ad45eeebcecec540de6d1f0aac0fdf55f671bc347fcb3f33e"
+          "bytes": 328741,
+          "sha256": "7f3f63e83c899853294dfaf0b6e4401ed79954b4055be2b4f8517a7a2c9c5ff0",
+          "pages": 140,
+          "text_sha256": "d16bd0801b75d747f9417eaa71b46a04159503f2d1c19702820882a6b007fe72"
         }
       ]
     },
@@ -4793,19 +5320,19 @@
           "theme": "light",
           "file": "shakespeare_antony-and-cleopatra_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_antony-and-cleopatra_eng/shakespeare_antony-and-cleopatra_eng-light.pdf",
-          "bytes": 397836,
-          "sha256": "42d42860b78a24200a92061b58c67d623129522c2bb97e4651a5f30780114ba0",
-          "pages": 201,
-          "text_sha256": "0fef7b40454a0c026a65cbcb8d36a0cdd7dce5ca90d2ba75e10578d959f8f1fb"
+          "bytes": 408159,
+          "sha256": "29cabacbfea3354412419b7ffc71941fb2a70100fb9d4710ec21ba9eb6af24f8",
+          "pages": 199,
+          "text_sha256": "6663b2e2f7c3349a20c88b2327e319654a97a0bc9d9800a1490210278b20ef0d"
         },
         {
           "theme": "dark",
           "file": "shakespeare_antony-and-cleopatra_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_antony-and-cleopatra_eng/shakespeare_antony-and-cleopatra_eng-dark.pdf",
-          "bytes": 422070,
-          "sha256": "80ce1dd9ba97936971f39d985b93bac3199d106cf7758cad87ed803cac08c9b0",
-          "pages": 201,
-          "text_sha256": "0fef7b40454a0c026a65cbcb8d36a0cdd7dce5ca90d2ba75e10578d959f8f1fb"
+          "bytes": 432057,
+          "sha256": "05ba94a714bc5c8e0ee79d1ed15708cbc9c5bfb9634ae4673c924b6932691ec1",
+          "pages": 199,
+          "text_sha256": "6663b2e2f7c3349a20c88b2327e319654a97a0bc9d9800a1490210278b20ef0d"
         }
       ]
     },
@@ -4824,19 +5351,19 @@
           "theme": "light",
           "file": "shakespeare_antony-and-cleopatra_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_antony-and-cleopatra_fra/shakespeare_antony-and-cleopatra_fra-light.pdf",
-          "bytes": 343934,
-          "sha256": "ce8c5295a21a77635422e58eead9d67453a66f40d702a92eab3d2301ea7d2bc4",
+          "bytes": 357637,
+          "sha256": "d385a613775f0860b6abb0f01d514538d233d8c3f4c0c5cf0bed963959a98718",
           "pages": 169,
-          "text_sha256": "84a72803f51ea17866c0e2f66dc847667408cfb7d4079d09c7b40bc83d6fd678"
+          "text_sha256": "0d435ff0d5585b49256e61c15aeea1054b75ec27a1017124c9775d3d2a7dc651"
         },
         {
           "theme": "dark",
           "file": "shakespeare_antony-and-cleopatra_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_antony-and-cleopatra_fra/shakespeare_antony-and-cleopatra_fra-dark.pdf",
-          "bytes": 364331,
-          "sha256": "c6b55d38dad3e9eadbfc2871a80177594474efd3f7b1f63c9ae023ab32407a41",
+          "bytes": 377791,
+          "sha256": "e2b405e835c136d2b0852128e2f9dc8c3c11941300b173bf8a6ec63bd9faf279",
           "pages": 169,
-          "text_sha256": "84a72803f51ea17866c0e2f66dc847667408cfb7d4079d09c7b40bc83d6fd678"
+          "text_sha256": "0d435ff0d5585b49256e61c15aeea1054b75ec27a1017124c9775d3d2a7dc651"
         }
       ]
     },
@@ -4855,19 +5382,19 @@
           "theme": "light",
           "file": "shakespeare_as-you-like-it_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_as-you-like-it_eng/shakespeare_as-you-like-it_eng-light.pdf",
-          "bytes": 265654,
-          "sha256": "d32117b832c8f3f69617a5c985b70a1fae0b26d878dbb1b94a76097ad4a1687b",
+          "bytes": 273250,
+          "sha256": "6b82d73e15152af2e2b22ce93cf0f2ffef2956a7956085492bce3fcd5d021566",
           "pages": 130,
-          "text_sha256": "3de69d07fcfabc11611687de8d9f584c6171778f78cd4c323e5184af234c012d"
+          "text_sha256": "4214f3a5b4a09fa606324f1856e2e0565375b9ac6c6da3585568fdf564d95a19"
         },
         {
           "theme": "dark",
           "file": "shakespeare_as-you-like-it_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_as-you-like-it_eng/shakespeare_as-you-like-it_eng-dark.pdf",
-          "bytes": 281515,
-          "sha256": "6d232a08295837baa3fbf29114e1ebe3d6c004bcd36eaa19ebc15bfb338185d6",
+          "bytes": 288941,
+          "sha256": "c7fb80acd77aba233ac88ff9a79976215607122ee49869c957f5f895752e6298",
           "pages": 130,
-          "text_sha256": "3de69d07fcfabc11611687de8d9f584c6171778f78cd4c323e5184af234c012d"
+          "text_sha256": "4214f3a5b4a09fa606324f1856e2e0565375b9ac6c6da3585568fdf564d95a19"
         }
       ]
     },
@@ -4886,19 +5413,19 @@
           "theme": "light",
           "file": "shakespeare_as-you-like-it_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_as-you-like-it_fra/shakespeare_as-you-like-it_fra-light.pdf",
-          "bytes": 289437,
-          "sha256": "8ace57b982aacccbc3cf72170b11486b4ea707bb592b792b467c9fd1236d1f10",
-          "pages": 128,
-          "text_sha256": "2ca3081155354cac121f791a87caf82be52a06b5347f9300213a55439aef3d07"
+          "bytes": 298518,
+          "sha256": "cf2ca560d8c1d28ae4a5b3db72db1fbed2d1e39b44732e7fb87deb3cc9245f39",
+          "pages": 130,
+          "text_sha256": "f949a246c71bacdaa96783eb9fa26bc0d6b722c6f70e21640937bde598eea3db"
         },
         {
           "theme": "dark",
           "file": "shakespeare_as-you-like-it_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_as-you-like-it_fra/shakespeare_as-you-like-it_fra-dark.pdf",
-          "bytes": 304865,
-          "sha256": "ef87da85d6c24ae476c88d95400cd8fad1b4066bb0540e28c0b368a040e3352f",
-          "pages": 128,
-          "text_sha256": "2ca3081155354cac121f791a87caf82be52a06b5347f9300213a55439aef3d07"
+          "bytes": 314009,
+          "sha256": "534401364bd9c065454ee4b349097f03e0dec23a1ce3ffe5c86404b5173d4e25",
+          "pages": 130,
+          "text_sha256": "f949a246c71bacdaa96783eb9fa26bc0d6b722c6f70e21640937bde598eea3db"
         }
       ]
     },
@@ -4917,19 +5444,19 @@
           "theme": "light",
           "file": "shakespeare_as-you-like-it_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_as-you-like-it_spa/shakespeare_as-you-like-it_spa-light.pdf",
-          "bytes": 245654,
-          "sha256": "2463204f25c965df4901b3e3bbd49c239cb89d9eb3dd3b79d83c3946fd156b99",
-          "pages": 121,
-          "text_sha256": "e9e41636ad70eab0d4f08edf2c1502e103db7d12ce947af97c0a9ac769f97845"
+          "bytes": 253784,
+          "sha256": "7b2d3a1817b2ca6ca52326c701073286cf49f9008b57fb02d829642da0fe3b5e",
+          "pages": 120,
+          "text_sha256": "d70f66b90027de3657e626d2d4d706baa9f4aa32ab16de5cc9db1d443d0ac724"
         },
         {
           "theme": "dark",
           "file": "shakespeare_as-you-like-it_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_as-you-like-it_spa/shakespeare_as-you-like-it_spa-dark.pdf",
-          "bytes": 260387,
-          "sha256": "5c46d0e63bfa160a42466af3dbaa3193358df9ba1e37be1eeabfec1986be1110",
-          "pages": 121,
-          "text_sha256": "e9e41636ad70eab0d4f08edf2c1502e103db7d12ce947af97c0a9ac769f97845"
+          "bytes": 268145,
+          "sha256": "46449a79aba6f5914901f32d412bff9d331b39670495184eb33d41b08a425382",
+          "pages": 120,
+          "text_sha256": "d70f66b90027de3657e626d2d4d706baa9f4aa32ab16de5cc9db1d443d0ac724"
         }
       ]
     },
@@ -4948,19 +5475,19 @@
           "theme": "light",
           "file": "shakespeare_coriolanus_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_coriolanus_eng/shakespeare_coriolanus_eng-light.pdf",
-          "bytes": 399966,
-          "sha256": "011fceb03960a911c790b91b67cba9f38f946cc5676d47a586cd31e19a41203d",
-          "pages": 192,
-          "text_sha256": "ca46ba1073df1f1afaff8c242bdc1880be381b6099b1094de93ea9654bfe66ca"
+          "bytes": 409937,
+          "sha256": "e5c07b4950c918f8c3fca192a95b353531494e9e6c7e1e68c1a3d004874b5430",
+          "pages": 193,
+          "text_sha256": "a0892487a5e21b8f8eea43051d093e4cd8bbe31c0791af8ef7d3f3cee2273c19"
         },
         {
           "theme": "dark",
           "file": "shakespeare_coriolanus_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_coriolanus_eng/shakespeare_coriolanus_eng-dark.pdf",
-          "bytes": 423195,
-          "sha256": "e20c3a9a991fc2192cbb7a3e5c792f93ba4cc1a368600e96ead3cf42a4d5e8f3",
-          "pages": 192,
-          "text_sha256": "ca46ba1073df1f1afaff8c242bdc1880be381b6099b1094de93ea9654bfe66ca"
+          "bytes": 433052,
+          "sha256": "66ef202e5bf7ea29faed0300bf0c02c3931cfe00998810d81264e6da6bba7e2f",
+          "pages": 193,
+          "text_sha256": "a0892487a5e21b8f8eea43051d093e4cd8bbe31c0791af8ef7d3f3cee2273c19"
         }
       ]
     },
@@ -4979,19 +5506,19 @@
           "theme": "light",
           "file": "shakespeare_coriolanus_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_coriolanus_fra/shakespeare_coriolanus_fra-light.pdf",
-          "bytes": 348416,
-          "sha256": "aadd5c957ed27b204d36313d553bf31e1d161fb1e810ae2c0e5375a3da8a2340",
+          "bytes": 359886,
+          "sha256": "d9685835733fd647e4333f86539b68f22729ea4da107ea31da9ccf2b5dae18f8",
           "pages": 167,
-          "text_sha256": "6710fb73de08088b7ae81450446ec0c40954e9bc8336ca289df2e5af56602fdf"
+          "text_sha256": "399adef8a34c3d165c7593ff643edfe4e775ff6ddb37a0a81387385978020b8b"
         },
         {
           "theme": "dark",
           "file": "shakespeare_coriolanus_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_coriolanus_fra/shakespeare_coriolanus_fra-dark.pdf",
-          "bytes": 368526,
-          "sha256": "8389c9dc129c5a786a599aad79571beca81d5b88ac38e2123d567c63fd9947a9",
+          "bytes": 379738,
+          "sha256": "9d945d504edd7a7e12781e9563219db953d099bcf9c9693a971cc229dc236418",
           "pages": 167,
-          "text_sha256": "6710fb73de08088b7ae81450446ec0c40954e9bc8336ca289df2e5af56602fdf"
+          "text_sha256": "399adef8a34c3d165c7593ff643edfe4e775ff6ddb37a0a81387385978020b8b"
         }
       ]
     },
@@ -5010,19 +5537,19 @@
           "theme": "light",
           "file": "shakespeare_cymbeline_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_cymbeline_eng/shakespeare_cymbeline_eng-light.pdf",
-          "bytes": 394669,
-          "sha256": "1ebc22489d793c26ec4122324b7e19cb75ed743705bd0ef4883c084aca6399b2",
-          "pages": 177,
-          "text_sha256": "860114f45d20390a8baa2f222f64cf7030b670b2df04c84a2acf37b49fda1426"
+          "bytes": 400517,
+          "sha256": "610c1104feedd403e0f820731cb8dde26ccaecd50f446b27ad011c5d798428fc",
+          "pages": 176,
+          "text_sha256": "79a14200ecb93aefb3585ed0aaa923644bf0eabe3f3031a477cd1756b9686578"
         },
         {
           "theme": "dark",
           "file": "shakespeare_cymbeline_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_cymbeline_eng/shakespeare_cymbeline_eng-dark.pdf",
-          "bytes": 416093,
-          "sha256": "c1307da13d5f7acbb489a9381c94af5304f8727da8206864b00ab1812de7a8e5",
-          "pages": 177,
-          "text_sha256": "860114f45d20390a8baa2f222f64cf7030b670b2df04c84a2acf37b49fda1426"
+          "bytes": 421670,
+          "sha256": "9b8878e176a3c7929c6b1d07c937f35eda50f6c6abdf935820d54b495fb9174a",
+          "pages": 176,
+          "text_sha256": "79a14200ecb93aefb3585ed0aaa923644bf0eabe3f3031a477cd1756b9686578"
         }
       ]
     },
@@ -5041,19 +5568,19 @@
           "theme": "light",
           "file": "shakespeare_cymbeline_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_cymbeline_fra/shakespeare_cymbeline_fra-light.pdf",
-          "bytes": 341753,
-          "sha256": "70cac01e3fcd92c2374bb32400dae007dc98357c8c91f3326ce948d7c90e7e29",
-          "pages": 150,
-          "text_sha256": "804d282f537e1a396bf5f858959832d0d7e3a338f0a5fcfdb683a71f4999ca24"
+          "bytes": 350189,
+          "sha256": "4d809bde0645a1c3eed4954c2644f33dc896b7b6b02100d3aa9d70e1ba964f67",
+          "pages": 149,
+          "text_sha256": "7db6c23c766cce04e14ae434800fd51c7e0436b4e525f25bc03320b5c7495931"
         },
         {
           "theme": "dark",
           "file": "shakespeare_cymbeline_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_cymbeline_fra/shakespeare_cymbeline_fra-dark.pdf",
-          "bytes": 359757,
-          "sha256": "179f1f5b93d1b14b4306bcda1068a4c52a0914fb7b33d5b75c3feb1953081b58",
-          "pages": 150,
-          "text_sha256": "804d282f537e1a396bf5f858959832d0d7e3a338f0a5fcfdb683a71f4999ca24"
+          "bytes": 367913,
+          "sha256": "d216c83b8406d21278ba27d050ae55ff8f372a6e9298fd80849c78407a760379",
+          "pages": 149,
+          "text_sha256": "7db6c23c766cce04e14ae434800fd51c7e0436b4e525f25bc03320b5c7495931"
         }
       ]
     },
@@ -5072,19 +5599,19 @@
           "theme": "light",
           "file": "shakespeare_hamlet_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_hamlet_eng/shakespeare_hamlet_eng-light.pdf",
-          "bytes": 404779,
-          "sha256": "664413a615468e89052eba0eabd3eb419d59bafb0e3898992bf2b816ad118328",
+          "bytes": 414006,
+          "sha256": "fb0aaf747b66a848b6e848085b3b009d2a3e858a0af4472405b8243d59b268d2",
           "pages": 192,
-          "text_sha256": "be272e9ba819e4b6eeb28093d6c5efb265d8400d776fbdabc78db79b57ed158b"
+          "text_sha256": "18e97e8d0f921bf21ffcea5554b322d233054f5a35424c9ed2a3c2b5ca6e3ca8"
         },
         {
           "theme": "dark",
           "file": "shakespeare_hamlet_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_hamlet_eng/shakespeare_hamlet_eng-dark.pdf",
-          "bytes": 428104,
-          "sha256": "f235227afe033ca173fe73991d14f216e4350b8a0d30fc05d0b059e8946dde94",
+          "bytes": 437196,
+          "sha256": "0028e2a71e2c524f7415780d691e5b593a45126473386f2bcb84cca6a61b059f",
           "pages": 192,
-          "text_sha256": "be272e9ba819e4b6eeb28093d6c5efb265d8400d776fbdabc78db79b57ed158b"
+          "text_sha256": "18e97e8d0f921bf21ffcea5554b322d233054f5a35424c9ed2a3c2b5ca6e3ca8"
         }
       ]
     },
@@ -5103,19 +5630,19 @@
           "theme": "light",
           "file": "shakespeare_hamlet_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_hamlet_fra/shakespeare_hamlet_fra-light.pdf",
-          "bytes": 476964,
-          "sha256": "7f7478bbc7436b65334c5f2625b832dfb043ea5f9849bed87cffbe9c618899cc",
-          "pages": 196,
-          "text_sha256": "aaeb24425ec94a5b15bf3404a340424ab78a5047611f2656bf04d62dee8247b9"
+          "bytes": 489339,
+          "sha256": "cd11b4adb223e8e0bc56683157e137b79505bb2e24137bad6e9d12a2ca21813a",
+          "pages": 198,
+          "text_sha256": "27df6e532e2c9ad207f2764b25b6955fc4e47379705a0346a04833bf5ddddfa8"
         },
         {
           "theme": "dark",
           "file": "shakespeare_hamlet_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_hamlet_fra/shakespeare_hamlet_fra-dark.pdf",
-          "bytes": 500673,
-          "sha256": "9720b5c4fac8be71243850aa0509d05c792785f1a22732708773aa6890b70075",
-          "pages": 196,
-          "text_sha256": "aaeb24425ec94a5b15bf3404a340424ab78a5047611f2656bf04d62dee8247b9"
+          "bytes": 513116,
+          "sha256": "e7044b797b85c74a8e0a28a6f0be61722631803e04a95aa304bc238372163722",
+          "pages": 198,
+          "text_sha256": "27df6e532e2c9ad207f2764b25b6955fc4e47379705a0346a04833bf5ddddfa8"
         }
       ]
     },
@@ -5134,19 +5661,19 @@
           "theme": "light",
           "file": "shakespeare_hamlet_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_hamlet_spa/shakespeare_hamlet_spa-light.pdf",
-          "bytes": 363227,
-          "sha256": "f8d2a3aea14242654cc646af1978406d10a585ea8d31ba799ffc6ce8456836de",
+          "bytes": 377039,
+          "sha256": "66438ca7067f0317c75e0acfe0e5c72be222827cf576cf2e5315afc8920d6850",
           "pages": 178,
-          "text_sha256": "0d874e5ceba08646c5754313d50779bd7511062d8fae9508866f0077c8c47590"
+          "text_sha256": "3dd5a6a0598b18d1a243754ed026323e7c3115d7f8de8c0b5062eaac78f48855"
         },
         {
           "theme": "dark",
           "file": "shakespeare_hamlet_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_hamlet_spa/shakespeare_hamlet_spa-dark.pdf",
-          "bytes": 384778,
-          "sha256": "53a2b81cfd9c7d8c6d08ea0d72a1f45649d0b1f3b2005ff7bf460e315cd3ebf6",
+          "bytes": 398319,
+          "sha256": "a7b4e59fddd669449b8f71b46c667f642d311a2791957651a837d3408c44f2b9",
           "pages": 178,
-          "text_sha256": "0d874e5ceba08646c5754313d50779bd7511062d8fae9508866f0077c8c47590"
+          "text_sha256": "3dd5a6a0598b18d1a243754ed026323e7c3115d7f8de8c0b5062eaac78f48855"
         }
       ]
     },
@@ -5165,19 +5692,19 @@
           "theme": "light",
           "file": "shakespeare_julius-caesar_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_julius-caesar_eng/shakespeare_julius-caesar_eng-light.pdf",
-          "bytes": 300206,
-          "sha256": "f37ffe83443cfab66c6e8c7660f7311725c135f4bcb271c58c098b06fa4837e1",
+          "bytes": 306879,
+          "sha256": "e47a900c4923199cb44e68b59e39888320b26813729190f803f9e40c688004a0",
           "pages": 142,
-          "text_sha256": "9637f69041037048c025db8136d4cda5b424282433929f19090c8ef0be0007fe"
+          "text_sha256": "4b4489295a09b88163802390af6c1221540e1d053772939388f8aced3dc659c9"
         },
         {
           "theme": "dark",
           "file": "shakespeare_julius-caesar_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_julius-caesar_eng/shakespeare_julius-caesar_eng-dark.pdf",
-          "bytes": 317295,
-          "sha256": "38b2f9a3c712e724d027aec9b0c747bea994c693d9ec0e2e3735dba7388cc943",
+          "bytes": 324043,
+          "sha256": "02162e4f2b484fc6da97d9665b240d71041131875c3e412288a4e582c18e0bb1",
           "pages": 142,
-          "text_sha256": "9637f69041037048c025db8136d4cda5b424282433929f19090c8ef0be0007fe"
+          "text_sha256": "4b4489295a09b88163802390af6c1221540e1d053772939388f8aced3dc659c9"
         }
       ]
     },
@@ -5196,19 +5723,19 @@
           "theme": "light",
           "file": "shakespeare_julius-caesar_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_julius-caesar_fra/shakespeare_julius-caesar_fra-light.pdf",
-          "bytes": 291419,
-          "sha256": "3bf787e44db4975a86d46533b131f1024f08706ba398cc8499f8d0bd4eb802ee",
-          "pages": 130,
-          "text_sha256": "39a2de2cedcb549062b5b7b49f8c3c3699c453ec5142cb8fc26a98c55d684f55"
+          "bytes": 299317,
+          "sha256": "f5e13389a1586b933888355448931748258a0e92c461515edb364b2dff680cb7",
+          "pages": 129,
+          "text_sha256": "9d5369edea571a9eb9ba172f06e040551a0f4b19122eae1d02aab4c9f695c29f"
         },
         {
           "theme": "dark",
           "file": "shakespeare_julius-caesar_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_julius-caesar_fra/shakespeare_julius-caesar_fra-dark.pdf",
-          "bytes": 307121,
-          "sha256": "93f1affc10a72bd974abbe89ed971514e2cf381905838390a5bc55e2cac7b96b",
-          "pages": 130,
-          "text_sha256": "39a2de2cedcb549062b5b7b49f8c3c3699c453ec5142cb8fc26a98c55d684f55"
+          "bytes": 314773,
+          "sha256": "e05f7e71e4db98e7f1fe41a7c74b05e59bcc0465463fd714fd0cec918514b3bc",
+          "pages": 129,
+          "text_sha256": "9d5369edea571a9eb9ba172f06e040551a0f4b19122eae1d02aab4c9f695c29f"
         }
       ]
     },
@@ -5227,19 +5754,19 @@
           "theme": "light",
           "file": "shakespeare_julius-caesar_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_julius-caesar_spa/shakespeare_julius-caesar_spa-light.pdf",
-          "bytes": 224903,
-          "sha256": "21f7125110296e793382304aa15fb299f9e18607a6e3527f80be342516084306",
+          "bytes": 233485,
+          "sha256": "65325c9c8064d223d4e0be3ea80d4e54bab13bab3f7b3bd6a32e55ae9312ba7e",
           "pages": 112,
-          "text_sha256": "f7bc4071a57c35f2668b05e83b867fbb15ab3fa778811da2dcece3d689b7370b"
+          "text_sha256": "aa6d5255d9de221227841d8cfbac38e8f8676e68dd9c4854544884731777d43b"
         },
         {
           "theme": "dark",
           "file": "shakespeare_julius-caesar_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_julius-caesar_spa/shakespeare_julius-caesar_spa-dark.pdf",
-          "bytes": 238384,
-          "sha256": "cea326b921fa89fd3f096345e60cd74c630569bff95960273d718b7121070d2e",
+          "bytes": 246811,
+          "sha256": "c3eab9363469237776698a05104532f6910527e015ed10380e6bbb51cf4f90ab",
           "pages": 112,
-          "text_sha256": "f7bc4071a57c35f2668b05e83b867fbb15ab3fa778811da2dcece3d689b7370b"
+          "text_sha256": "aa6d5255d9de221227841d8cfbac38e8f8676e68dd9c4854544884731777d43b"
         }
       ]
     },
@@ -5258,19 +5785,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-iv-part-1_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-iv-part-1_eng/shakespeare_king-henry-iv-part-1_eng-light.pdf",
-          "bytes": 304213,
-          "sha256": "d8aa3359c836886d28ea22f520c166625ddc46b6503d79e03a0209fa9e03c73a",
-          "pages": 142,
-          "text_sha256": "7d2ef331b48f911ce57e5a162657610d62020c43363259dbfcb4390838f36454"
+          "bytes": 311449,
+          "sha256": "569afd749031857ef221395464ac28928fd4c74b3a669a59c3be8352acca8a3b",
+          "pages": 141,
+          "text_sha256": "84b465bd97088ff539c2dcc44524130ba1ab4545644aaf8ba67b10c25892c786"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-iv-part-1_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-iv-part-1_eng/shakespeare_king-henry-iv-part-1_eng-dark.pdf",
-          "bytes": 321353,
-          "sha256": "585855f2575ef39f66b46a1882cb59133f2c92c98ffd39c295444616d207ab5f",
-          "pages": 142,
-          "text_sha256": "7d2ef331b48f911ce57e5a162657610d62020c43363259dbfcb4390838f36454"
+          "bytes": 328372,
+          "sha256": "a414a6c911f41a551e2f430267e3a9cbaf854be0da6fe6f45097d918b9799d3e",
+          "pages": 141,
+          "text_sha256": "84b465bd97088ff539c2dcc44524130ba1ab4545644aaf8ba67b10c25892c786"
         }
       ]
     },
@@ -5289,19 +5816,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-iv-part-1_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-iv-part-1_fra/shakespeare_king-henry-iv-part-1_fra-light.pdf",
-          "bytes": 325703,
-          "sha256": "7387a2a565be1465f8a8c9a9d8dcf35e413b4d8009fd676073a1701375de770b",
+          "bytes": 334377,
+          "sha256": "3fa01c319728ec233eb8b071c59dc963d567b923a0d4548bc36f9002d7ce08f2",
           "pages": 137,
-          "text_sha256": "8a2974ae006cecdfac0c45b04c10a0da0ac1580a4c9db1a9c7b29ebba18afb12"
+          "text_sha256": "1589f9a7a4b9ab8bdbb25eb0ea26b000c4a5504c5007a2302ffcc39d7f811b76"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-iv-part-1_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-iv-part-1_fra/shakespeare_king-henry-iv-part-1_fra-dark.pdf",
-          "bytes": 342243,
-          "sha256": "bbe354194eda7b38da6408aac279605bf9902369a08b98d05d4508d5cfe98870",
+          "bytes": 350745,
+          "sha256": "d8623dbaa9dc70a295d60ad32763409a59105875236cfe89e5ecf19b98404700",
           "pages": 137,
-          "text_sha256": "8a2974ae006cecdfac0c45b04c10a0da0ac1580a4c9db1a9c7b29ebba18afb12"
+          "text_sha256": "1589f9a7a4b9ab8bdbb25eb0ea26b000c4a5504c5007a2302ffcc39d7f811b76"
         }
       ]
     },
@@ -5320,19 +5847,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-iv-part-2_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-iv-part-2_eng/shakespeare_king-henry-iv-part-2_eng-light.pdf",
-          "bytes": 312951,
-          "sha256": "9d0f6118c94522d49f3319fe92cdd3bcf045016258782047897cdd13aa1c55cc",
-          "pages": 151,
-          "text_sha256": "db7d5e07545e5ae897e42dfe13e5eac7b67d54f7fd65a389592db66041833af5"
+          "bytes": 321068,
+          "sha256": "1ea532f9a032c6c45a4a8f7e21ad41938f75a9a8b99c00c5d604866c21e16beb",
+          "pages": 149,
+          "text_sha256": "f8ccd69ed3ad0c1c46c9b5b49d83f6c56b9bffb6ab1c53d804d99fdad4dd7efd"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-iv-part-2_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-iv-part-2_eng/shakespeare_king-henry-iv-part-2_eng-dark.pdf",
-          "bytes": 331273,
-          "sha256": "04a7b3721afe120eecca8dc48fe92f427d49b29835bdef92a1095c1a4c710e59",
-          "pages": 151,
-          "text_sha256": "db7d5e07545e5ae897e42dfe13e5eac7b67d54f7fd65a389592db66041833af5"
+          "bytes": 339030,
+          "sha256": "b395a9d230245899dea2c756b943a3d80618430bd290128560853cf8ee0c3a7b",
+          "pages": 149,
+          "text_sha256": "f8ccd69ed3ad0c1c46c9b5b49d83f6c56b9bffb6ab1c53d804d99fdad4dd7efd"
         }
       ]
     },
@@ -5351,19 +5878,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-iv-part-2_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-iv-part-2_fra/shakespeare_king-henry-iv-part-2_fra-light.pdf",
-          "bytes": 346859,
-          "sha256": "a82361b1591a1b6322b909a2d92220fe09a90dbceb772a81ee13bbfbe9c2aa20",
+          "bytes": 356699,
+          "sha256": "2e84b2ad6c47c41170e8a557aa63c8fa8dd8ff3480ea438e04b35ee2b7044278",
           "pages": 149,
-          "text_sha256": "1d1b9cdf0200afea68577ac5effd9b57bd4a838b3779840b30261be1b7e357df"
+          "text_sha256": "57232c0cf7642d0b511b7a2a3f11571ccef3ac836242fca65e41a109f6592c75"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-iv-part-2_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-iv-part-2_fra/shakespeare_king-henry-iv-part-2_fra-dark.pdf",
-          "bytes": 364831,
-          "sha256": "bbc1084500b113a6c199bc339f6d5111ad7ebb9fa79108c2b74d11bbae1e2d64",
+          "bytes": 374503,
+          "sha256": "209e812dd50079b74591481c1dbd82be7af167b00ca65199f6665e503016f304",
           "pages": 149,
-          "text_sha256": "1d1b9cdf0200afea68577ac5effd9b57bd4a838b3779840b30261be1b7e357df"
+          "text_sha256": "57232c0cf7642d0b511b7a2a3f11571ccef3ac836242fca65e41a109f6592c75"
         }
       ]
     },
@@ -5382,19 +5909,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-v_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-v_eng/shakespeare_king-henry-v_eng-light.pdf",
-          "bytes": 305073,
-          "sha256": "ee75e1e0c28b301bcc56139df2b539f8445824815ace77d17d807952a4b5bcbd",
+          "bytes": 311570,
+          "sha256": "89a635cc5a2cf19b5edcfd21b18b970401a442b0fefc005ebb2244ec8e942dba",
           "pages": 138,
-          "text_sha256": "7aaf646087804b940e9d6ab71ca51a0e9ee30307efce2b1bdd7cc87743dd92fb"
+          "text_sha256": "fadf085770f3c4e0dbbc175730d3e79cf6dc4cb49e655a58521ff004828cf9ea"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-v_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-v_eng/shakespeare_king-henry-v_eng-dark.pdf",
-          "bytes": 321851,
-          "sha256": "b0e9659030d9d94fcceeb64778ed14dcff610dac865d3066f499c2f6a6188431",
+          "bytes": 328227,
+          "sha256": "faf3e9dc802679f1559885e794f4d123b55f5f55a15a6999f16267b8ffc1e6f8",
           "pages": 138,
-          "text_sha256": "7aaf646087804b940e9d6ab71ca51a0e9ee30307efce2b1bdd7cc87743dd92fb"
+          "text_sha256": "fadf085770f3c4e0dbbc175730d3e79cf6dc4cb49e655a58521ff004828cf9ea"
         }
       ]
     },
@@ -5413,19 +5940,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-v_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-v_fra/shakespeare_king-henry-v_fra-light.pdf",
-          "bytes": 317864,
-          "sha256": "34df663bf9e45c520104a2aefb094bf6ed7f8e5a6d3c9edcb75ae31b40dc65ad",
-          "pages": 134,
-          "text_sha256": "935133ed53b8d534864fb2a263b60b8059143c32c9d71a4fcd1f98dfef5b6c03"
+          "bytes": 325869,
+          "sha256": "1753bf3b2b63bd07ffb63b7877de93cb205885b4424df18c11aa8a253d6ec067",
+          "pages": 133,
+          "text_sha256": "9585039b33541020c7ad2cb05846ef03132409525f7f1801682889c48b12d99a"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-v_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-v_fra/shakespeare_king-henry-v_fra-dark.pdf",
-          "bytes": 334076,
-          "sha256": "72a4724859b06d4bbbc1510e8f798818aa6b316dab07c8e91963503dba8fc018",
-          "pages": 134,
-          "text_sha256": "935133ed53b8d534864fb2a263b60b8059143c32c9d71a4fcd1f98dfef5b6c03"
+          "bytes": 341737,
+          "sha256": "fef0bb7c83c61f58342a4717b9446066ca2ba5fcd5481027f57432a4a4550c73",
+          "pages": 133,
+          "text_sha256": "9585039b33541020c7ad2cb05846ef03132409525f7f1801682889c48b12d99a"
         }
       ]
     },
@@ -5444,19 +5971,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-vi-part-1_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-1_eng/shakespeare_king-henry-vi-part-1_eng-light.pdf",
-          "bytes": 332254,
-          "sha256": "4542a291e33d6156d8feb180acf906bb5078956e1de9a90ae3b8a6043a1f27c4",
-          "pages": 144,
-          "text_sha256": "901b1e24ee20adae5f79df4cdc866bc9e097c555c788c7c80c4df7c2f2ca4a36"
+          "bytes": 338516,
+          "sha256": "863af0c1b58e4b6fe1fef0988ab25cb68c62de1315cc9f095a31d1748ea1ae37",
+          "pages": 143,
+          "text_sha256": "ecfcd854448ca8c7e8c6580cda939adf88ab7a9c3772e5cfdd3e7bb930966264"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-vi-part-1_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-1_eng/shakespeare_king-henry-vi-part-1_eng-dark.pdf",
-          "bytes": 349529,
-          "sha256": "ab305b977e250395ae334329013b6061562d73602027d28f58e443b4cfdc08a8",
-          "pages": 144,
-          "text_sha256": "901b1e24ee20adae5f79df4cdc866bc9e097c555c788c7c80c4df7c2f2ca4a36"
+          "bytes": 355625,
+          "sha256": "4e407732d81742aed084c5ca929e06b55d68bf02e04047acd81dddc78747265f",
+          "pages": 143,
+          "text_sha256": "ecfcd854448ca8c7e8c6580cda939adf88ab7a9c3772e5cfdd3e7bb930966264"
         }
       ]
     },
@@ -5475,19 +6002,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-vi-part-1_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-1_fra/shakespeare_king-henry-vi-part-1_fra-light.pdf",
-          "bytes": 299205,
-          "sha256": "cd2ae8be6fd84407bf19176070f701ffb2146f10c0e3dd7860b7501705dfd1c0",
-          "pages": 125,
-          "text_sha256": "27c3c8e05e2d1a84d00f8ad223bd007e1ec7c7757b89cb9c65473c72d5d1d270"
+          "bytes": 306810,
+          "sha256": "b14374016d889621c7debb448316ffe013cd5d64906ee4b44c75ad2a6fdfc588",
+          "pages": 124,
+          "text_sha256": "0da348273143a529fefaeb079855e1c2b9c74c4c3dfd39d6b1ee36fed9288685"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-vi-part-1_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-1_fra/shakespeare_king-henry-vi-part-1_fra-dark.pdf",
-          "bytes": 314213,
-          "sha256": "71d9b8f0d4064faf2c0a09a05b3dacc1354d9e9b2dd8cdad243573a10c0ecdd3",
-          "pages": 125,
-          "text_sha256": "27c3c8e05e2d1a84d00f8ad223bd007e1ec7c7757b89cb9c65473c72d5d1d270"
+          "bytes": 321562,
+          "sha256": "b5de2a5660ef77402e40ef60278e64f75b4ce72cc4ed093d3e8d69ec8a058849",
+          "pages": 124,
+          "text_sha256": "0da348273143a529fefaeb079855e1c2b9c74c4c3dfd39d6b1ee36fed9288685"
         }
       ]
     },
@@ -5506,19 +6033,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-vi-part-2_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-2_eng/shakespeare_king-henry-vi-part-2_eng-light.pdf",
-          "bytes": 360435,
-          "sha256": "db09c0ad8e6b4287dec7e8df056f13832a1b20d734c2754c1fac7e358151fa86",
-          "pages": 159,
-          "text_sha256": "2f6fc0277f8b7cc0c0205c5acde985b97efadd438c86307cebcc8bc7143f213e"
+          "bytes": 367124,
+          "sha256": "43c6f53b49d840e003670e4d7e473fc4f18b144fa99fadd5bf80e133baa585d4",
+          "pages": 156,
+          "text_sha256": "eff42ffbdfad476916a3f626814f880ed4d6c61342e83807eecba11879dd665a"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-vi-part-2_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-2_eng/shakespeare_king-henry-vi-part-2_eng-dark.pdf",
-          "bytes": 379695,
-          "sha256": "e1a6a510680f2b1602b62adae4b3ef8adcd83dd2c5b789158c61f8035a442aa4",
-          "pages": 159,
-          "text_sha256": "2f6fc0277f8b7cc0c0205c5acde985b97efadd438c86307cebcc8bc7143f213e"
+          "bytes": 385931,
+          "sha256": "58dafaea1a3f3b6ee8decf791ddea3b56d022cc3b6ac82828b4bab7cf4f6ca67",
+          "pages": 156,
+          "text_sha256": "eff42ffbdfad476916a3f626814f880ed4d6c61342e83807eecba11879dd665a"
         }
       ]
     },
@@ -5537,19 +6064,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-vi-part-2_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-2_fra/shakespeare_king-henry-vi-part-2_fra-light.pdf",
-          "bytes": 318065,
-          "sha256": "a7308f08930d0c42ac654cdc664d37c6604000a2407cbfca4f41cbd77c20e502",
-          "pages": 137,
-          "text_sha256": "f13e4795731e1be4a05f59ed29148325cfedf19141898caabe7e34addddc5ad0"
+          "bytes": 326844,
+          "sha256": "dd542e32516ebcf6447ea7055aedbebcb4facf6efcb6b8b5c8ffbacf619e28f8",
+          "pages": 136,
+          "text_sha256": "85a482da59606b5b9b1911df1c0d5abbd011080a84f1a09f369364e29ec95cb6"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-vi-part-2_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-2_fra/shakespeare_king-henry-vi-part-2_fra-dark.pdf",
-          "bytes": 334567,
-          "sha256": "ca274639375a477999ea3167e145bc7c9be0e2044580ca10bfc58bbbf1be4034",
-          "pages": 137,
-          "text_sha256": "f13e4795731e1be4a05f59ed29148325cfedf19141898caabe7e34addddc5ad0"
+          "bytes": 343029,
+          "sha256": "af50ca737ebce4d720de0283df993e1b45bfd16d3f015265aa055f05b0b31236",
+          "pages": 136,
+          "text_sha256": "85a482da59606b5b9b1911df1c0d5abbd011080a84f1a09f369364e29ec95cb6"
         }
       ]
     },
@@ -5568,19 +6095,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-vi-part-3_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-3_eng/shakespeare_king-henry-vi-part-3_eng-light.pdf",
-          "bytes": 355925,
-          "sha256": "ad0c283556af88c96d5065c64209220206e1bf2ad83d41627746134fc3e48142",
-          "pages": 158,
-          "text_sha256": "70d7bf9329c7083eefd552b9bd80d1be27b81882f52cc3edbbbb66eafbebf4b5"
+          "bytes": 362285,
+          "sha256": "98725dca27850636b05618acb443c16658ce82a50dc59818c6aac7c028ffdb08",
+          "pages": 157,
+          "text_sha256": "91941506671d7f90b9468152a0f219e9ff0e4c5c69e517080fe8f5a1381b628a"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-vi-part-3_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-3_eng/shakespeare_king-henry-vi-part-3_eng-dark.pdf",
-          "bytes": 374965,
-          "sha256": "9c595e8910c772cc9ece15cdaa8ec4b48e9e79cdf711d807ab0eb3576ac7fa39",
-          "pages": 158,
-          "text_sha256": "70d7bf9329c7083eefd552b9bd80d1be27b81882f52cc3edbbbb66eafbebf4b5"
+          "bytes": 381111,
+          "sha256": "38e0f5fc3da59bee90a9c46e6878c1d1d5bf379389dd4eb6c6ef63bfe66efc41",
+          "pages": 157,
+          "text_sha256": "91941506671d7f90b9468152a0f219e9ff0e4c5c69e517080fe8f5a1381b628a"
         }
       ]
     },
@@ -5599,19 +6126,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-vi-part-3_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-3_fra/shakespeare_king-henry-vi-part-3_fra-light.pdf",
-          "bytes": 304696,
-          "sha256": "4df41e108744187589ca9a655e9ddac82887b4049beae8b250a6a68572984a93",
-          "pages": 133,
-          "text_sha256": "a0369bc2d83897fee098f21d126758e01e6cb11165441559c0bd686c8b88c47f"
+          "bytes": 312574,
+          "sha256": "8f9da97c24145b081c034b92ddf47c020450f9482a018146d78bbd075b2411a2",
+          "pages": 132,
+          "text_sha256": "cd360460119075dc2bf85e2f946b5473ae7e04f458becbdec9a0477d68fdd05c"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-vi-part-3_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-vi-part-3_fra/shakespeare_king-henry-vi-part-3_fra-dark.pdf",
-          "bytes": 320809,
-          "sha256": "7449c58d01cfdb2a9230e61e75f4cbbf8cf08a2d5d7cce31e3ebf6368b93922c",
-          "pages": 133,
-          "text_sha256": "a0369bc2d83897fee098f21d126758e01e6cb11165441559c0bd686c8b88c47f"
+          "bytes": 328210,
+          "sha256": "2ef5293595e2c13598b3bd042b17558fa8e72d5c1208dc1048696b7c311fe7c8",
+          "pages": 132,
+          "text_sha256": "cd360460119075dc2bf85e2f946b5473ae7e04f458becbdec9a0477d68fdd05c"
         }
       ]
     },
@@ -5630,19 +6157,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-viii_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-viii_eng/shakespeare_king-henry-viii_eng-light.pdf",
-          "bytes": 367629,
-          "sha256": "ce1c32ca3423519a390f8924639b97c9d2fb7621279ef199dc53c90b3e2debf3",
-          "pages": 158,
-          "text_sha256": "75d5813a5e9b369074260acac6a444ab5e0cde188ad2112952022eae1a902f0f"
+          "bytes": 372153,
+          "sha256": "cec7b608a824b8704210b91c61c854cd7cbf43c4c74a2c61d1d636dd30db5d12",
+          "pages": 157,
+          "text_sha256": "67984981e2cc993c2e392e027172f38045ba7be0edf3aefd212428ce0e40eda5"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-viii_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-viii_eng/shakespeare_king-henry-viii_eng-dark.pdf",
-          "bytes": 386777,
-          "sha256": "aee884b310ae10402f2f961b4dc38afec0e6b372ba01e6a0a6500924cb056eb1",
-          "pages": 158,
-          "text_sha256": "75d5813a5e9b369074260acac6a444ab5e0cde188ad2112952022eae1a902f0f"
+          "bytes": 391022,
+          "sha256": "3abbcbc626636dc66676ea04f6041f348c549a20175b947b25a8ff5d3d6ebf21",
+          "pages": 157,
+          "text_sha256": "67984981e2cc993c2e392e027172f38045ba7be0edf3aefd212428ce0e40eda5"
         }
       ]
     },
@@ -5661,19 +6188,19 @@
           "theme": "light",
           "file": "shakespeare_king-henry-viii_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-viii_fra/shakespeare_king-henry-viii_fra-light.pdf",
-          "bytes": 310945,
-          "sha256": "bbb71171adbb63a190385a4fa89a2fbfb3ff5e966dd3892af01d7af441371dae",
-          "pages": 131,
-          "text_sha256": "632cfd45a90b5e36d97781f06e58f632cf403f49c9db58f75c4bf12cc06d545a"
+          "bytes": 317846,
+          "sha256": "6190517588f7026afc4feab10522544e4bcca2b83ce0c2d6831c3321de8838e7",
+          "pages": 130,
+          "text_sha256": "6b1bc591073103ba046501f44bbcf8c524c79f04cb32b5cc18ede56a5ee186dd"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-henry-viii_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-henry-viii_fra/shakespeare_king-henry-viii_fra-dark.pdf",
-          "bytes": 326736,
-          "sha256": "c20864e4e19eb6be30bfc5e7ba1d52b7bc6f5405a1bc0f30117e7bdb9d68459e",
-          "pages": 131,
-          "text_sha256": "632cfd45a90b5e36d97781f06e58f632cf403f49c9db58f75c4bf12cc06d545a"
+          "bytes": 333267,
+          "sha256": "9341855df4739a616859899846cc5a3f4f979186e3dc9afce35590e94e052d94",
+          "pages": 130,
+          "text_sha256": "6b1bc591073103ba046501f44bbcf8c524c79f04cb32b5cc18ede56a5ee186dd"
         }
       ]
     },
@@ -5692,19 +6219,19 @@
           "theme": "light",
           "file": "shakespeare_king-john_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-john_eng/shakespeare_king-john_eng-light.pdf",
-          "bytes": 305780,
-          "sha256": "410648e56a5898a412720bd311d670a0766cd02d27aa45f98a91370a0b09bc09",
-          "pages": 127,
-          "text_sha256": "07943008065e7c435f2e193f04f1b59cc90bdfc48fdbdba1ee1e216b3f49db1a"
+          "bytes": 308580,
+          "sha256": "71f2051520a9fdcc0ad5aaecc049a62d5fffb22ed70ce8e8c291f29690c6fff2",
+          "pages": 126,
+          "text_sha256": "d16ec2421100a7927f7bae5e948993d2e52634068a2fd7fa20124607ed2f8fa1"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-john_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-john_eng/shakespeare_king-john_eng-dark.pdf",
-          "bytes": 321178,
-          "sha256": "ef0d48487ab901301ac0830ffefd7556b2e96f32f7435e2c6786e1a19c60e96b",
-          "pages": 127,
-          "text_sha256": "07943008065e7c435f2e193f04f1b59cc90bdfc48fdbdba1ee1e216b3f49db1a"
+          "bytes": 323888,
+          "sha256": "0174cd2da9ef74535680483e5a07bf27065075c889df3410c369c4cb2d6f513d",
+          "pages": 126,
+          "text_sha256": "d16ec2421100a7927f7bae5e948993d2e52634068a2fd7fa20124607ed2f8fa1"
         }
       ]
     },
@@ -5723,19 +6250,19 @@
           "theme": "light",
           "file": "shakespeare_king-john_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-john_fra/shakespeare_king-john_fra-light.pdf",
-          "bytes": 271185,
-          "sha256": "bdd1a97a7e1105cfe4f090f48f9fd9674edd8d3c6722015dfbc1c5b2a2c494a4",
+          "bytes": 277223,
+          "sha256": "32371fb04b9399cf4aba357b3bb1ac624e2d1117b57f31ead8909c37d2fcb536",
           "pages": 110,
-          "text_sha256": "f56f937eb7cd1fc9cf1516e84c39a6ab5b853610073f1e31aac173ac46961de5"
+          "text_sha256": "8fb7346f327811f58e01551e3b0a24f3a3c608b23d37035d030083e7c5030704"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-john_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-john_fra/shakespeare_king-john_fra-dark.pdf",
-          "bytes": 284403,
-          "sha256": "81b08741451971687cfd0e3a672a461960256d12209df4a88d8ed1c6abb0ae30",
+          "bytes": 290341,
+          "sha256": "18684f2053e32c1d10e5bda862db3eb2c0e97d1f35038410a14a1abf740ff660",
           "pages": 110,
-          "text_sha256": "f56f937eb7cd1fc9cf1516e84c39a6ab5b853610073f1e31aac173ac46961de5"
+          "text_sha256": "8fb7346f327811f58e01551e3b0a24f3a3c608b23d37035d030083e7c5030704"
         }
       ]
     },
@@ -5754,19 +6281,19 @@
           "theme": "light",
           "file": "shakespeare_king-lear_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-lear_eng/shakespeare_king-lear_eng-light.pdf",
-          "bytes": 379840,
-          "sha256": "f6becbef6bd2bf1af5c8d1aeb36298fa8931372939018451ee99eecd9d3c5347",
+          "bytes": 388537,
+          "sha256": "10d07c7c15acf4c429083a516d0e047a49664783bbc887004f60e812af5993d0",
           "pages": 181,
-          "text_sha256": "7e663b8ed53d1accd4d0683875e91e46a786a32e0dbc8b80b756c2d914c9cfd7"
+          "text_sha256": "7b04f03a0cd3a4670aa504eb1de57b53dcf83e0a9cb4058b0b534168d9829af7"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-lear_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-lear_eng/shakespeare_king-lear_eng-dark.pdf",
-          "bytes": 401759,
-          "sha256": "db5dac304d00d43dbcc7f85aca6aa6b28f678a23a76a77646dc5a7129afba8a6",
+          "bytes": 410190,
+          "sha256": "ba6fec8ab6cf519009c45b06703bca15df5a8dad8edda44969b56efc6fafcda8",
           "pages": 181,
-          "text_sha256": "7e663b8ed53d1accd4d0683875e91e46a786a32e0dbc8b80b756c2d914c9cfd7"
+          "text_sha256": "7b04f03a0cd3a4670aa504eb1de57b53dcf83e0a9cb4058b0b534168d9829af7"
         }
       ]
     },
@@ -5785,19 +6312,19 @@
           "theme": "light",
           "file": "shakespeare_king-lear_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-lear_fra/shakespeare_king-lear_fra-light.pdf",
-          "bytes": 369269,
-          "sha256": "e4e0e3cba3ccf5b475681ac59d949ba5d388e3c3b803cd56c28d585937e4ba60",
-          "pages": 167,
-          "text_sha256": "ea5a6ad9dac8bc65f26a86439ee5bf546fd7511563ae941bc8bebb422f77f750"
+          "bytes": 379030,
+          "sha256": "6c720caa0f2632b51111196cc07272d1e18ccc15d98ad9e2e1b57f474c9aa499",
+          "pages": 166,
+          "text_sha256": "887a616ab158d4d64a3ac606c2cbdd77c116d6b49e7b98fd7b7130596bfc6321"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-lear_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-lear_fra/shakespeare_king-lear_fra-dark.pdf",
-          "bytes": 389442,
-          "sha256": "fa361ef10a72c6d2a6dfe576598ea5a42fac7f0d17569d175858ee5d42133041",
-          "pages": 167,
-          "text_sha256": "ea5a6ad9dac8bc65f26a86439ee5bf546fd7511563ae941bc8bebb422f77f750"
+          "bytes": 398856,
+          "sha256": "c8cc7d9112886ee5b5d6f6b02d28e0936ce5ed7d4bf71e028cd8b6361fd3b531",
+          "pages": 166,
+          "text_sha256": "887a616ab158d4d64a3ac606c2cbdd77c116d6b49e7b98fd7b7130596bfc6321"
         }
       ]
     },
@@ -5816,19 +6343,19 @@
           "theme": "light",
           "file": "shakespeare_king-richard-ii_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-richard-ii_eng/shakespeare_king-richard-ii_eng-light.pdf",
-          "bytes": 322609,
-          "sha256": "e8f0190c63f4ec066b8e7805039d9db3dc9af76e789536d54c7550eea20b31d6",
-          "pages": 132,
-          "text_sha256": "e4a2af0c2dc936800ae5473d520450f833d0c40ea5d3870fb12b8c4ec27bd631"
+          "bytes": 326491,
+          "sha256": "90e33fabcaae186bd3efe1af129083ecad9c60c86d97255ce4dc84b8a3e530dd",
+          "pages": 131,
+          "text_sha256": "47276989e9c4f5d8602bd1fb72beba92f5acf1010d826f44b007b29476be919c"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-richard-ii_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-richard-ii_eng/shakespeare_king-richard-ii_eng-dark.pdf",
-          "bytes": 338542,
-          "sha256": "c301af60ec22fc306d9645264905445f12aa65ca148d13462de6a0eea98f24b1",
-          "pages": 132,
-          "text_sha256": "e4a2af0c2dc936800ae5473d520450f833d0c40ea5d3870fb12b8c4ec27bd631"
+          "bytes": 342337,
+          "sha256": "0da3db06b5b2c4aa00a83e94d85464fa79cb9812c58376be4811a9e20b3a565d",
+          "pages": 131,
+          "text_sha256": "47276989e9c4f5d8602bd1fb72beba92f5acf1010d826f44b007b29476be919c"
         }
       ]
     },
@@ -5847,19 +6374,19 @@
           "theme": "light",
           "file": "shakespeare_king-richard-ii_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-richard-ii_fra/shakespeare_king-richard-ii_fra-light.pdf",
-          "bytes": 298811,
-          "sha256": "69e68186e3ff0e677a006f19440405c9df0f23ec0b89b4125a33ed5545a8c82f",
-          "pages": 119,
-          "text_sha256": "30b2d644e6618b34067bde274f3dbdf42310256dcaaa7b339cc637d971b032bf"
+          "bytes": 303120,
+          "sha256": "e5e13f62450f1545af2c276a926b1527b2e16dd330e098636aab28789df0da0b",
+          "pages": 118,
+          "text_sha256": "45d0bfe2ad267a38150f919fcd494ba9047c761c910636c2f3618d82a84ee1f2"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-richard-ii_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-richard-ii_fra/shakespeare_king-richard-ii_fra-dark.pdf",
-          "bytes": 313138,
-          "sha256": "d605195d77e97eac9c9637809c4378b986991a528ff2940c8bc4710f4c31b3d3",
-          "pages": 119,
-          "text_sha256": "30b2d644e6618b34067bde274f3dbdf42310256dcaaa7b339cc637d971b032bf"
+          "bytes": 317237,
+          "sha256": "365acb4d006cce86ae4db3fac1d52cb37ae23f10d655b7909824016bd73fe917",
+          "pages": 118,
+          "text_sha256": "45d0bfe2ad267a38150f919fcd494ba9047c761c910636c2f3618d82a84ee1f2"
         }
       ]
     },
@@ -5878,19 +6405,19 @@
           "theme": "light",
           "file": "shakespeare_king-richard-iii_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_king-richard-iii_eng/shakespeare_king-richard-iii_eng-light.pdf",
-          "bytes": 413897,
-          "sha256": "634c9d62154a760ff2a30f178fca1d07dc0daff125a5fb4dc290d03191a3fa68",
-          "pages": 194,
-          "text_sha256": "113d7ff35315c02e3626942e6515de7966808d85c939b2c216dfb3e083500592"
+          "bytes": 421246,
+          "sha256": "7133a25e30725b51fe008e8e76907e047e882e7aa00103257544c9894feb65c7",
+          "pages": 192,
+          "text_sha256": "1b0093f1b612c2370f8daf6949924a832524baaff0d3dbbdd79aa30cf2063534"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-richard-iii_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-richard-iii_eng/shakespeare_king-richard-iii_eng-dark.pdf",
-          "bytes": 437118,
-          "sha256": "80405c870355de7c26b59bd0e9a94acb05bdc6cb30cacada97643330e1913c39",
-          "pages": 194,
-          "text_sha256": "113d7ff35315c02e3626942e6515de7966808d85c939b2c216dfb3e083500592"
+          "bytes": 444136,
+          "sha256": "e49288bd1cdaec4345f9f8dd7032eb85a76a0d207418f66b4bd239799a0223fe",
+          "pages": 192,
+          "text_sha256": "1b0093f1b612c2370f8daf6949924a832524baaff0d3dbbdd79aa30cf2063534"
         }
       ]
     },
@@ -5909,19 +6436,19 @@
           "theme": "light",
           "file": "shakespeare_king-richard-iii_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_king-richard-iii_fra/shakespeare_king-richard-iii_fra-light.pdf",
-          "bytes": 378308,
-          "sha256": "cbcf7424022f097ffb516120148a0f5ab01efff192b1b5a78f044ef351c9967d",
-          "pages": 171,
-          "text_sha256": "8b007bbdafb6e955a58b56d8f837f3dc0a6ebdab13577c2926bdf6b86bca5345"
+          "bytes": 391913,
+          "sha256": "79d6d90764a917e2a8ea42dbbe43c30df3fae32f33a5064bf6e69f0000de35b0",
+          "pages": 172,
+          "text_sha256": "3ac7ba7ab3a24650d9d29bff6efdccd9fdf0b7866b56f0c4222a81d0949b4a44"
         },
         {
           "theme": "dark",
           "file": "shakespeare_king-richard-iii_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_king-richard-iii_fra/shakespeare_king-richard-iii_fra-dark.pdf",
-          "bytes": 398908,
-          "sha256": "1dc565245b3038b53793ab6c481350a91dca6033ee9c2676a97b5a37efe96f25",
-          "pages": 171,
-          "text_sha256": "8b007bbdafb6e955a58b56d8f837f3dc0a6ebdab13577c2926bdf6b86bca5345"
+          "bytes": 412341,
+          "sha256": "2174f1dbbca4bd922a0601e6c7f96ad82eb25c715f9376c9579d73169abe5b3b",
+          "pages": 172,
+          "text_sha256": "3ac7ba7ab3a24650d9d29bff6efdccd9fdf0b7866b56f0c4222a81d0949b4a44"
         }
       ]
     },
@@ -5940,19 +6467,19 @@
           "theme": "light",
           "file": "shakespeare_loves-labours-lost_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_loves-labours-lost_eng/shakespeare_loves-labours-lost_eng-light.pdf",
-          "bytes": 292823,
-          "sha256": "8b8ee9957359be343cb0b16ac93d28ad31e94a95b53bea1417dbec3cef6f6183",
-          "pages": 152,
-          "text_sha256": "8c576b447995773482080921826eba57ce160c359e141ed04a3ee1d449cd5daa"
+          "bytes": 302212,
+          "sha256": "1493832ebd38170bc35b2af02f8d27b8888c6314c9e61d013cc2d72f5c64d159",
+          "pages": 150,
+          "text_sha256": "e914750ac14fe5908c2dcf2adbe6a6c5e6b53fecd70f462e2b9d50b779b1c495"
         },
         {
           "theme": "dark",
           "file": "shakespeare_loves-labours-lost_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_loves-labours-lost_eng/shakespeare_loves-labours-lost_eng-dark.pdf",
-          "bytes": 311357,
-          "sha256": "44943d00b1b523313bb88d1371cc12fbbe7b084bd71b76e04937113570831753",
-          "pages": 152,
-          "text_sha256": "8c576b447995773482080921826eba57ce160c359e141ed04a3ee1d449cd5daa"
+          "bytes": 320299,
+          "sha256": "1ecb72413c8f3a5568be69a6119081e2db36e71526f7ae117d7dacf14c184ec8",
+          "pages": 150,
+          "text_sha256": "e914750ac14fe5908c2dcf2adbe6a6c5e6b53fecd70f462e2b9d50b779b1c495"
         }
       ]
     },
@@ -5971,19 +6498,19 @@
           "theme": "light",
           "file": "shakespeare_loves-labours-lost_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_loves-labours-lost_fra/shakespeare_loves-labours-lost_fra-light.pdf",
-          "bytes": 308104,
-          "sha256": "734e103c6e1b5089e34423ab3c94a82738122825766ea60cf3c5dbaf1537e96f",
-          "pages": 146,
-          "text_sha256": "b1e797b9c2cfe1b0a5105dc668819e680ba04393ce71b33f915baf4c21bd9e65"
+          "bytes": 317055,
+          "sha256": "ac628dc78e1fb58c8d4634757f727782ebf3ad88f835f327d503d721c252fb85",
+          "pages": 142,
+          "text_sha256": "ea8eb10a63087286cd9af1e667f09b41db424d0b777ab7e7f0ac8baf3410d10a"
         },
         {
           "theme": "dark",
           "file": "shakespeare_loves-labours-lost_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_loves-labours-lost_fra/shakespeare_loves-labours-lost_fra-dark.pdf",
-          "bytes": 325666,
-          "sha256": "cd736554fd978e8286912ae308ade03abec9e07d6668578c9a3d4d8f90b0ea48",
-          "pages": 146,
-          "text_sha256": "b1e797b9c2cfe1b0a5105dc668819e680ba04393ce71b33f915baf4c21bd9e65"
+          "bytes": 333989,
+          "sha256": "8e3b30f5079ac4de8317303ae9a0f898f85e01bd4aa3523180273137f5b0915a",
+          "pages": 142,
+          "text_sha256": "ea8eb10a63087286cd9af1e667f09b41db424d0b777ab7e7f0ac8baf3410d10a"
         }
       ]
     },
@@ -6002,19 +6529,19 @@
           "theme": "light",
           "file": "shakespeare_macbeth_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_macbeth_eng/shakespeare_macbeth_eng-light.pdf",
-          "bytes": 282419,
-          "sha256": "d7e41b8b773d1737197543da37269b20177d10d737b009a1a2fcce7a4494db16",
+          "bytes": 287621,
+          "sha256": "ca385e5a3d6ef8aaf6ecc2c337d70e1eb9829dde5c8930c24a027dcb72b8f5d4",
           "pages": 128,
-          "text_sha256": "a1db0bd00631899b478ee20c0997d9529c26854aa779f13e89895cc45a0dc90c"
+          "text_sha256": "a007a44d8e21036af955d80901f701b3137b40c3ebc1868303fa4133e9bf56fa"
         },
         {
           "theme": "dark",
           "file": "shakespeare_macbeth_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_macbeth_eng/shakespeare_macbeth_eng-dark.pdf",
-          "bytes": 297969,
-          "sha256": "a2034f63c68ad2f0275b12750bd1193d15a75cccb6f3dd374acc08dfc454768c",
+          "bytes": 303043,
+          "sha256": "2d95bd618821d7514bc4dea84ee2878a670b907a7ac19ab442c1c2fec3b2ebc6",
           "pages": 128,
-          "text_sha256": "a1db0bd00631899b478ee20c0997d9529c26854aa779f13e89895cc45a0dc90c"
+          "text_sha256": "a007a44d8e21036af955d80901f701b3137b40c3ebc1868303fa4133e9bf56fa"
         }
       ]
     },
@@ -6033,19 +6560,19 @@
           "theme": "light",
           "file": "shakespeare_macbeth_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_macbeth_fra/shakespeare_macbeth_fra-light.pdf",
-          "bytes": 295096,
-          "sha256": "5f57fb8073827c0f2070f3c98af5ace06eb5ca55ff92d837b0817534ca0fc682",
+          "bytes": 302101,
+          "sha256": "8b87fa774cb715083e96e4b1918a52d6245b4c4e4edd039b0af47700b5cc6bbb",
           "pages": 122,
-          "text_sha256": "125e111343b1f1b83cd1ee85172f1cf77fa8e848b6b431ba30f304d9a2484cfb"
+          "text_sha256": "893b59ba95450b7d757fd00e0e2a9bcbbd7fc88a54f0d17740dce19f6a1e2c6d"
         },
         {
           "theme": "dark",
           "file": "shakespeare_macbeth_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_macbeth_fra/shakespeare_macbeth_fra-dark.pdf",
-          "bytes": 309824,
-          "sha256": "3463b4ebdc6d4b23ffeb6c1ebd1785813be417c2217fdf00d3e892b0c2a38d3d",
+          "bytes": 316707,
+          "sha256": "988298f9f1d2a9722cf1e2c3eb21962267fa8f1032ac19232a29e6a4bff30d20",
           "pages": 122,
-          "text_sha256": "125e111343b1f1b83cd1ee85172f1cf77fa8e848b6b431ba30f304d9a2484cfb"
+          "text_sha256": "893b59ba95450b7d757fd00e0e2a9bcbbd7fc88a54f0d17740dce19f6a1e2c6d"
         }
       ]
     },
@@ -6064,19 +6591,19 @@
           "theme": "light",
           "file": "shakespeare_macbeth_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_macbeth_spa/shakespeare_macbeth_spa-light.pdf",
-          "bytes": 172651,
-          "sha256": "051bb28683359b163879f85197a3bd470fa9bcd12b6dfb11178f75fe7123ac4e",
-          "pages": 89,
-          "text_sha256": "bf9053199fb9abd7ff3eb7eade01f6631f6817c26f370a6649dcb8430a778b39"
+          "bytes": 178831,
+          "sha256": "47cb18406014765801d3c9c614af06278645579f88305d702e006ff803b5b9e4",
+          "pages": 88,
+          "text_sha256": "f62a2245dce89fb875082e92982dd41e8674c0693d71f8126579141d9305fff9"
         },
         {
           "theme": "dark",
           "file": "shakespeare_macbeth_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_macbeth_spa/shakespeare_macbeth_spa-dark.pdf",
-          "bytes": 183372,
-          "sha256": "e1986958f5ac18ac651c5a98d82eb0d31ec535c8928945f1c06501d1d0ad7cb5",
-          "pages": 89,
-          "text_sha256": "bf9053199fb9abd7ff3eb7eade01f6631f6817c26f370a6649dcb8430a778b39"
+          "bytes": 189307,
+          "sha256": "7c4b109a3e9caa87040d811679055c4aeecd96dc0d940bbc948c7b95e9918445",
+          "pages": 88,
+          "text_sha256": "f62a2245dce89fb875082e92982dd41e8674c0693d71f8126579141d9305fff9"
         }
       ]
     },
@@ -6095,19 +6622,19 @@
           "theme": "light",
           "file": "shakespeare_measure-for-measure_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_measure-for-measure_eng/shakespeare_measure-for-measure_eng-light.pdf",
-          "bytes": 288705,
-          "sha256": "48dd4162e47f71efd2cf2e8ca9b3675999e7d7129ad541af3737ce60a859a359",
-          "pages": 145,
-          "text_sha256": "ae8b8419d2eca34cf7a7e8b602b05177aa71ab849d813f2f9d4f44ebc6fdb080"
+          "bytes": 296004,
+          "sha256": "24e2eb080f52dfb76a0561a987de55a44e285eae67c16ea910d6a56fdcb7d4c2",
+          "pages": 143,
+          "text_sha256": "034c4857389f7a1444b1141f2a367fd71ff79a54e6e04d6d7e786fb7891e426e"
         },
         {
           "theme": "dark",
           "file": "shakespeare_measure-for-measure_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_measure-for-measure_eng/shakespeare_measure-for-measure_eng-dark.pdf",
-          "bytes": 306283,
-          "sha256": "6ac8881df2010d6f559ed4548a117226de8976494df9fe5ac3391b899ada7faf",
-          "pages": 145,
-          "text_sha256": "ae8b8419d2eca34cf7a7e8b602b05177aa71ab849d813f2f9d4f44ebc6fdb080"
+          "bytes": 313299,
+          "sha256": "c0320beaecf07de36b1d350926dd8ec471fc479cfa721a2336ea3cb75e0c04a2",
+          "pages": 143,
+          "text_sha256": "034c4857389f7a1444b1141f2a367fd71ff79a54e6e04d6d7e786fb7891e426e"
         }
       ]
     },
@@ -6126,19 +6653,19 @@
           "theme": "light",
           "file": "shakespeare_measure-for-measure_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_measure-for-measure_fra/shakespeare_measure-for-measure_fra-light.pdf",
-          "bytes": 283199,
-          "sha256": "5ba2ebc60603344491df641985278e39521d627b1f32c6dc0154f2ac84afc86f",
-          "pages": 134,
-          "text_sha256": "b4b9c1639e3b3b83bee1147c23902843891ccdca01d4d010438c8462a2c938fb"
+          "bytes": 292293,
+          "sha256": "917fbb10c863ebd35088d74f1dd8f3a48eda6e21c5326fd843db0d5f54901d0a",
+          "pages": 133,
+          "text_sha256": "1720d67f3d531f7de6d4d867dcd850e154328f18f68ead00fa7cefc1b9f7cea7"
         },
         {
           "theme": "dark",
           "file": "shakespeare_measure-for-measure_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_measure-for-measure_fra/shakespeare_measure-for-measure_fra-dark.pdf",
-          "bytes": 299393,
-          "sha256": "5632274c7d745b1bce665ebf5bd7fb64f3f501e988a91fc52ed7811b572cd9ce",
-          "pages": 134,
-          "text_sha256": "b4b9c1639e3b3b83bee1147c23902843891ccdca01d4d010438c8462a2c938fb"
+          "bytes": 308194,
+          "sha256": "99d1af0836db37f72de13f02205371c6b873274a5f55537c021b9150778c0b1d",
+          "pages": 133,
+          "text_sha256": "1720d67f3d531f7de6d4d867dcd850e154328f18f68ead00fa7cefc1b9f7cea7"
         }
       ]
     },
@@ -6157,19 +6684,19 @@
           "theme": "light",
           "file": "shakespeare_much-ado-about-nothing_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_much-ado-about-nothing_eng/shakespeare_much-ado-about-nothing_eng-light.pdf",
-          "bytes": 253703,
-          "sha256": "0633894cf237b97735c1fbaed49fafa180833077ca1df424d25fb60f15eb87cc",
-          "pages": 132,
-          "text_sha256": "7f6227303d22d9df575a0ec21fdc425a3b47b813bdaae54cee548efe1c072540"
+          "bytes": 263598,
+          "sha256": "7ad69527bbe2e335bf72d0dd3e9f3559e64814ae33afd6db9420731a2dbcf6fd",
+          "pages": 130,
+          "text_sha256": "0416a7f32ec67c03999ff005d76300b4434cb787dd29af1f2c06ca4e1e7d66fb"
         },
         {
           "theme": "dark",
           "file": "shakespeare_much-ado-about-nothing_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_much-ado-about-nothing_eng/shakespeare_much-ado-about-nothing_eng-dark.pdf",
-          "bytes": 269787,
-          "sha256": "a41e5dca115bcc4730fa474bf945aa08080c403546c032c0b1bdad6e1266bb05",
-          "pages": 132,
-          "text_sha256": "7f6227303d22d9df575a0ec21fdc425a3b47b813bdaae54cee548efe1c072540"
+          "bytes": 279241,
+          "sha256": "454a160afa91a1f0020182dbb9b427759e4446596ad5f25d7419c6027ad78566",
+          "pages": 130,
+          "text_sha256": "0416a7f32ec67c03999ff005d76300b4434cb787dd29af1f2c06ca4e1e7d66fb"
         }
       ]
     },
@@ -6188,19 +6715,19 @@
           "theme": "light",
           "file": "shakespeare_much-ado-about-nothing_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_much-ado-about-nothing_fra/shakespeare_much-ado-about-nothing_fra-light.pdf",
-          "bytes": 283262,
-          "sha256": "7839fc65b6f7390ecf8162d49fa3df2f260f0caa788f0c38852a0360dd50d4ca",
-          "pages": 132,
-          "text_sha256": "7b3781246022e6dbf20caac0a198ddccc975c7ae7fa1e53bbb672ebdab59371e"
+          "bytes": 293147,
+          "sha256": "6a43399958206030c411f330774a03b717524653b5865195abd656a61081aaad",
+          "pages": 131,
+          "text_sha256": "e43dc4a613a7da76f06e68a598b53bcf809a5285b104482c217073aa81a9a162"
         },
         {
           "theme": "dark",
           "file": "shakespeare_much-ado-about-nothing_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_much-ado-about-nothing_fra/shakespeare_much-ado-about-nothing_fra-dark.pdf",
-          "bytes": 299163,
-          "sha256": "524333b995f8aa9340a96866cb0b6de7508ae1f18761f96d9e977e6c607095b8",
-          "pages": 132,
-          "text_sha256": "7b3781246022e6dbf20caac0a198ddccc975c7ae7fa1e53bbb672ebdab59371e"
+          "bytes": 308716,
+          "sha256": "63cff5a06da35302f7c6c10b26968e8596445f6ba0f56b8b9611f4dfe5019b99",
+          "pages": 131,
+          "text_sha256": "e43dc4a613a7da76f06e68a598b53bcf809a5285b104482c217073aa81a9a162"
         }
       ]
     },
@@ -6219,19 +6746,19 @@
           "theme": "light",
           "file": "shakespeare_othello_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_othello_eng/shakespeare_othello_eng-light.pdf",
-          "bytes": 377298,
-          "sha256": "fa109c1047a5610a3d634cea7f7270ac1294a650b32390e71625cdd6ffc45c57",
+          "bytes": 388477,
+          "sha256": "f8c48cbaa746129692416d0a54c223fa1792204783dd34ae3a1d44e3f7916d3d",
           "pages": 187,
-          "text_sha256": "01a7361b66c989b27bd55a57951fb1478d576b7b27fd1e12fc6a352e2a74c07f"
+          "text_sha256": "c7bbceeb961ca984bff13ed792af278e09ae1e8d1582b020132cd617b6e5efc0"
         },
         {
           "theme": "dark",
           "file": "shakespeare_othello_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_othello_eng/shakespeare_othello_eng-dark.pdf",
-          "bytes": 400022,
-          "sha256": "14cbe678e173c5afd470ee14411c85ff765b6ed126118612e288baa65558a203",
+          "bytes": 411073,
+          "sha256": "b18df30159059eed1c364073177dc519b8ad940b815cf7869b709e9702532aae",
           "pages": 187,
-          "text_sha256": "01a7361b66c989b27bd55a57951fb1478d576b7b27fd1e12fc6a352e2a74c07f"
+          "text_sha256": "c7bbceeb961ca984bff13ed792af278e09ae1e8d1582b020132cd617b6e5efc0"
         }
       ]
     },
@@ -6250,19 +6777,19 @@
           "theme": "light",
           "file": "shakespeare_othello_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_othello_fra/shakespeare_othello_fra-light.pdf",
-          "bytes": 350914,
-          "sha256": "5cb33dd57b362dca9f2bc361c8c7c3ed91d90143742f8a6e3531cebd89ead885",
+          "bytes": 363301,
+          "sha256": "c326b444cc43e117a8607bd9e6acea2fc99c768cb18c021d76b53ab95c64265e",
           "pages": 168,
-          "text_sha256": "0b16e0325b91b892a8f2f0ef63edb9d8dc7095898d4895334e456563ce2fd79b"
+          "text_sha256": "8d288c5b090b44d4a521ce401f1f1a232371234b4d7a9e44f881f19b861b8457"
         },
         {
           "theme": "dark",
           "file": "shakespeare_othello_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_othello_fra/shakespeare_othello_fra-dark.pdf",
-          "bytes": 371153,
-          "sha256": "c1379d902a20e19097465e9233f47bfe4cb16746909d842dfa00d66c60c54b4b",
+          "bytes": 383371,
+          "sha256": "336d04b9de5f57c82f6952d0de907ac47337c2ed9d40f1e3bc89f1a792513ca4",
           "pages": 168,
-          "text_sha256": "0b16e0325b91b892a8f2f0ef63edb9d8dc7095898d4895334e456563ce2fd79b"
+          "text_sha256": "8d288c5b090b44d4a521ce401f1f1a232371234b4d7a9e44f881f19b861b8457"
         }
       ]
     },
@@ -6281,19 +6808,19 @@
           "theme": "light",
           "file": "shakespeare_othello_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_othello_spa/shakespeare_othello_spa-light.pdf",
-          "bytes": 260496,
-          "sha256": "9a1f4d23f0c5a13b8d4acefcdaeed76835627b67a1a3864c373b6b2741acc6e9",
-          "pages": 145,
-          "text_sha256": "817209de6cab8ee0333fffc2903b2eb10f5fa6a309c9a93690fc4f21da413122"
+          "bytes": 272721,
+          "sha256": "4369847467d60e39f91f2726743748e8139475342ec00f393922f40915b8bc40",
+          "pages": 144,
+          "text_sha256": "661d2634d74c1144523b8668d039f0080ad7e71ca415b9ba20557337a33d5538"
         },
         {
           "theme": "dark",
           "file": "shakespeare_othello_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_othello_spa/shakespeare_othello_spa-dark.pdf",
-          "bytes": 278128,
-          "sha256": "bab03a3d8156ec9befe9e9997379165a09d6cb01e0ea4590d490e518c920a6a6",
-          "pages": 145,
-          "text_sha256": "817209de6cab8ee0333fffc2903b2eb10f5fa6a309c9a93690fc4f21da413122"
+          "bytes": 289972,
+          "sha256": "bf0bd2f51bb492407057c8ec1a6436a6d0707281cff6961b674d0ead083f3653",
+          "pages": 144,
+          "text_sha256": "661d2634d74c1144523b8668d039f0080ad7e71ca415b9ba20557337a33d5538"
         }
       ]
     },
@@ -6312,19 +6839,19 @@
           "theme": "light",
           "file": "shakespeare_pericles-prince-of-tyre_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_pericles-prince-of-tyre_eng/shakespeare_pericles-prince-of-tyre_eng-light.pdf",
-          "bytes": 253407,
-          "sha256": "0daa82fd2657922620910f3ffe29a8f3c17914f600e2f5bc5f2d708544d58dab",
-          "pages": 121,
-          "text_sha256": "3b451f78a13aea32c2c57611bad08b187a4f2e2c3d69838947e27716bea6e29d"
+          "bytes": 257558,
+          "sha256": "70b295f175a4295fa53a7e232967b8b21d332c9f994f2e874d9eaae52c57e505",
+          "pages": 118,
+          "text_sha256": "1e648c5f99f5f4cdfa0631ebb5ce80daf68db836e746b4398e0324e05e0d0eea"
         },
         {
           "theme": "dark",
           "file": "shakespeare_pericles-prince-of-tyre_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_pericles-prince-of-tyre_eng/shakespeare_pericles-prince-of-tyre_eng-dark.pdf",
-          "bytes": 268056,
-          "sha256": "d13b7bbf273116afb04eec21e5599ed11f77097693d483a720bdaf6ed0e9c6f2",
-          "pages": 121,
-          "text_sha256": "3b451f78a13aea32c2c57611bad08b187a4f2e2c3d69838947e27716bea6e29d"
+          "bytes": 271695,
+          "sha256": "0d590e3d57a21fb1f3d3bbf40dc5168a71b7b882604650638bc3fde826a0ec36",
+          "pages": 118,
+          "text_sha256": "1e648c5f99f5f4cdfa0631ebb5ce80daf68db836e746b4398e0324e05e0d0eea"
         }
       ]
     },
@@ -6343,19 +6870,19 @@
           "theme": "light",
           "file": "shakespeare_pericles-prince-of-tyre_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_pericles-prince-of-tyre_fra/shakespeare_pericles-prince-of-tyre_fra-light.pdf",
-          "bytes": 224926,
-          "sha256": "609d423c0300096eac29b1951c7f3d957da16ed580ae24f96cfa31597e57416a",
+          "bytes": 231249,
+          "sha256": "b858a33e6619378a43fa07f9bc5e62430c77912190234e9f6e6d4584370e4209",
           "pages": 102,
-          "text_sha256": "73af1bc50bf01ad312db4531177918fa872bb921e5e52c69293e1f4dc1a73008"
+          "text_sha256": "e0e4d82b07703095aa88ab3511d5097233c8fb9c3dec88c74df1e532c6050908"
         },
         {
           "theme": "dark",
           "file": "shakespeare_pericles-prince-of-tyre_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_pericles-prince-of-tyre_fra/shakespeare_pericles-prince-of-tyre_fra-dark.pdf",
-          "bytes": 237172,
-          "sha256": "b60e518753a76e757e925a632a891d1e709dbfbc357f9d36f9af48e5a544ec4b",
+          "bytes": 243354,
+          "sha256": "a297012cd8d671a63139fb387d3715f0b1595c1922acdfa2dcb5b9c7fed2013e",
           "pages": 102,
-          "text_sha256": "73af1bc50bf01ad312db4531177918fa872bb921e5e52c69293e1f4dc1a73008"
+          "text_sha256": "e0e4d82b07703095aa88ab3511d5097233c8fb9c3dec88c74df1e532c6050908"
         }
       ]
     },
@@ -6374,19 +6901,19 @@
           "theme": "light",
           "file": "shakespeare_romeo-and-juliet_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_romeo-and-juliet_eng/shakespeare_romeo-and-juliet_eng-light.pdf",
-          "bytes": 341719,
-          "sha256": "ed9ffc137fb759826512d531622bf718810ae0dd1da21a2f0027604fe785eb90",
-          "pages": 158,
-          "text_sha256": "41e2f28e36b18eab6eccaf5d3f945143317733b45681cd0b7f4836a0a75a3e38"
+          "bytes": 347730,
+          "sha256": "f4609066ae28fccbb49ed8e5d14a8650ae75e8b29b52b56d77b167ad5dbf67c4",
+          "pages": 155,
+          "text_sha256": "ccb6543be4b31e9bb8623e12a24eafde73e378698b5e8ed7c6f1175db2ab9fdd"
         },
         {
           "theme": "dark",
           "file": "shakespeare_romeo-and-juliet_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_romeo-and-juliet_eng/shakespeare_romeo-and-juliet_eng-dark.pdf",
-          "bytes": 360863,
-          "sha256": "f1dfa53e19c89d842c545912bb668546a892040920fe46e35b3c8581879369ca",
-          "pages": 158,
-          "text_sha256": "41e2f28e36b18eab6eccaf5d3f945143317733b45681cd0b7f4836a0a75a3e38"
+          "bytes": 366337,
+          "sha256": "5bafe34207e72b3a7e8c46578faa1c26a58e1c03993bcdbb67b457541923f709",
+          "pages": 155,
+          "text_sha256": "ccb6543be4b31e9bb8623e12a24eafde73e378698b5e8ed7c6f1175db2ab9fdd"
         }
       ]
     },
@@ -6405,19 +6932,19 @@
           "theme": "light",
           "file": "shakespeare_romeo-and-juliet_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_romeo-and-juliet_fra/shakespeare_romeo-and-juliet_fra-light.pdf",
-          "bytes": 352912,
-          "sha256": "c2746cdb97a30437d9474a943825bfddb7640e57c49bb173bd62570d73d5ceb5",
-          "pages": 147,
-          "text_sha256": "d5351f5cf97478b1792f5c7c7e14d8787c87ce2093ab16ed10f8573221cef6a8"
+          "bytes": 363406,
+          "sha256": "10dabbf3463364b5d1d2e24ef368deb86d77e5a2232b9823394d522ec6e2b590",
+          "pages": 150,
+          "text_sha256": "16d9e2adefa0d66acc60e48b0521369370259de3a59b1b8e786a6720620512f1"
         },
         {
           "theme": "dark",
           "file": "shakespeare_romeo-and-juliet_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_romeo-and-juliet_fra/shakespeare_romeo-and-juliet_fra-dark.pdf",
-          "bytes": 370664,
-          "sha256": "092bd20b92e1c0924cdcf52f16dcded331bd4a7a16bb931a84cdf0e6bf1360d5",
-          "pages": 147,
-          "text_sha256": "d5351f5cf97478b1792f5c7c7e14d8787c87ce2093ab16ed10f8573221cef6a8"
+          "bytes": 381323,
+          "sha256": "22ecb791feeebe461567d4566eb98fd3fce494b0e6147ffbb3844744deb2010a",
+          "pages": 150,
+          "text_sha256": "16d9e2adefa0d66acc60e48b0521369370259de3a59b1b8e786a6720620512f1"
         }
       ]
     },
@@ -6436,19 +6963,19 @@
           "theme": "light",
           "file": "shakespeare_romeo-and-juliet_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_romeo-and-juliet_spa/shakespeare_romeo-and-juliet_spa-light.pdf",
-          "bytes": 225944,
-          "sha256": "2cb57c227f3e3328fb81703bf8a3787200a6882c2a243283d0f008fb84e90838",
-          "pages": 116,
-          "text_sha256": "92710264fcc6510f961ce2ceb05bbb988192df1597ae5738e7fa7a98eb013c96"
+          "bytes": 233204,
+          "sha256": "ab0253ee0c967762f6dfba3b0a930de0a6f0ed214f87ac2cb59c34d571dd50e4",
+          "pages": 114,
+          "text_sha256": "5c994f9a8b93f4823516f7c15a2da64de85d1ecc47c312ad4185a5d95edb602a"
         },
         {
           "theme": "dark",
           "file": "shakespeare_romeo-and-juliet_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_romeo-and-juliet_spa/shakespeare_romeo-and-juliet_spa-dark.pdf",
-          "bytes": 239988,
-          "sha256": "7ea5dbb44c277af36fbe9a49ec648a92835b4cb6691b8519008ac77d707b57e0",
-          "pages": 116,
-          "text_sha256": "92710264fcc6510f961ce2ceb05bbb988192df1597ae5738e7fa7a98eb013c96"
+          "bytes": 246781,
+          "sha256": "fcec822b4fcc39bec7d4b9e29bef58745fa7665255bbc20f4b9dec20967149e9",
+          "pages": 114,
+          "text_sha256": "5c994f9a8b93f4823516f7c15a2da64de85d1ecc47c312ad4185a5d95edb602a"
         }
       ]
     },
@@ -6467,19 +6994,19 @@
           "theme": "light",
           "file": "shakespeare_the-comedy-of-errors_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_the-comedy-of-errors_eng/shakespeare_the-comedy-of-errors_eng-light.pdf",
-          "bytes": 208478,
-          "sha256": "f625df80c0739f42d65e590ddd4e18a0ed2b7844a2d6a699375e97c8a7a02005",
+          "bytes": 213627,
+          "sha256": "705560033c4df02919d175d5bbc2f97e6bb09399eac73cf99f89eb7e409765b8",
           "pages": 101,
-          "text_sha256": "8a1ff0c949a4707cdc73778543e8df2b2451c50103b769e3388467c5df894221"
+          "text_sha256": "c656f313fb7f81698772ba71e6709c71bf045a288e281a262830349cb25bee55"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-comedy-of-errors_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-comedy-of-errors_eng/shakespeare_the-comedy-of-errors_eng-dark.pdf",
-          "bytes": 220716,
-          "sha256": "43f452b98c3b363bd5d5fc5334f10914cbab202fdd2dcb9fae848f2fe236382a",
+          "bytes": 225740,
+          "sha256": "5a4b1628c2ce12d4143ff1f951f1ace52dc6b74b6c4d6288cdf155a3aaec8c7b",
           "pages": 101,
-          "text_sha256": "8a1ff0c949a4707cdc73778543e8df2b2451c50103b769e3388467c5df894221"
+          "text_sha256": "c656f313fb7f81698772ba71e6709c71bf045a288e281a262830349cb25bee55"
         }
       ]
     },
@@ -6498,19 +7025,19 @@
           "theme": "light",
           "file": "shakespeare_the-comedy-of-errors_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_the-comedy-of-errors_fra/shakespeare_the-comedy-of-errors_fra-light.pdf",
-          "bytes": 209308,
-          "sha256": "b2ea900a878f133eef52d4b5fc5e0a725de1eba8c09587db4693ce16094271e7",
-          "pages": 98,
-          "text_sha256": "82d0a73e901a6c8e7814887a6b4410f4d33acfdc9e6ff154b1dd5f193a43a2b0"
+          "bytes": 213163,
+          "sha256": "705922b7d9263a0763eb83904909668c3b69d12ce5c6065c1fbb301d3529413a",
+          "pages": 93,
+          "text_sha256": "9504cbe1cd01e4a6b154a3e80acca4a0c6eb8696ccd9118990795793239b9d8e"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-comedy-of-errors_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-comedy-of-errors_fra/shakespeare_the-comedy-of-errors_fra-dark.pdf",
-          "bytes": 220996,
-          "sha256": "a75f89157462f86bc0e99a2b2ab9f8bbfb210fdbfefb08124bc49aaf5f8aebbb",
-          "pages": 98,
-          "text_sha256": "82d0a73e901a6c8e7814887a6b4410f4d33acfdc9e6ff154b1dd5f193a43a2b0"
+          "bytes": 224169,
+          "sha256": "c632c8d524f66bea9fd432adff37195ba16b9e877d4254a89c86bc15ba89e842",
+          "pages": 93,
+          "text_sha256": "9504cbe1cd01e4a6b154a3e80acca4a0c6eb8696ccd9118990795793239b9d8e"
         }
       ]
     },
@@ -6529,19 +7056,19 @@
           "theme": "light",
           "file": "shakespeare_the-comedy-of-errors_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_the-comedy-of-errors_spa/shakespeare_the-comedy-of-errors_spa-light.pdf",
-          "bytes": 184627,
-          "sha256": "362e1aee5d28d5e8a34860f6645a33ecb92ba5964147404e27109387f2bfb38c",
-          "pages": 88,
-          "text_sha256": "3403bf098c30b46bf5a534c16a27bab8c534be126c8e2b5d7a3e4f575accb4c8"
+          "bytes": 189499,
+          "sha256": "1029d42020c8845d482498006ea5433ed94a4679ca6c60af194806f6f97f2ad6",
+          "pages": 86,
+          "text_sha256": "b6a4428b80f0ce79c7dd58b2c1575413651d9fd1375b3f10d1fce9c540a1c1b7"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-comedy-of-errors_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-comedy-of-errors_spa/shakespeare_the-comedy-of-errors_spa-dark.pdf",
-          "bytes": 195264,
-          "sha256": "6d22182062df73f902e7369d8500f9e76212a21ba5ee740929e04670508c3249",
-          "pages": 88,
-          "text_sha256": "3403bf098c30b46bf5a534c16a27bab8c534be126c8e2b5d7a3e4f575accb4c8"
+          "bytes": 199766,
+          "sha256": "9ad3539f2062eb6ae4befe11854134b0c40207708b4d2b5e4d3ccfa99e73db75",
+          "pages": 86,
+          "text_sha256": "b6a4428b80f0ce79c7dd58b2c1575413651d9fd1375b3f10d1fce9c540a1c1b7"
         }
       ]
     },
@@ -6560,19 +7087,19 @@
           "theme": "light",
           "file": "shakespeare_the-merchant-of-venice_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_the-merchant-of-venice_eng/shakespeare_the-merchant-of-venice_eng-light.pdf",
-          "bytes": 295719,
-          "sha256": "9805b5133fb4e76782d19e931993cf1fd6bc3109c00d610dec78ca76abeb9446",
-          "pages": 128,
-          "text_sha256": "9113a93a284ad8a10373ad4bc046d00b5c2d1a43c453dd32b5f2b398e7d46253"
+          "bytes": 300740,
+          "sha256": "ab982c22854d29d80ded1f98e8a821fdfc4faf9101a1a535587c996c2fb45d82",
+          "pages": 127,
+          "text_sha256": "ea579d8380b4113eb47fbe4147bee832a9403a3fe654de559ea8f6af7c8b15b2"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-merchant-of-venice_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-merchant-of-venice_eng/shakespeare_the-merchant-of-venice_eng-dark.pdf",
-          "bytes": 311252,
-          "sha256": "f47847ced9d8c7bcddd511b511f80896aa77796c5a30d4e052bc153b9b180679",
-          "pages": 128,
-          "text_sha256": "9113a93a284ad8a10373ad4bc046d00b5c2d1a43c453dd32b5f2b398e7d46253"
+          "bytes": 316152,
+          "sha256": "a0d8c0e4780d3b413b938c8054130a98615db9ccc467f693061b76eac7589d30",
+          "pages": 127,
+          "text_sha256": "ea579d8380b4113eb47fbe4147bee832a9403a3fe654de559ea8f6af7c8b15b2"
         }
       ]
     },
@@ -6591,19 +7118,19 @@
           "theme": "light",
           "file": "shakespeare_the-merchant-of-venice_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_the-merchant-of-venice_fra/shakespeare_the-merchant-of-venice_fra-light.pdf",
-          "bytes": 265032,
-          "sha256": "425f594a91432d88d2f4185e982c6adcdb67a3713f419be503544760f3b97a5b",
-          "pages": 114,
-          "text_sha256": "2bbd2c947fc1a321b0863bc8b8564de1236c572171196a4bb41abecf7a67585d"
+          "bytes": 271593,
+          "sha256": "e7dd1edbefbbb7c0d3010e08221237949ba6e6f6a1aaa045c0027ad290590d95",
+          "pages": 113,
+          "text_sha256": "bd628243e72ac2a958ec156985ca6aafef5255054eeb528594b1cb3d30dec02d"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-merchant-of-venice_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-merchant-of-venice_fra/shakespeare_the-merchant-of-venice_fra-dark.pdf",
-          "bytes": 278736,
-          "sha256": "4f48c2df1b17743355ec01315cda34a915ee03b5c2bb7cc0d687509b4ce949b9",
-          "pages": 114,
-          "text_sha256": "2bbd2c947fc1a321b0863bc8b8564de1236c572171196a4bb41abecf7a67585d"
+          "bytes": 284998,
+          "sha256": "6680fd8993e125c95b95fd9df7ca0b741e747aadaab52202146188c1c212f6b2",
+          "pages": 113,
+          "text_sha256": "bd628243e72ac2a958ec156985ca6aafef5255054eeb528594b1cb3d30dec02d"
         }
       ]
     },
@@ -6622,19 +7149,19 @@
           "theme": "light",
           "file": "shakespeare_the-merchant-of-venice_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_the-merchant-of-venice_spa/shakespeare_the-merchant-of-venice_spa-light.pdf",
-          "bytes": 203828,
-          "sha256": "3f8f82d9dea0bd01869f479aab7a9545ebf93c39de45db4aa51de63e481e368f",
-          "pages": 98,
-          "text_sha256": "645343947aee5f70732516cc163476b6273cadfacc766596b49e46ae98c18fba"
+          "bytes": 209536,
+          "sha256": "868af6fc59eec97af254bfd152f28d6b827130815a0b7f05b8f5413b016abafa",
+          "pages": 97,
+          "text_sha256": "f1f52398e738c4c24c98a2c4bc54d026c20f02b0004d5a0be63c1e6cf891b5da"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-merchant-of-venice_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-merchant-of-venice_spa/shakespeare_the-merchant-of-venice_spa-dark.pdf",
-          "bytes": 215666,
-          "sha256": "7c8d459635c8738a2a50c539a99cd7233d999c149a036e603189b2922f470494",
-          "pages": 98,
-          "text_sha256": "645343947aee5f70732516cc163476b6273cadfacc766596b49e46ae98c18fba"
+          "bytes": 221093,
+          "sha256": "139cc0f46379aa9b9d0df4bf1eb9db4fa71a2fddce33668ea211ed193cc7c064",
+          "pages": 97,
+          "text_sha256": "f1f52398e738c4c24c98a2c4bc54d026c20f02b0004d5a0be63c1e6cf891b5da"
         }
       ]
     },
@@ -6653,19 +7180,19 @@
           "theme": "light",
           "file": "shakespeare_the-merry-wives-of-windsor_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_the-merry-wives-of-windsor_eng/shakespeare_the-merry-wives-of-windsor_eng-light.pdf",
-          "bytes": 264578,
-          "sha256": "086bdbce7d2d3ea622f81d67173ea3906f01cfb9e527e2f2dd8029d7ca1a4a3d",
-          "pages": 139,
-          "text_sha256": "387b19e2c02a0e1a8f89041bf8d931884ba477e182924cb10a58e8e1159c2f5a"
+          "bytes": 275456,
+          "sha256": "1824d5152fdb5edbbf6fd040985b2dfc63d2ea98744c112cb056c4dbdee0b526",
+          "pages": 138,
+          "text_sha256": "7cc01035c4c81f4165f95498c7803f37a9208687fe8817938c1595508a7d0a0f"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-merry-wives-of-windsor_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-merry-wives-of-windsor_eng/shakespeare_the-merry-wives-of-windsor_eng-dark.pdf",
-          "bytes": 281412,
-          "sha256": "3b71aef2150d3c94c082db9fab2decf9f6c4b9e9eabe89b6171c6d15892edd13",
-          "pages": 139,
-          "text_sha256": "387b19e2c02a0e1a8f89041bf8d931884ba477e182924cb10a58e8e1159c2f5a"
+          "bytes": 291902,
+          "sha256": "b29c4e37fb42fecf0fb450e4015ccb7a8799aa0f9ef1cb58f4a796eedc6d0fe2",
+          "pages": 138,
+          "text_sha256": "7cc01035c4c81f4165f95498c7803f37a9208687fe8817938c1595508a7d0a0f"
         }
       ]
     },
@@ -6684,19 +7211,19 @@
           "theme": "light",
           "file": "shakespeare_the-merry-wives-of-windsor_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_the-merry-wives-of-windsor_fra/shakespeare_the-merry-wives-of-windsor_fra-light.pdf",
-          "bytes": 312750,
-          "sha256": "39265d4c49bdcad3c95254b7af25e6c473bd7d4dacb49f2edc139f0aeba0d496",
-          "pages": 146,
-          "text_sha256": "f8761c54bab77ddab67c601db17abb9b03ede8c0d91c1896034f782c6bc715e7"
+          "bytes": 324817,
+          "sha256": "1e7b92c80e2b22d975dd6d47263e974a22d41894df3aa06c50a4cc169941cf3a",
+          "pages": 147,
+          "text_sha256": "8dd68b653b934f7660e216eea48ffeabadf06b3b955d1d228ac7127522f23109"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-merry-wives-of-windsor_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-merry-wives-of-windsor_fra/shakespeare_the-merry-wives-of-windsor_fra-dark.pdf",
-          "bytes": 330328,
-          "sha256": "69e4c587c8871ef8e1c2fad3977134a9c7b35b71cb5ed74a560b321058c8189f",
-          "pages": 146,
-          "text_sha256": "f8761c54bab77ddab67c601db17abb9b03ede8c0d91c1896034f782c6bc715e7"
+          "bytes": 342321,
+          "sha256": "929cdc28995a76a2a8f58e00696d60897928e0c24f64592df327086b29b65281",
+          "pages": 147,
+          "text_sha256": "8dd68b653b934f7660e216eea48ffeabadf06b3b955d1d228ac7127522f23109"
         }
       ]
     },
@@ -6715,19 +7242,19 @@
           "theme": "light",
           "file": "shakespeare_the-merry-wives-of-windsor_spa-light.pdf",
           "path": "books/shakespeare/shakespeare_the-merry-wives-of-windsor_spa/shakespeare_the-merry-wives-of-windsor_spa-light.pdf",
-          "bytes": 263973,
-          "sha256": "6fca19d69dbe695d7f13714b6b22f954c80e29439cce45007d4ece7bc5470d46",
-          "pages": 137,
-          "text_sha256": "461708e801a667a198dfe10c787e686df201811989b2a985e94ce56f6fb59eb8"
+          "bytes": 275677,
+          "sha256": "bd79887bee3712f8cdf5912e1e2ae9b3af2e131cfcf83cbe74b09c4d2ff2a376",
+          "pages": 138,
+          "text_sha256": "0e20010227f3e82e96cdb9bba9c78f970193628cc61e97d97c00ec2a8b2e12be"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-merry-wives-of-windsor_spa-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-merry-wives-of-windsor_spa/shakespeare_the-merry-wives-of-windsor_spa-dark.pdf",
-          "bytes": 280671,
-          "sha256": "1ca9829999fa8d0ef45680f8b2fb749115656d9ecb1e07d3fb94712a0244cbd2",
-          "pages": 137,
-          "text_sha256": "461708e801a667a198dfe10c787e686df201811989b2a985e94ce56f6fb59eb8"
+          "bytes": 292138,
+          "sha256": "c578c71b0dc4eac00a1f739faf1ec218af88c2b7fbc94c2b19d1c28f82aa2177",
+          "pages": 138,
+          "text_sha256": "0e20010227f3e82e96cdb9bba9c78f970193628cc61e97d97c00ec2a8b2e12be"
         }
       ]
     },
@@ -6746,19 +7273,19 @@
           "theme": "light",
           "file": "shakespeare_the-taming-of-the-shrew_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_the-taming-of-the-shrew_eng/shakespeare_the-taming-of-the-shrew_eng-light.pdf",
-          "bytes": 302355,
-          "sha256": "ff6ed6d262cf11ccdd9771df13b3d42e600163d42e654961f9f863509469410f",
+          "bytes": 309980,
+          "sha256": "796772cb90962d054b42b9f9f37f4e541f2f8167d0f93a60af28de68be852323",
           "pages": 147,
-          "text_sha256": "2d242637e6b7cb369d62be1c34fe479724a9fa4c9796b2030b8b16882e857284"
+          "text_sha256": "3ee2a2bddc7d53143a18b411af1498d0874725c71a1541f06c88bdf8f9b205fd"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-taming-of-the-shrew_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-taming-of-the-shrew_eng/shakespeare_the-taming-of-the-shrew_eng-dark.pdf",
-          "bytes": 320062,
-          "sha256": "146a8bcfbbaaa7ec39b6860b0b672ca94a41d2b600c49ac29dc4b448eb183577",
+          "bytes": 327734,
+          "sha256": "785f6fc6a37d1ab6f22e8329f61088660fe5336a681fee673872aea35525a0b1",
           "pages": 147,
-          "text_sha256": "2d242637e6b7cb369d62be1c34fe479724a9fa4c9796b2030b8b16882e857284"
+          "text_sha256": "3ee2a2bddc7d53143a18b411af1498d0874725c71a1541f06c88bdf8f9b205fd"
         }
       ]
     },
@@ -6777,19 +7304,19 @@
           "theme": "light",
           "file": "shakespeare_the-taming-of-the-shrew_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_the-taming-of-the-shrew_fra/shakespeare_the-taming-of-the-shrew_fra-light.pdf",
-          "bytes": 291310,
-          "sha256": "98ecd28348b019c48cc67884152b3db7c38deab0b07f0dc15c676c9cea8fb014",
-          "pages": 133,
-          "text_sha256": "1f598767733b02948dd547f424b831cd9f8cb276d9139f0225e57f5be154fbf7"
+          "bytes": 301760,
+          "sha256": "7161783581bbb64ea7d5bd0e626e66d8681bf3c5925f6ec8de4df1bb3e42c3e6",
+          "pages": 135,
+          "text_sha256": "5f88b263d02473ff49169abd55d1331af24aebc657acd7be22addbb5a104e10b"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-taming-of-the-shrew_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-taming-of-the-shrew_fra/shakespeare_the-taming-of-the-shrew_fra-dark.pdf",
-          "bytes": 307305,
-          "sha256": "8acc2180885c6ac66677ee691e539eac0e0705e2699f3c4b74a62018fc7e74b0",
-          "pages": 133,
-          "text_sha256": "1f598767733b02948dd547f424b831cd9f8cb276d9139f0225e57f5be154fbf7"
+          "bytes": 317812,
+          "sha256": "d531d0a27f87590a1195feff3a9690cb5a6d614df4670b71328656031162d423",
+          "pages": 135,
+          "text_sha256": "5f88b263d02473ff49169abd55d1331af24aebc657acd7be22addbb5a104e10b"
         }
       ]
     },
@@ -6808,19 +7335,19 @@
           "theme": "light",
           "file": "shakespeare_the-tempest_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_the-tempest_eng/shakespeare_the-tempest_eng-light.pdf",
-          "bytes": 250649,
-          "sha256": "ea1b0d87aaca6bc264221ba3e7d3089f233ad91289a8a4968a867a2616da9b16",
+          "bytes": 255769,
+          "sha256": "2ce1fd659921af10dfcfa441e93ade0c10e00b200d6638eef41d2f6e54e51504",
           "pages": 119,
-          "text_sha256": "c4bba40094f36ccf5f1524f4f33346b9db0dfab5d4cdc23e38089ccaf2edc7ee"
+          "text_sha256": "b35a2565e1723ef08f02d1cbec5f75436e843e3b2289868d5bcb267696d96dfc"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-tempest_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-tempest_eng/shakespeare_the-tempest_eng-dark.pdf",
-          "bytes": 264993,
-          "sha256": "929d06a2f2b27daa56de61ffc8c31e3f3fcfa0ec04158e3bf936582e50c5dd2f",
+          "bytes": 270053,
+          "sha256": "264ad1c9c9bf29a7d0654e5262e29e5c60a884e3bcd23aaa07ff185191d1caa6",
           "pages": 119,
-          "text_sha256": "c4bba40094f36ccf5f1524f4f33346b9db0dfab5d4cdc23e38089ccaf2edc7ee"
+          "text_sha256": "b35a2565e1723ef08f02d1cbec5f75436e843e3b2289868d5bcb267696d96dfc"
         }
       ]
     },
@@ -6839,19 +7366,19 @@
           "theme": "light",
           "file": "shakespeare_the-tempest_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_the-tempest_fra/shakespeare_the-tempest_fra-light.pdf",
-          "bytes": 247800,
-          "sha256": "a87f40a7cfe23f4e2504d3db15f2b4d079e31ea5121eee5eb2b69995c607d04a",
-          "pages": 107,
-          "text_sha256": "d0cd9978dfe39f7e081f7180ff6b5505ac5df071e76481b758c761db4be1a33f"
+          "bytes": 253896,
+          "sha256": "3c4875bb661cc54a96a739f78b82282899b6d41e38d13bdbd8a190e48ede005e",
+          "pages": 106,
+          "text_sha256": "fccd2cd48e68b7d3f9ddb69d33bb40d6546f3ba3e92422ad4f7b3e7c14189c9d"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-tempest_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-tempest_fra/shakespeare_the-tempest_fra-dark.pdf",
-          "bytes": 260646,
-          "sha256": "ee0db152458176c7cd49fee4cf72a90a6cf0f9d7d25e051d104a18f3db238da6",
-          "pages": 107,
-          "text_sha256": "d0cd9978dfe39f7e081f7180ff6b5505ac5df071e76481b758c761db4be1a33f"
+          "bytes": 266535,
+          "sha256": "ace0b07de21af8c431409ea277726f4a1ae61b13ad3dc805060b804a7040e841",
+          "pages": 106,
+          "text_sha256": "fccd2cd48e68b7d3f9ddb69d33bb40d6546f3ba3e92422ad4f7b3e7c14189c9d"
         }
       ]
     },
@@ -6870,19 +7397,19 @@
           "theme": "light",
           "file": "shakespeare_the-two-gentlemen-of-verona_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_the-two-gentlemen-of-verona_eng/shakespeare_the-two-gentlemen-of-verona_eng-light.pdf",
-          "bytes": 245147,
-          "sha256": "a9a12ac844a92dbe513378c47083b45f5fde266b4f4710d91e0d79c8cabaf9dd",
-          "pages": 129,
-          "text_sha256": "9aeaf231ac6b689a0192fba47809babdc8f434c0d0db6dee57703451c873f1b9"
+          "bytes": 252909,
+          "sha256": "c7808722ef2028b13b383d02c26eb780f78b8eec70c59fb9892716b89e6c45db",
+          "pages": 128,
+          "text_sha256": "463b0aaaa7e1e4342cc111bbfecfe6f5ec9b660e1b3f0f5170cfcdc4433c32e4"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-two-gentlemen-of-verona_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-two-gentlemen-of-verona_eng/shakespeare_the-two-gentlemen-of-verona_eng-dark.pdf",
-          "bytes": 260850,
-          "sha256": "6dbffcc72bd006d3d6cc455e5bf4e44db58da696e21783b9d92b6c1250f2648c",
-          "pages": 129,
-          "text_sha256": "9aeaf231ac6b689a0192fba47809babdc8f434c0d0db6dee57703451c873f1b9"
+          "bytes": 268393,
+          "sha256": "c80cdbf393ff2941be12c6387e62beed3971cc1026b0f04b85046bcaee1f7c22",
+          "pages": 128,
+          "text_sha256": "463b0aaaa7e1e4342cc111bbfecfe6f5ec9b660e1b3f0f5170cfcdc4433c32e4"
         }
       ]
     },
@@ -6901,19 +7428,19 @@
           "theme": "light",
           "file": "shakespeare_the-two-gentlemen-of-verona_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_the-two-gentlemen-of-verona_fra/shakespeare_the-two-gentlemen-of-verona_fra-light.pdf",
-          "bytes": 241276,
-          "sha256": "325bcfa96eab0bc250031d6c44bdfa1ce5e69b20d99504417b51d087b27e5135",
-          "pages": 117,
-          "text_sha256": "62fe2e5a806d4b1066376040c81877cae6377d2e676d12c74e03d9c35500c6d3"
+          "bytes": 250714,
+          "sha256": "9feca4f8c16a134d4cbe064681561ec2006c369f2689c1afdc9385c4a2d64252",
+          "pages": 118,
+          "text_sha256": "b772fddbd8588d589847654ac3413285fc9a56ac2eea841decc966d782f0edc9"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-two-gentlemen-of-verona_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-two-gentlemen-of-verona_fra/shakespeare_the-two-gentlemen-of-verona_fra-dark.pdf",
-          "bytes": 255381,
-          "sha256": "16dba9f96f8364b61f1cc48b9500a4f41d98ed7365ba24e3a6187e40c3455bab",
-          "pages": 117,
-          "text_sha256": "62fe2e5a806d4b1066376040c81877cae6377d2e676d12c74e03d9c35500c6d3"
+          "bytes": 264813,
+          "sha256": "bdcc591a24a17546ffe4fa48b0ab569bcbda737d6eb7352a6d0142f6f7d5776e",
+          "pages": 118,
+          "text_sha256": "b772fddbd8588d589847654ac3413285fc9a56ac2eea841decc966d782f0edc9"
         }
       ]
     },
@@ -6932,19 +7459,19 @@
           "theme": "light",
           "file": "shakespeare_the-two-noble-kinsmen_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_the-two-noble-kinsmen_eng/shakespeare_the-two-noble-kinsmen_eng-light.pdf",
-          "bytes": 361160,
-          "sha256": "de2a106dc3fbb9ea457c50294fd194ce8ec13924fb02ff4b92f8671655d3f3df",
-          "pages": 166,
-          "text_sha256": "6d191588c25af435024dba072ef0ef1b9b58246e3a802271012fb3d7727ef0e1"
+          "bytes": 368639,
+          "sha256": "b40e3e132b778500a482272d5df7bd721eda66b43e7ca85daa136be59dbcf841",
+          "pages": 167,
+          "text_sha256": "99cedb6006d6e77ff837ac2db2fad039217d3ee193cec3d8966552e126feccb7"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-two-noble-kinsmen_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-two-noble-kinsmen_eng/shakespeare_the-two-noble-kinsmen_eng-dark.pdf",
-          "bytes": 381261,
-          "sha256": "eb6daf5c83e7ef5e07c76795f27440311fecdbc82f114497f4a7dc863539a133",
-          "pages": 166,
-          "text_sha256": "6d191588c25af435024dba072ef0ef1b9b58246e3a802271012fb3d7727ef0e1"
+          "bytes": 388710,
+          "sha256": "530e73404269e8fdcae72add5c73aa508a76c56eaa2e9575f00bf3f41d63c5f9",
+          "pages": 167,
+          "text_sha256": "99cedb6006d6e77ff837ac2db2fad039217d3ee193cec3d8966552e126feccb7"
         }
       ]
     },
@@ -6963,19 +7490,19 @@
           "theme": "light",
           "file": "shakespeare_the-two-noble-kinsmen_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_the-two-noble-kinsmen_fra/shakespeare_the-two-noble-kinsmen_fra-light.pdf",
-          "bytes": 311962,
-          "sha256": "cd897086aa05cba7520160337216fb751df21d33e9b6e456632aed76bb9734ef",
-          "pages": 142,
-          "text_sha256": "f37eefb37e9d690d2a16345387120c8e2047c1c922a9ebd21cddfe7f3f3acb21"
+          "bytes": 321807,
+          "sha256": "7ed7eeaa327d5f7ea52b2e31e08ab1389f1972698c8c57a428184e2235dba001",
+          "pages": 137,
+          "text_sha256": "84ad247b20116c99e7831eee08925d3013e02dd699dafd896f8b434e78f28a21"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-two-noble-kinsmen_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-two-noble-kinsmen_fra/shakespeare_the-two-noble-kinsmen_fra-dark.pdf",
-          "bytes": 329006,
-          "sha256": "12e2ea6cac33738e01375f711ab9f6de759d6a1431df95a3df4fb3f431106c01",
-          "pages": 142,
-          "text_sha256": "f37eefb37e9d690d2a16345387120c8e2047c1c922a9ebd21cddfe7f3f3acb21"
+          "bytes": 338190,
+          "sha256": "a2a8829cf6eea8159c66378cb5ded59b01d0d06dd7d82b4d767a5cc325a8e32f",
+          "pages": 137,
+          "text_sha256": "84ad247b20116c99e7831eee08925d3013e02dd699dafd896f8b434e78f28a21"
         }
       ]
     },
@@ -6994,19 +7521,19 @@
           "theme": "light",
           "file": "shakespeare_the-winters-tale_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_the-winters-tale_eng/shakespeare_the-winters-tale_eng-light.pdf",
-          "bytes": 347474,
-          "sha256": "b525c57b4a977f1a405cd92712e2879a1ad6c8671b703a29b171a4ac629b872b",
-          "pages": 149,
-          "text_sha256": "853cd782956ab43d960ef0709107f5f225d1c99ae55c536cd26350f82dddaa92"
+          "bytes": 353387,
+          "sha256": "0f357b43078279d6ae42f85dfa68fc624365369299646a3ecea1d7c88faca1de",
+          "pages": 150,
+          "text_sha256": "b46f717fb582ee1d488bd3f29a1c901ac1e5c3a26ebc6a495eacf1ceba56bb95"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-winters-tale_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-winters-tale_eng/shakespeare_the-winters-tale_eng-dark.pdf",
-          "bytes": 365369,
-          "sha256": "18c383ec88bf228ad91c7f010e7f1a6c480e6a6d8a87144537915731d7607237",
-          "pages": 149,
-          "text_sha256": "853cd782956ab43d960ef0709107f5f225d1c99ae55c536cd26350f82dddaa92"
+          "bytes": 371417,
+          "sha256": "81b26b4c275bd787d3e74b976980fb23fc897dc28e019c7092c599a45f57fd95",
+          "pages": 150,
+          "text_sha256": "b46f717fb582ee1d488bd3f29a1c901ac1e5c3a26ebc6a495eacf1ceba56bb95"
         }
       ]
     },
@@ -7025,19 +7552,19 @@
           "theme": "light",
           "file": "shakespeare_the-winters-tale_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_the-winters-tale_fra/shakespeare_the-winters-tale_fra-light.pdf",
-          "bytes": 318309,
-          "sha256": "0fb889960fe593390abd1feede3d748a78296df28a4e258eda9559d9497db562",
-          "pages": 134,
-          "text_sha256": "1ccfdb8e3a17e71635ec94bcb40bac3286c03de5dede64da75a47b9b5ba80af5"
+          "bytes": 324398,
+          "sha256": "07b4bbc7bdf747b8816730150692b9b871ede7f2eb0838e4522835b376df4dd3",
+          "pages": 132,
+          "text_sha256": "44fa077c4291ae6ac8e099ceaef68649d7152acca4c166e69244f36fa9b55104"
         },
         {
           "theme": "dark",
           "file": "shakespeare_the-winters-tale_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_the-winters-tale_fra/shakespeare_the-winters-tale_fra-dark.pdf",
-          "bytes": 334452,
-          "sha256": "cdf67fededd47740e4249fdd228dcb50bffa11df5170abf68fb917a9327def7a",
-          "pages": 134,
-          "text_sha256": "1ccfdb8e3a17e71635ec94bcb40bac3286c03de5dede64da75a47b9b5ba80af5"
+          "bytes": 340205,
+          "sha256": "c60e9f4a75b09a9df97634970faf482a4112891f8d6ccd21c6c2b339b750e288",
+          "pages": 132,
+          "text_sha256": "44fa077c4291ae6ac8e099ceaef68649d7152acca4c166e69244f36fa9b55104"
         }
       ]
     },
@@ -7056,19 +7583,19 @@
           "theme": "light",
           "file": "shakespeare_timon-of-athens_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_timon-of-athens_eng/shakespeare_timon-of-athens_eng-light.pdf",
-          "bytes": 267257,
-          "sha256": "ae0b53b32e3eb8aa77a7d71428abdedd2d6c2044342d26c2d146a2aaad7a649b",
-          "pages": 134,
-          "text_sha256": "d38bfb9c5aecb78db4b0b9a55de521597bf9017ed68a43e22d2dea4e2d2e7635"
+          "bytes": 274316,
+          "sha256": "283ed2be1dd04f95831e1507dac76f254f4292db7ac4234232863f1f95c9f385",
+          "pages": 133,
+          "text_sha256": "463b333dd1f6eda1cb5b63e8a7bd5d5a78d5acc724f106b9f562d82d429850ea"
         },
         {
           "theme": "dark",
           "file": "shakespeare_timon-of-athens_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_timon-of-athens_eng/shakespeare_timon-of-athens_eng-dark.pdf",
-          "bytes": 283451,
-          "sha256": "5cd2a85407b0ffad075b841a0345745611e884ef0ac7ef89fbb1429899a00cbf",
-          "pages": 134,
-          "text_sha256": "d38bfb9c5aecb78db4b0b9a55de521597bf9017ed68a43e22d2dea4e2d2e7635"
+          "bytes": 290273,
+          "sha256": "2a4ea4ac0f8dfb5327219a3f049e2161f3eadb808aaf8b0e28e63cd866857ede",
+          "pages": 133,
+          "text_sha256": "463b333dd1f6eda1cb5b63e8a7bd5d5a78d5acc724f106b9f562d82d429850ea"
         }
       ]
     },
@@ -7087,19 +7614,19 @@
           "theme": "light",
           "file": "shakespeare_timon-of-athens_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_timon-of-athens_fra/shakespeare_timon-of-athens_fra-light.pdf",
-          "bytes": 265354,
-          "sha256": "18eccc1c6c0ba59d84ff6c5cf08ef5ebbfb5e55d57a1c28d302a283a6777052a",
-          "pages": 122,
-          "text_sha256": "dc00369e70e43ba2ceb69ccabc766c3e96439effac901065636264937b088ea5"
+          "bytes": 273767,
+          "sha256": "5d9407bd12a224ded0fcb483b1fb33bb8e3ca97e8aac7fb9c626696574a3f3de",
+          "pages": 123,
+          "text_sha256": "d30a2786e75d29974ee1af5e3597bb749c0cc54af3808505a9763029c81af8fb"
         },
         {
           "theme": "dark",
           "file": "shakespeare_timon-of-athens_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_timon-of-athens_fra/shakespeare_timon-of-athens_fra-dark.pdf",
-          "bytes": 280053,
-          "sha256": "3dc5b3117bac17ca3611e848b7bdc7e97049fcf3559e307d35d5f859418401fa",
-          "pages": 122,
-          "text_sha256": "dc00369e70e43ba2ceb69ccabc766c3e96439effac901065636264937b088ea5"
+          "bytes": 288443,
+          "sha256": "5039d77b15726486020e805013ec24ad81ef10d4d492e0e4b6bf4e7e7cd4c8c5",
+          "pages": 123,
+          "text_sha256": "d30a2786e75d29974ee1af5e3597bb749c0cc54af3808505a9763029c81af8fb"
         }
       ]
     },
@@ -7118,19 +7645,19 @@
           "theme": "light",
           "file": "shakespeare_titus-andronicus_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_titus-andronicus_eng/shakespeare_titus-andronicus_eng-light.pdf",
-          "bytes": 303536,
-          "sha256": "81de878ded4c58dd886e40a3e5963f62fd4842b8f5ca73b606a999c0de49ab75",
-          "pages": 127,
-          "text_sha256": "9374a4a377df3bf24adb747735947822440514c896b9c20fa85403e65ad99c49"
+          "bytes": 308981,
+          "sha256": "e5f4f4989561b95284b12031ea69b1f3ebe969ad87025de0620bd3da0b2c75a4",
+          "pages": 126,
+          "text_sha256": "0a74fc44e9c4f3269eb2f5fe7f1f07772b30997c587a513a739abe3ad7f590c2"
         },
         {
           "theme": "dark",
           "file": "shakespeare_titus-andronicus_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_titus-andronicus_eng/shakespeare_titus-andronicus_eng-dark.pdf",
-          "bytes": 318985,
-          "sha256": "871ac08d39aee0450d689ca8d825cc390cea0562c2243c8319239f85b7649093",
-          "pages": 127,
-          "text_sha256": "9374a4a377df3bf24adb747735947822440514c896b9c20fa85403e65ad99c49"
+          "bytes": 324179,
+          "sha256": "42633feee4d93ce702427e7f7a5f49fb8b651f451659733d9988c672f38fe8ed",
+          "pages": 126,
+          "text_sha256": "0a74fc44e9c4f3269eb2f5fe7f1f07772b30997c587a513a739abe3ad7f590c2"
         }
       ]
     },
@@ -7149,19 +7676,19 @@
           "theme": "light",
           "file": "shakespeare_titus-andronicus_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_titus-andronicus_fra/shakespeare_titus-andronicus_fra-light.pdf",
-          "bytes": 262731,
-          "sha256": "d991a41f2b0177d979ea117577ba7e6f6135941b781d0a365ae45e694f57d2ab",
+          "bytes": 270277,
+          "sha256": "a17471d276c9b9e5c858e778def9a968b51f4e1a36aca9b2b43325ffc6105f8b",
           "pages": 109,
-          "text_sha256": "904b081f9ff06cfb559130243a834c64cf3c8fe44c61f26f1eac5e88e69b298b"
+          "text_sha256": "8a2f2afce70a45bce296454320f26bd723734d2a0d9e6560ff32bccdbe17f80b"
         },
         {
           "theme": "dark",
           "file": "shakespeare_titus-andronicus_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_titus-andronicus_fra/shakespeare_titus-andronicus_fra-dark.pdf",
-          "bytes": 275793,
-          "sha256": "df99b252d99e8af33fa151901fca65d5da57040d41162ca61266078a2e2e8312",
+          "bytes": 283255,
+          "sha256": "c6f407dd8fbfb56c244720c6474e086406172ace231297d623c4a361ff8f801a",
           "pages": 109,
-          "text_sha256": "904b081f9ff06cfb559130243a834c64cf3c8fe44c61f26f1eac5e88e69b298b"
+          "text_sha256": "8a2f2afce70a45bce296454320f26bd723734d2a0d9e6560ff32bccdbe17f80b"
         }
       ]
     },
@@ -7180,19 +7707,19 @@
           "theme": "light",
           "file": "shakespeare_troilus-and-cressida_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_troilus-and-cressida_eng/shakespeare_troilus-and-cressida_eng-light.pdf",
-          "bytes": 368871,
-          "sha256": "c3d21d44f2daaf629202c05f5cfcdd779488abb1f21b93cadc1743f8c30cba6d",
+          "bytes": 379639,
+          "sha256": "1333bc2bfc290e59c9c674a96ee60314b336cc9efa5b55e8fc9fedf9a6c59fae",
           "pages": 182,
-          "text_sha256": "a51eede06fe112823af4889f8d36fed939609d6aafedc473a9e1c64c2bb00aa0"
+          "text_sha256": "faceb3beb498aff75bcf3d9199e7cd82e5fa056e0b271be169c3d700c95bb9b9"
         },
         {
           "theme": "dark",
           "file": "shakespeare_troilus-and-cressida_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_troilus-and-cressida_eng/shakespeare_troilus-and-cressida_eng-dark.pdf",
-          "bytes": 390846,
-          "sha256": "5bd50599325e57696fd455d22bc278ed9b144b47df0807519b9d2194613f9f36",
+          "bytes": 401526,
+          "sha256": "a893076875af7c5be4c47a64048b281b30817039c0b0645dd107112923496019",
           "pages": 182,
-          "text_sha256": "a51eede06fe112823af4889f8d36fed939609d6aafedc473a9e1c64c2bb00aa0"
+          "text_sha256": "faceb3beb498aff75bcf3d9199e7cd82e5fa056e0b271be169c3d700c95bb9b9"
         }
       ]
     },
@@ -7211,19 +7738,19 @@
           "theme": "light",
           "file": "shakespeare_troilus-and-cressida_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_troilus-and-cressida_fra/shakespeare_troilus-and-cressida_fra-light.pdf",
-          "bytes": 350420,
-          "sha256": "7c72b54dcfdf47f2abb11319b7c70eec1525a4de19bf104a06f4bfde3e67b5c9",
-          "pages": 168,
-          "text_sha256": "6fdb76e311544de67441d1951964c2cf4a96a95cd841936c4636d5388d99de91"
+          "bytes": 360856,
+          "sha256": "cdcae0a3adc9adf4369700d3d0de43f6ea5c862ee80a8c49bd1ffe2c32c0bee7",
+          "pages": 165,
+          "text_sha256": "09f130917ef36e637242dc7ef07d1e9902ae09191c8a4f4c21cc4cf37f18d77b"
         },
         {
           "theme": "dark",
           "file": "shakespeare_troilus-and-cressida_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_troilus-and-cressida_fra/shakespeare_troilus-and-cressida_fra-dark.pdf",
-          "bytes": 370692,
-          "sha256": "85c05dc2a118c08c2630fdbff87835c9afc91326309163cffe8ad2130b6bcb43",
-          "pages": 168,
-          "text_sha256": "6fdb76e311544de67441d1951964c2cf4a96a95cd841936c4636d5388d99de91"
+          "bytes": 380551,
+          "sha256": "1c8d40abb9548d081fb937d6f998b9ad04bfa6451ae5bcebd2e684ec8840527d",
+          "pages": 165,
+          "text_sha256": "09f130917ef36e637242dc7ef07d1e9902ae09191c8a4f4c21cc4cf37f18d77b"
         }
       ]
     },
@@ -7242,19 +7769,19 @@
           "theme": "light",
           "file": "shakespeare_twelfth-night_eng-light.pdf",
           "path": "books/shakespeare/shakespeare_twelfth-night_eng/shakespeare_twelfth-night_eng-light.pdf",
-          "bytes": 254874,
-          "sha256": "2cdfe5172e79d71dfcffc5a9f4dcf22a3591c74ed4e45bad3392da2d95be109a",
-          "pages": 132,
-          "text_sha256": "2b297bef71a2bf97e4af49cfc2a22541cb997093f08c9495de2d1ff760dd9b5c"
+          "bytes": 264631,
+          "sha256": "5e7516f49cd05ca404b4affbef176eaa3f7b5e4391cebb2b4ceacb3256d19f75",
+          "pages": 131,
+          "text_sha256": "82bda09564fbd59888e9fbd9e4333879310a140c3d0ea71d590aa32ca159faf4"
         },
         {
           "theme": "dark",
           "file": "shakespeare_twelfth-night_eng-dark.pdf",
           "path": "books/shakespeare/shakespeare_twelfth-night_eng/shakespeare_twelfth-night_eng-dark.pdf",
-          "bytes": 270837,
-          "sha256": "e5dc7253da21c77f9646595c4453fdd2a3b6f2e2981a1cfcb3c065efc37ecfa4",
-          "pages": 132,
-          "text_sha256": "2b297bef71a2bf97e4af49cfc2a22541cb997093f08c9495de2d1ff760dd9b5c"
+          "bytes": 280366,
+          "sha256": "919d27bf4ab6c69784a1c8094320ada047e83ac7b545ad1b30b6846157a6bac1",
+          "pages": 131,
+          "text_sha256": "82bda09564fbd59888e9fbd9e4333879310a140c3d0ea71d590aa32ca159faf4"
         }
       ]
     },
@@ -7273,19 +7800,19 @@
           "theme": "light",
           "file": "shakespeare_twelfth-night_fra-light.pdf",
           "path": "books/shakespeare/shakespeare_twelfth-night_fra/shakespeare_twelfth-night_fra-light.pdf",
-          "bytes": 286411,
-          "sha256": "cb57a2b54da2f1715996f18e92a5f41e0eb3beb013ad30e24b24a2a0deffd42a",
+          "bytes": 296343,
+          "sha256": "d19f02bc74aa7ebe295a9139e50670bf3a9ad25ab73776e888911495ecc2dda1",
           "pages": 133,
-          "text_sha256": "363baf82a01f4486d1f4081fcae97b435a08a399ab15ebac0d9246618a80c6b0"
+          "text_sha256": "2a2a03de766d33358df2f9d1bd2a3a9586fb9e43cf31bfea472e318da6174b10"
         },
         {
           "theme": "dark",
           "file": "shakespeare_twelfth-night_fra-dark.pdf",
           "path": "books/shakespeare/shakespeare_twelfth-night_fra/shakespeare_twelfth-night_fra-dark.pdf",
-          "bytes": 302524,
-          "sha256": "ff85fb9f5397399d93956a96cd12f997e731ccefc7a417af8a3bc4f5c21323dc",
+          "bytes": 312291,
+          "sha256": "f3d2a9ecde25234b71ec9d3b1001fd57bdc01f0f95b88196e1b43e1aa1fa112e",
           "pages": 133,
-          "text_sha256": "363baf82a01f4486d1f4081fcae97b435a08a399ab15ebac0d9246618a80c6b0"
+          "text_sha256": "2a2a03de766d33358df2f9d1bd2a3a9586fb9e43cf31bfea472e318da6174b10"
         }
       ]
     },

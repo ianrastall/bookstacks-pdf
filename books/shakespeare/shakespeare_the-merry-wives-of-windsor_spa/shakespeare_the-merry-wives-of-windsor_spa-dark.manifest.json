@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/es/authors/shakespeare/the-merry-wives-of-windsor",
   "source_tei": "shakespeare_the-merry-wives-of-windsor_spa.xml",
   "source_sha256": "113cc8e4cf86617f8792355c1056ed2d9e6f9ccffc463feb43dd02e2ae57a03d",
-  "generator_fingerprint": "d272c6ceecba0e6bf896b2fd382fcd41a86ed6afa7ac928b56859164b8137cdc",
+  "generator_fingerprint": "3421bde45f82afb70d5174a99e5c32253d6515616365b72b30f0628fbe8dab6b",
   "validations": {
     "pdf": {
-      "pages": 137,
+      "pages": 138,
       "outline_items": 7
     }
   },
   "files": [
     {
       "name": "shakespeare_the-merry-wives-of-windsor_spa-dark.pdf",
-      "bytes": 280671,
-      "sha256": "1ca9829999fa8d0ef45680f8b2fb749115656d9ecb1e07d3fb94712a0244cbd2"
+      "bytes": 292138,
+      "sha256": "c578c71b0dc4eac00a1f739faf1ec218af88c2b7fbc94c2b19d1c28f82aa2177"
     }
   ]
 }

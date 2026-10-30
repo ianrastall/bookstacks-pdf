@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-lear",
   "source_tei": "shakespeare_king-lear_eng.xml",
   "source_sha256": "7d66a636fff5987b64de0ed9bfc8760e32669852383ac4c0e804f4f50c9df509",
-  "generator_fingerprint": "7c8753f9ae1317b99749737a700bfd11c3074398401b2173e0ba185ce9eb4240",
+  "generator_fingerprint": "3ea825da99d614d5b869025899792200eeee86499aef8549d9270f84ebc7cbb0",
   "validations": {
     "pdf": {
       "pages": 181,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_king-lear_eng-dark.pdf",
-      "bytes": 401759,
-      "sha256": "db5dac304d00d43dbcc7f85aca6aa6b28f678a23a76a77646dc5a7129afba8a6"
+      "bytes": 410190,
+      "sha256": "ba6fec8ab6cf519009c45b06703bca15df5a8dad8edda44969b56efc6fafcda8"
     }
   ]
 }

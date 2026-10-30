@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/much-ado-about-nothing",
   "source_tei": "shakespeare_much-ado-about-nothing_fra.xml",
   "source_sha256": "af9f6c5712da1b59664669c3abf950cfff560bbf52d132d38b804c6a2a29aabc",
-  "generator_fingerprint": "7261d1cd3df4fe090a930d449fd176b1610932a45c967765b926e453e082bf2e",
+  "generator_fingerprint": "c619b4214ab7cc19a78be189db32e1b22914174630a7b93c313c43784de002b8",
   "validations": {
     "pdf": {
-      "pages": 132,
+      "pages": 131,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_much-ado-about-nothing_fra-dark.pdf",
-      "bytes": 299163,
-      "sha256": "524333b995f8aa9340a96866cb0b6de7508ae1f18761f96d9e977e6c607095b8"
+      "bytes": 308716,
+      "sha256": "63cff5a06da35302f7c6c10b26968e8596445f6ba0f56b8b9611f4dfe5019b99"
     }
   ]
 }

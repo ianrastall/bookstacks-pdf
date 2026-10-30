@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-mysterious-mr-quin_eng",
+  "work_id": "christie:the-mysterious-mr-quin",
+  "title": "The Mysterious Mr. Quin",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-mysterious-mr-quin",
+  "source_tei": "christie_the-mysterious-mr-quin_eng.xml",
+  "source_sha256": "247317bb1c1a90e2e8e961f70147f81241e70f9d9ffe5fb07ee1f0010988a551",
+  "generator_fingerprint": "0dd01a884d9af731743bd5918a343d2c2d19cda0c23c0f808e3530acabf599e5",
+  "validations": {
+    "pdf": {
+      "pages": 211,
+      "outline_items": 12
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-mysterious-mr-quin_eng-light.pdf",
+      "bytes": 5463126,
+      "sha256": "981603e0ffe86bc72bf261b14a9a3257d72e69ff9a15fa594b636f447e44bb6a"
+    }
+  ]
+}

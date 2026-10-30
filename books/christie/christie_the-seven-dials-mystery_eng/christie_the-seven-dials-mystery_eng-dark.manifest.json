@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-seven-dials-mystery_eng",
+  "work_id": "christie:the-seven-dials-mystery",
+  "title": "The Seven Dials Mystery",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-seven-dials-mystery",
+  "source_tei": "christie_the-seven-dials-mystery_eng.xml",
+  "source_sha256": "d0120b7c5f3bf0c59fa25ffde79e6173c9092452ca90ade450e35507684974c4",
+  "generator_fingerprint": "39fc4c22ea8ad62e688224611dbc5765bcc1270a5fed1c5abaca662b7fb96c82",
+  "validations": {
+    "pdf": {
+      "pages": 218,
+      "outline_items": 34
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-seven-dials-mystery_eng-dark.pdf",
+      "bytes": 14168960,
+      "sha256": "1fb57af950abf1b7139a58e0a754eba23552d920e9f217007fd22d21a4c3acf5"
+    }
+  ]
+}

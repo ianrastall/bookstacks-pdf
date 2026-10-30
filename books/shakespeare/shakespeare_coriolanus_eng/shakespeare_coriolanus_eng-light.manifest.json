@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/coriolanus",
   "source_tei": "shakespeare_coriolanus_eng.xml",
   "source_sha256": "3d4ebd97d670f6b41823de65df4a1675aae0ebc3e63a6d07c1d1ee0a23984543",
-  "generator_fingerprint": "f8db85d3bb99475950e0a02133cd53c0330b0f090fadf1e6358a95b4485cb10a",
+  "generator_fingerprint": "328378015bec078ac807850ef23add1a61607d887774332c1ff54503b5549eec",
   "validations": {
     "pdf": {
-      "pages": 192,
+      "pages": 193,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_coriolanus_eng-light.pdf",
-      "bytes": 399966,
-      "sha256": "011fceb03960a911c790b91b67cba9f38f946cc5676d47a586cd31e19a41203d"
+      "bytes": 409937,
+      "sha256": "e5c07b4950c918f8c3fca192a95b353531494e9e6c7e1e68c1a3d004874b5430"
     }
   ]
 }

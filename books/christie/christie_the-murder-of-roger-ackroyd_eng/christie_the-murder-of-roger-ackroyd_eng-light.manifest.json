@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-murder-of-roger-ackroyd_eng",
+  "work_id": "christie:the-murder-of-roger-ackroyd",
+  "title": "The Murder of Roger Ackroyd",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-murder-of-roger-ackroyd",
+  "source_tei": "christie_the-murder-of-roger-ackroyd_eng.xml",
+  "source_sha256": "496d13d0e3063e366e1dc3813c5651dc29552f9ddc35d6a8d00ad0966ecf3f62",
+  "generator_fingerprint": "3b443c83b9f4fe03dc913bd15ba2ba9c2ea4fb5205a63d9a99dbb84ed8bd6dba",
+  "validations": {
+    "pdf": {
+      "pages": 213,
+      "outline_items": 27
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-murder-of-roger-ackroyd_eng-light.pdf",
+      "bytes": 11729455,
+      "sha256": "cd1b3dac57381aff81910047de422e2e456e5a64f8df0198926287bd639498f5"
+    }
+  ]
+}

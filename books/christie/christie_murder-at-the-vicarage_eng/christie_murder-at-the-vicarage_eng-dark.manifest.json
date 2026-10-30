@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_murder-at-the-vicarage_eng",
+  "work_id": "christie:murder-at-the-vicarage",
+  "title": "Murder at the Vicarage",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/murder-at-the-vicarage",
+  "source_tei": "christie_murder-at-the-vicarage_eng.xml",
+  "source_sha256": "0bf5fdf540b303e98931bad68898c31a57807161b2a694859eb164abec89b813",
+  "generator_fingerprint": "55ffa7a11c3532cdd006926fbdc1240b1ef8f46302dbbc94b60419dd2e5bbf0e",
+  "validations": {
+    "pdf": {
+      "pages": 224,
+      "outline_items": 32
+    }
+  },
+  "files": [
+    {
+      "name": "christie_murder-at-the-vicarage_eng-dark.pdf",
+      "bytes": 13797480,
+      "sha256": "6078e3069e22392d303a80ed844927281af4e66efcbfea42d8999aa128209565"
+    }
+  ]
+}

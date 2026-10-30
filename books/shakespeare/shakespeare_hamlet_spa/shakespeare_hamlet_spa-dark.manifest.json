@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/es/authors/shakespeare/hamlet",
   "source_tei": "shakespeare_hamlet_spa.xml",
   "source_sha256": "fdd33b13e8e3c64e7e5484e9b9a422d8781bf74c8b74508c02a0d649e33694bc",
-  "generator_fingerprint": "1d3d3167a9b200d96442dc590751d7184127b8fb68fced3a67f744059f0ad2ff",
+  "generator_fingerprint": "7ea8553645f2e7027b5f170626ba72067dee91c20cb2be203a9fc425772e3f6e",
   "validations": {
     "pdf": {
       "pages": 178,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_hamlet_spa-dark.pdf",
-      "bytes": 384778,
-      "sha256": "53a2b81cfd9c7d8c6d08ea0d72a1f45649d0b1f3b2005ff7bf460e315cd3ebf6"
+      "bytes": 398319,
+      "sha256": "a7b4e59fddd669449b8f71b46c667f642d311a2791957651a837d3408c44f2b9"
     }
   ]
 }

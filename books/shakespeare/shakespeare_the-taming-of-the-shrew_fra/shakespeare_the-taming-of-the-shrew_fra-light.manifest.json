@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/the-taming-of-the-shrew",
   "source_tei": "shakespeare_the-taming-of-the-shrew_fra.xml",
   "source_sha256": "ecdc457aa13d7f63015ee1264c31f6576dada3e17099da139e8d2e4dee881382",
-  "generator_fingerprint": "f198e3e5f001ab02376552f2166316b5fd20451940304d7b3042823b92a9854c",
+  "generator_fingerprint": "4c163fcb77663ec4ded4ee4bec34d40575bde8219499534c92572b5517c5cdb8",
   "validations": {
     "pdf": {
-      "pages": 133,
+      "pages": 135,
       "outline_items": 9
     }
   },
   "files": [
     {
       "name": "shakespeare_the-taming-of-the-shrew_fra-light.pdf",
-      "bytes": 291310,
-      "sha256": "98ecd28348b019c48cc67884152b3db7c38deab0b07f0dc15c676c9cea8fb014"
+      "bytes": 301760,
+      "sha256": "7161783581bbb64ea7d5bd0e626e66d8681bf3c5925f6ec8de4df1bb3e42c3e6"
     }
   ]
 }

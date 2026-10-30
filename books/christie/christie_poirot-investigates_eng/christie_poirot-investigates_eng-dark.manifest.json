@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_poirot-investigates_eng",
+  "work_id": "christie:poirot-investigates",
+  "title": "Poirot Investigates",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/poirot-investigates",
+  "source_tei": "christie_poirot-investigates_eng.xml",
+  "source_sha256": "907f1dcc0892730296b765b46f9a5766ac04db07cadb510866641c1075fb6f05",
+  "generator_fingerprint": "3ab628dc1a23a17d26af39b1bb90b17df5da59512eb05795aec6c1a5dd7e8131",
+  "validations": {
+    "pdf": {
+      "pages": 147,
+      "outline_items": 11
+    }
+  },
+  "files": [
+    {
+      "name": "christie_poirot-investigates_eng-dark.pdf",
+      "bytes": 4882585,
+      "sha256": "5f641d605bd7ec71c4ab259fd1931292b67cbc509a59facbb8c0581b3dd4edf3"
+    }
+  ]
+}

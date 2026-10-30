@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/es/authors/shakespeare/romeo-and-juliet",
   "source_tei": "shakespeare_romeo-and-juliet_spa.xml",
   "source_sha256": "9772fc773e77872ace8b336c87c1a8dd0e85ef13c5f3a529e83b1e8ea01ab27b",
-  "generator_fingerprint": "7fe5e59f68e681098b62fd87236ed915293e7130bfcc97a6ab9f8657feb44aff",
+  "generator_fingerprint": "a613d8198470335e654fc84bea1d36cd9377569c01c314aa2300187c852e5c63",
   "validations": {
     "pdf": {
-      "pages": 116,
+      "pages": 114,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_romeo-and-juliet_spa-dark.pdf",
-      "bytes": 239988,
-      "sha256": "7ea5dbb44c277af36fbe9a49ec648a92835b4cb6691b8519008ac77d707b57e0"
+      "bytes": 246781,
+      "sha256": "fcec822b4fcc39bec7d4b9e29bef58745fa7665255bbc20f4b9dec20967149e9"
     }
   ]
 }

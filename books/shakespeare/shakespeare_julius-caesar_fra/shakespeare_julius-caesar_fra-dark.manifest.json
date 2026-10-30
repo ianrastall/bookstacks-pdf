@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/julius-caesar",
   "source_tei": "shakespeare_julius-caesar_fra.xml",
   "source_sha256": "0e9b87a0f519f3b81bb6ee1ff80223f88d54ee4e70f96270c153ad8c109c4d1b",
-  "generator_fingerprint": "3e8975897e2bae76c01f882a03e92ed093e012db0601618ef22e763bd0ab588a",
+  "generator_fingerprint": "166c73dbef4c60b47ba9cc71db6e2a7a98ffe2c178f5338ba592936d22c047da",
   "validations": {
     "pdf": {
-      "pages": 130,
+      "pages": 129,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_julius-caesar_fra-dark.pdf",
-      "bytes": 307121,
-      "sha256": "93f1affc10a72bd974abbe89ed971514e2cf381905838390a5bc55e2cac7b96b"
+      "bytes": 314773,
+      "sha256": "e05f7e71e4db98e7f1fe41a7c74b05e59bcc0465463fd714fd0cec918514b3bc"
     }
   ]
 }

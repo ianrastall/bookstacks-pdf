@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-hunters-lodge-case_eng",
+  "work_id": "christie:the-hunters-lodge-case",
+  "title": "The Hunter’s Lodge Case",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-hunters-lodge-case",
+  "source_tei": "christie_the-hunters-lodge-case_eng.xml",
+  "source_sha256": "7e234e9998bab6dd9a64bf88924a7b50e0b1e219848df71a409070890d22d8a7",
+  "generator_fingerprint": "bc2f44705155cdd1f9c79cc8014615aa98b9e706fa4b17d0976ec47103f30b0a",
+  "validations": {
+    "pdf": {
+      "pages": 17,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-hunters-lodge-case_eng-dark.pdf",
+      "bytes": 460639,
+      "sha256": "eac907cdd85d1ad6a988e0ef5405d64fe9c20a992af232bcc308bd54999df23d"
+    }
+  ]
+}

@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/titus-andronicus",
   "source_tei": "shakespeare_titus-andronicus_eng.xml",
   "source_sha256": "7bcaa4bd75d2c0a0247c35082a49383fcfc4fb82e0ccb39e855b3202e10b3387",
-  "generator_fingerprint": "9b3a295c5b45c0c63a6a211ab57f029cbee12b6e80f91d61beb8b5de10e9b59f",
+  "generator_fingerprint": "fc8c2f7e2ebc552d9785b6b1a5e78c49ea092022019254f6a8fe66ee05061177",
   "validations": {
     "pdf": {
-      "pages": 127,
+      "pages": 126,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_titus-andronicus_eng-dark.pdf",
-      "bytes": 318985,
-      "sha256": "871ac08d39aee0450d689ca8d825cc390cea0562c2243c8319239f85b7649093"
+      "bytes": 324179,
+      "sha256": "42633feee4d93ce702427e7f7a5f49fb8b651f451659733d9988c672f38fe8ed"
     }
   ]
 }

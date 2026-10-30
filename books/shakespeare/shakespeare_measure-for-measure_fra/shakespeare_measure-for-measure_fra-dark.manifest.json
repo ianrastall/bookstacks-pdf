@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/measure-for-measure",
   "source_tei": "shakespeare_measure-for-measure_fra.xml",
   "source_sha256": "cc5ae9ee5cae3251c2b461e0db81f5e9d4dfe5c1bd7bb8273e126f924a05f749",
-  "generator_fingerprint": "59e1e45d7cb855f3eb29d89c8c3cbca911e10477fcdabde38479ffa4fb97d440",
+  "generator_fingerprint": "d1a6b154b2dabd0cc52c2749216dae91bcc21e8c3e822c63e885564da39433bd",
   "validations": {
     "pdf": {
-      "pages": 134,
+      "pages": 133,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_measure-for-measure_fra-dark.pdf",
-      "bytes": 299393,
-      "sha256": "5632274c7d745b1bce665ebf5bd7fb64f3f501e988a91fc52ed7811b572cd9ce"
+      "bytes": 308194,
+      "sha256": "99d1af0836db37f72de13f02205371c6b873274a5f55537c021b9150778c0b1d"
     }
   ]
 }

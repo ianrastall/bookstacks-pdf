@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/es/authors/shakespeare/as-you-like-it",
   "source_tei": "shakespeare_as-you-like-it_spa.xml",
   "source_sha256": "8a786753291bd10f7f86ccd0290743ed1141d07a51a7e1ea06a52a9e9b076b0e",
-  "generator_fingerprint": "5cb86971ab183c11231ce236e46e3b8a546b72e07ab5747b3b881b523040c43f",
+  "generator_fingerprint": "e30cd74512c1abab2785768a64839a189b8029ec497512fe9ee019ca6331200a",
   "validations": {
     "pdf": {
-      "pages": 121,
+      "pages": 120,
       "outline_items": 7
     }
   },
   "files": [
     {
       "name": "shakespeare_as-you-like-it_spa-light.pdf",
-      "bytes": 245654,
-      "sha256": "2463204f25c965df4901b3e3bbd49c239cb89d9eb3dd3b79d83c3946fd156b99"
+      "bytes": 253784,
+      "sha256": "7b2d3a1817b2ca6ca52326c701073286cf49f9008b57fb02d829642da0fe3b5e"
     }
   ]
 }

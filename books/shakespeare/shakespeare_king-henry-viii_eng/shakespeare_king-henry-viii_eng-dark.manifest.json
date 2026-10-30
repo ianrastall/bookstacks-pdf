@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-henry-viii",
   "source_tei": "shakespeare_king-henry-viii_eng.xml",
   "source_sha256": "2e6424aa9a7169ce6a73e5c55e390e28abac10cf5f5136355bbd53e03160848e",
-  "generator_fingerprint": "eeae503c80f57e431340702f0f264628f20c74b212e0461f09fa7c3d790435b0",
+  "generator_fingerprint": "c4a6415083c7c373652f8e92a42b93cc02a4226d5babf4d61df37ad9148a47f6",
   "validations": {
     "pdf": {
-      "pages": 158,
+      "pages": 157,
       "outline_items": 7
     }
   },
   "files": [
     {
       "name": "shakespeare_king-henry-viii_eng-dark.pdf",
-      "bytes": 386777,
-      "sha256": "aee884b310ae10402f2f961b4dc38afec0e6b372ba01e6a0a6500924cb056eb1"
+      "bytes": 391022,
+      "sha256": "3abbcbc626636dc66676ea04f6041f348c549a20175b947b25a8ff5d3d6ebf21"
     }
   ]
 }

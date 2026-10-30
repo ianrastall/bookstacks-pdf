@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/othello",
   "source_tei": "shakespeare_othello_eng.xml",
   "source_sha256": "06a3a511b647a37e2f24245af16c4c85cd76e108c68cab8098e3ed530efb3683",
-  "generator_fingerprint": "c132afe2326f13a9d88b2eb91c518751d2c62123472a24a1debba64d3992f529",
+  "generator_fingerprint": "29cb36cbeeee6ac1eb18d9bb7f38aa5e84570207637db9e3646c88369500f0bf",
   "validations": {
     "pdf": {
       "pages": 187,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_othello_eng-dark.pdf",
-      "bytes": 400022,
-      "sha256": "14cbe678e173c5afd470ee14411c85ff765b6ed126118612e288baa65558a203"
+      "bytes": 411073,
+      "sha256": "b18df30159059eed1c364073177dc519b8ad940b815cf7869b709e9702532aae"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-henry-v",
   "source_tei": "shakespeare_king-henry-v_eng.xml",
   "source_sha256": "5a6f9f653fca041e2baf88e972540c76355558626359dfc82066e9ef20e00bd2",
-  "generator_fingerprint": "5d1c9a31739b34947676f7c179b4402a98f9fbc292966007ad06c47c1ad0cfdb",
+  "generator_fingerprint": "5d9a8ac2aba04b5fa03e1d19e963103f0b0249640ca8f322de0c3f47c9c452ee",
   "validations": {
     "pdf": {
       "pages": 138,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_king-henry-v_eng-light.pdf",
-      "bytes": 305073,
-      "sha256": "ee75e1e0c28b301bcc56139df2b539f8445824815ace77d17d807952a4b5bcbd"
+      "bytes": 311570,
+      "sha256": "89a635cc5a2cf19b5edcfd21b18b970401a442b0fefc005ebb2244ec8e942dba"
     }
   ]
 }

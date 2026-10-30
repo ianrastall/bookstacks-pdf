@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-missing-will_eng",
+  "work_id": "christie:the-missing-will",
+  "title": "The Missing Will",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-missing-will",
+  "source_tei": "christie_the-missing-will_eng.xml",
+  "source_sha256": "5a2f4cfdbf613239633696861063f9ef6678c1b061b791a84e97305cddbaa1b5",
+  "generator_fingerprint": "1c7e7246f46abe6c6af6734f63a05adab0986e9a1717a2bf09ca9b6abd19498d",
+  "validations": {
+    "pdf": {
+      "pages": 14,
+      "outline_items": 1
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-missing-will_eng-dark.pdf",
+      "bytes": 434535,
+      "sha256": "b3f8d1b2ec960be8c84b20d29b329fed2aa16b6f2ca8b3c2725c4152d159d7d4"
+    }
+  ]
+}

@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/loves-labours-lost",
   "source_tei": "shakespeare_loves-labours-lost_fra.xml",
   "source_sha256": "feb6fb7931eb82b2537a2be81ed4d8891ce424884f95e607d498a84b82fff9e7",
-  "generator_fingerprint": "ca45e2a4706c9f92d8918c29377c55dbe42c4a4e1cae856cdabbfc5543511202",
+  "generator_fingerprint": "13f61fe9db863fa44f9b3c50030d1445aab3ecebed0d148dc421b1e2c62234d7",
   "validations": {
     "pdf": {
-      "pages": 146,
+      "pages": 142,
       "outline_items": 7
     }
   },
   "files": [
     {
       "name": "shakespeare_loves-labours-lost_fra-light.pdf",
-      "bytes": 308104,
-      "sha256": "734e103c6e1b5089e34423ab3c94a82738122825766ea60cf3c5dbaf1537e96f"
+      "bytes": 317055,
+      "sha256": "ac628dc78e1fb58c8d4634757f727782ebf3ad88f835f327d503d721c252fb85"
     }
   ]
 }

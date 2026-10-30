@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/the-comedy-of-errors",
   "source_tei": "shakespeare_the-comedy-of-errors_fra.xml",
   "source_sha256": "a01d27b110bd7f358658615d612676bc9a6670691b52eda116c2b71d8c91a47b",
-  "generator_fingerprint": "77ee04ef22a096ff0f8dce3b709b96e7f3d4121009019d199a9eb2a818e5a302",
+  "generator_fingerprint": "dfdc8736ce3aa7286d2a9030d6c59971f77ce1191fabf42b480b039fe50d23d1",
   "validations": {
     "pdf": {
-      "pages": 98,
+      "pages": 93,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_the-comedy-of-errors_fra-dark.pdf",
-      "bytes": 220996,
-      "sha256": "a75f89157462f86bc0e99a2b2ab9f8bbfb210fdbfefb08124bc49aaf5f8aebbb"
+      "bytes": 224169,
+      "sha256": "c632c8d524f66bea9fd432adff37195ba16b9e877d4254a89c86bc15ba89e842"
     }
   ]
 }

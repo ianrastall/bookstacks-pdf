@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/king-henry-iv-part-1",
   "source_tei": "shakespeare_king-henry-iv-part-1_fra.xml",
   "source_sha256": "a1f0fefc8c054df5adc0316107bd81102b7d2313e2fdf4f6dbe4ce3cf09db6d8",
-  "generator_fingerprint": "b98108bde5ead3f38af0bf8703aa4343ac4bb04a532ac73efcc2579c52f36588",
+  "generator_fingerprint": "46b64e66d4f2aaeb72658855aa62884f048a854d8d9dd894f03a66af25bb4b28",
   "validations": {
     "pdf": {
       "pages": 137,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_king-henry-iv-part-1_fra-dark.pdf",
-      "bytes": 342243,
-      "sha256": "bbe354194eda7b38da6408aac279605bf9902369a08b98d05d4508d5cfe98870"
+      "bytes": 350745,
+      "sha256": "d8623dbaa9dc70a295d60ad32763409a59105875236cfe89e5ecf19b98404700"
     }
   ]
 }

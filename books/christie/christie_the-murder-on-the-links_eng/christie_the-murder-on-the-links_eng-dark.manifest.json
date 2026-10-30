@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-murder-on-the-links_eng",
+  "work_id": "christie:the-murder-on-the-links",
+  "title": "The Murder on the Links",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-murder-on-the-links",
+  "source_tei": "christie_the-murder-on-the-links_eng.xml",
+  "source_sha256": "442af7899c9a557ce00c06bd2aaa5b4c63dc23e2b5fec98dbe5da578d8062bd0",
+  "generator_fingerprint": "17d20d0ba20f62937e0714c53403ca9f9464f6329ad203c16f8f6679d423f4b1",
+  "validations": {
+    "pdf": {
+      "pages": 201,
+      "outline_items": 28
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-murder-on-the-links_eng-dark.pdf",
+      "bytes": 11392312,
+      "sha256": "f999f98656bcbdf7e6e12a2f615e9e0f808745650110dd46f65b8722d4960c9d"
+    }
+  ]
+}

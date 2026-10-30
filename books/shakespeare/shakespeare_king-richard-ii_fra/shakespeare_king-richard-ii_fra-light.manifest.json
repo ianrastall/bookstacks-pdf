@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/king-richard-ii",
   "source_tei": "shakespeare_king-richard-ii_fra.xml",
   "source_sha256": "35013a2fd50f0342f96a20037a79745e45ff98016e30c310266b6965aa307787",
-  "generator_fingerprint": "704229b8b617dd6cc77cbccb0b07da219e608b4d6900d4d74ca16182f66c6985",
+  "generator_fingerprint": "caacec4ce2206bba5fb968d67fcfa387893a48dc1ab645430cd72c7bdf2a0930",
   "validations": {
     "pdf": {
-      "pages": 119,
+      "pages": 118,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_king-richard-ii_fra-light.pdf",
-      "bytes": 298811,
-      "sha256": "69e68186e3ff0e677a006f19440405c9df0f23ec0b89b4125a33ed5545a8c82f"
+      "bytes": 303120,
+      "sha256": "e5e13f62450f1545af2c276a926b1527b2e16dd330e098636aab28789df0da0b"
     }
   ]
 }

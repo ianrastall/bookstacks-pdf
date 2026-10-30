@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/a-midsummer-nights-dream",
   "source_tei": "shakespeare_a-midsummer-nights-dream_fra.xml",
   "source_sha256": "8fed15c77d4bf09d5ea5a4855994cd2df72b8b9e32fa98ab89cea2571ee490cc",
-  "generator_fingerprint": "d73f5d6cbf9232ce7b306f4d651c588eda4d435e01704cb62ead476850fa9d7c",
+  "generator_fingerprint": "8b971d7f5fb62096ace067d6842ddaf0d364001f5a960f8583a1ed1a9aae2d86",
   "validations": {
     "pdf": {
-      "pages": 95,
+      "pages": 98,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_a-midsummer-nights-dream_fra-light.pdf",
-      "bytes": 239545,
-      "sha256": "4fc832f408335c5cb58b5084d082bea192dee2b2d0985a45959dd320285bc1fe"
+      "bytes": 246533,
+      "sha256": "6de57f88cb49f7388d74c12e11f4eb65da90cda75cdd7df2ada00f40347ee87c"
     }
   ]
 }

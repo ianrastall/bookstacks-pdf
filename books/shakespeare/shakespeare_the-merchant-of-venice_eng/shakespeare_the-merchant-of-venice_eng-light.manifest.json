@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/the-merchant-of-venice",
   "source_tei": "shakespeare_the-merchant-of-venice_eng.xml",
   "source_sha256": "69d0276510b93e0140a0c0e3a9ad42d129c04eb85b1712c45f43432c47eb77cc",
-  "generator_fingerprint": "43c5a204b7a56940ab07cddf8acd7056cf09fdd86eb7a8120848fb7dba6e9b4e",
+  "generator_fingerprint": "d2bb42a59000d70cce5911982051f8df8d678bbd7cf46f88e88376f4a6b18fbb",
   "validations": {
     "pdf": {
-      "pages": 128,
+      "pages": 127,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_the-merchant-of-venice_eng-light.pdf",
-      "bytes": 295719,
-      "sha256": "9805b5133fb4e76782d19e931993cf1fd6bc3109c00d610dec78ca76abeb9446"
+      "bytes": 300740,
+      "sha256": "ab982c22854d29d80ded1f98e8a821fdfc4faf9101a1a535587c996c2fb45d82"
     }
   ]
 }

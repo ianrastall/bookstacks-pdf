@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/troilus-and-cressida",
   "source_tei": "shakespeare_troilus-and-cressida_fra.xml",
   "source_sha256": "f5433076d0b5e8fb0b75bd52f6af551dadde59daeab70eade592faf4aab0634a",
-  "generator_fingerprint": "ed4ceac0289f5487e53f036c808e1339f8cfd40858c6403650da7e85f60a97ac",
+  "generator_fingerprint": "ea92412dd6fec46b8652979f32b39fa3590e6ecac385821fe90602c9234bd7b3",
   "validations": {
     "pdf": {
-      "pages": 168,
+      "pages": 165,
       "outline_items": 8
     }
   },
   "files": [
     {
       "name": "shakespeare_troilus-and-cressida_fra-dark.pdf",
-      "bytes": 370692,
-      "sha256": "85c05dc2a118c08c2630fdbff87835c9afc91326309163cffe8ad2130b6bcb43"
+      "bytes": 380551,
+      "sha256": "1c8d40abb9548d081fb937d6f998b9ad04bfa6451ae5bcebd2e684ec8840527d"
     }
   ]
 }

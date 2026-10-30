@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-big-four_eng",
+  "work_id": "christie:the-big-four",
+  "title": "The Big Four",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-big-four",
+  "source_tei": "christie_the-big-four_eng.xml",
+  "source_sha256": "0ccd3e492f9566e4fc08014d7a40c92ea8dfe940fa1706ad43d1c3e5029bd83a",
+  "generator_fingerprint": "ddc54d70880a8145fa758fb147c8778f1f88a917d30e83b0a048d2b87608491e",
+  "validations": {
+    "pdf": {
+      "pages": 159,
+      "outline_items": 18
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-big-four_eng-light.pdf",
+      "bytes": 7785251,
+      "sha256": "ea631481c28dd9cea8332e3ec1a9c8b15d908e2b0c8b26f9e5d987b3b0026076"
+    }
+  ]
+}

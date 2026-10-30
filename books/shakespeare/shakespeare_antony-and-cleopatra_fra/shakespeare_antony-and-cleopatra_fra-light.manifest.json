@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/antony-and-cleopatra",
   "source_tei": "shakespeare_antony-and-cleopatra_fra.xml",
   "source_sha256": "bcabb7c8badebf86db6ff1cfce74f4a4c41be843a61a217906d23fc25bd23937",
-  "generator_fingerprint": "ac8ef49e91b2571f85d8fc5a74574de331f5072dcb81d17a851533d7973624f1",
+  "generator_fingerprint": "059f9f054ff91075dfef071445e5dae4c6b38ee2cf597001972aa9f00552a87c",
   "validations": {
     "pdf": {
       "pages": 169,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_antony-and-cleopatra_fra-light.pdf",
-      "bytes": 343934,
-      "sha256": "ce8c5295a21a77635422e58eead9d67453a66f40d702a92eab3d2301ea7d2bc4"
+      "bytes": 357637,
+      "sha256": "d385a613775f0860b6abb0f01d514538d233d8c3f4c0c5cf0bed963959a98718"
     }
   ]
 }

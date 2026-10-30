@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-man-in-the-brown-suit_eng",
+  "work_id": "christie:the-man-in-the-brown-suit",
+  "title": "The Man in the Brown Suit",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-man-in-the-brown-suit",
+  "source_tei": "christie_the-man-in-the-brown-suit_eng.xml",
+  "source_sha256": "3e4c9d0f9d1cefcbd99a2f42297d24efbcac92cde5e2e48f519f0e0009459aee",
+  "generator_fingerprint": "9e09e35bea30831ed7fb3a1fc6a35a0897144c378622c781083336ca69e525dd",
+  "validations": {
+    "pdf": {
+      "pages": 227,
+      "outline_items": 37
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-man-in-the-brown-suit_eng-dark.pdf",
+      "bytes": 15214798,
+      "sha256": "0b3997a0e6e5947140768f39798552dbe51e3d0e440f6f3a90e6234ef98d85c4"
+    }
+  ]
+}

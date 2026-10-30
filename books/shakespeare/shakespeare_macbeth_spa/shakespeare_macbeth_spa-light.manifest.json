@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/es/authors/shakespeare/macbeth",
   "source_tei": "shakespeare_macbeth_spa.xml",
   "source_sha256": "21f898a73a92db63621ae014fe22dd8cc5bf6b86b2585731001e5d0c5e8817ef",
-  "generator_fingerprint": "c880d8f11935416d5ed9f39fa7171583c19f9539044b3f8331e96dbfa515bfa0",
+  "generator_fingerprint": "fcf2a69a4acbdab2852c1bed1d33c6c4709d75386675f45a4ee934681379ad7f",
   "validations": {
     "pdf": {
-      "pages": 89,
+      "pages": 88,
       "outline_items": 7
     }
   },
   "files": [
     {
       "name": "shakespeare_macbeth_spa-light.pdf",
-      "bytes": 172651,
-      "sha256": "051bb28683359b163879f85197a3bd470fa9bcd12b6dfb11178f75fe7123ac4e"
+      "bytes": 178831,
+      "sha256": "47cb18406014765801d3c9c614af06278645579f88305d702e006ff803b5b9e4"
     }
   ]
 }

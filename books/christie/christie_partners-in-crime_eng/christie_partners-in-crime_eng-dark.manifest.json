@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_partners-in-crime_eng",
+  "work_id": "christie:partners-in-crime",
+  "title": "Partners in Crime",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/partners-in-crime",
+  "source_tei": "christie_partners-in-crime_eng.xml",
+  "source_sha256": "fb7ff77c880bbdead24d8a57b23666f126ae5d87b3afc9d40fea2be182b76e15",
+  "generator_fingerprint": "25ff362ec22e755b58cb5498b04cca76967d287ef060a5da8044a7db32e81e13",
+  "validations": {
+    "pdf": {
+      "pages": 205,
+      "outline_items": 23
+    }
+  },
+  "files": [
+    {
+      "name": "christie_partners-in-crime_eng-dark.pdf",
+      "bytes": 9889868,
+      "sha256": "9a2adfcec4b799a8258018d0129fa6c59bc9f772a2f8711735ed32df8c270a91"
+    }
+  ]
+}

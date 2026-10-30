@@ -9,7 +9,7 @@
   "canonical_url": "https://bookstacks.org/es/authors/shakespeare/julius-caesar",
   "source_tei": "shakespeare_julius-caesar_spa.xml",
   "source_sha256": "648556e753087a6c63b7f51db036f9f970eb7e64d961626d4a94bd592f8c851d",
-  "generator_fingerprint": "e7497e9021756064ca0c87be872d0e9c8b56558effdf375e110bf25c094f81b6",
+  "generator_fingerprint": "bd0f63bf6865a466eb89b0afdaa8423e78b25996a9a2ebdef9eb546b270ce20d",
   "validations": {
     "pdf": {
       "pages": 112,
@@ -19,8 +19,8 @@
   "files": [
     {
       "name": "shakespeare_julius-caesar_spa-light.pdf",
-      "bytes": 224903,
-      "sha256": "21f7125110296e793382304aa15fb299f9e18607a6e3527f80be342516084306"
+      "bytes": 233485,
+      "sha256": "65325c9c8064d223d4e0be3ea80d4e54bab13bab3f7b3bd6a32e55ae9312ba7e"
     }
   ]
 }

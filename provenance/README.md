@@ -17,3 +17,11 @@ embedded into their PDFs; no canonical image assets or TEI are changed here.
 The western-punctuation snapshot corrects xeCJK quote classes for English
 editions with incidental Han characters; both themes of the seven affected
 editions were explicitly regenerated and visually checked.
+
+The drama-layout snapshot records the 29 October 2026 Shakespeare update and
+17 newly published Christie pairs. The matching `drama_layout.py`, movement
+rules and source-pinned character index accompany it. Restore those files to
+their original paths in the source checkout for reproduction; the source
+commit is recorded in the root manifest. All 102 regenerated/new dark editions
+were checked for opaque black text, and representative pages in both themes
+were rendered for visual inspection.

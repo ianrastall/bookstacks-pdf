@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "christie_the-mysterious-affair-at-styles_eng",
+  "work_id": "christie:the-mysterious-affair-at-styles",
+  "title": "The Mysterious Affair at Styles",
+  "author": "Agatha Christie (1890-1976)",
+  "language": "en",
+  "pdf_theme": "dark",
+  "canonical_url": "https://bookstacks.org/en/authors/christie/the-mysterious-affair-at-styles",
+  "source_tei": "christie_the-mysterious-affair-at-styles_eng.xml",
+  "source_sha256": "aba01155045346997a11039ea053bf81996bede7e1ad8a9c5366a3b5866bf129",
+  "generator_fingerprint": "eafe50daf0c5d22a71f7f9d7ac44e0c704b971d93aaaaf9f41fbb9afe7877db5",
+  "validations": {
+    "pdf": {
+      "pages": 166,
+      "outline_items": 13
+    }
+  },
+  "files": [
+    {
+      "name": "christie_the-mysterious-affair-at-styles_eng-dark.pdf",
+      "bytes": 5993919,
+      "sha256": "2fb7241616839d311a5dd900b51459b573724ec60f20bd17ff14002b2798a374"
+    }
+  ]
+}

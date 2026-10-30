@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/the-two-gentlemen-of-verona",
   "source_tei": "shakespeare_the-two-gentlemen-of-verona_eng.xml",
   "source_sha256": "774b5e8fce3cc238eff3cfbf473b427ba7633556d6a19f8fd5f9af8b45d55ec4",
-  "generator_fingerprint": "da0f9398403d6b1262cf2cc084e0b9eb9bb706227447b13978f20960ca033fe0",
+  "generator_fingerprint": "f02aac37ce6dcefa39351ec40358740a88f83c7b18665eb019fc92c730d6c7ab",
   "validations": {
     "pdf": {
-      "pages": 129,
+      "pages": 128,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_the-two-gentlemen-of-verona_eng-light.pdf",
-      "bytes": 245147,
-      "sha256": "a9a12ac844a92dbe513378c47083b45f5fde266b4f4710d91e0d79c8cabaf9dd"
+      "bytes": 252909,
+      "sha256": "c7808722ef2028b13b383d02c26eb780f78b8eec70c59fb9892716b89e6c45db"
     }
   ]
 }

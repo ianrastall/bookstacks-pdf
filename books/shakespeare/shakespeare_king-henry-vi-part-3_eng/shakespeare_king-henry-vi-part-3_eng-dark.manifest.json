@@ -9,18 +9,18 @@
   "canonical_url": "https://bookstacks.org/en/authors/shakespeare/king-henry-vi-part-3",
   "source_tei": "shakespeare_king-henry-vi-part-3_eng.xml",
   "source_sha256": "9598fe380b25789e78c3a11b756251a4762d32637053207b4ba5d06f1ede9b79",
-  "generator_fingerprint": "4ed4646ad081c625226ad95b1175d818421d9dedc84f74edbb2909279cb5b177",
+  "generator_fingerprint": "4eb718cede28adc0581915146a0b5a682e5fe018daf39d721190b9250b650899",
   "validations": {
     "pdf": {
-      "pages": 158,
+      "pages": 157,
       "outline_items": 6
     }
   },
   "files": [
     {
       "name": "shakespeare_king-henry-vi-part-3_eng-dark.pdf",
-      "bytes": 374965,
-      "sha256": "9c595e8910c772cc9ece15cdaa8ec4b48e9e79cdf711d807ab0eb3576ac7fa39"
+      "bytes": 381111,
+      "sha256": "38e0f5fc3da59bee90a9c46e6878c1d1d5bf379389dd4eb6c6ef63bfe66efc41"
     }
   ]
 }
