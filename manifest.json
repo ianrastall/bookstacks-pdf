@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source_repository": "https://github.com/ianrastall/bookstacks",
-  "source_commit": "c73624602cfb27a17594457450e6af70c8f926c5",
+  "source_commit": "7a317a5eab86caceb15b2048b3c115da748a688b",
   "base_url": "https://ianrastall.github.io/bookstacks-pdf/",
   "editions": [
     {
@@ -6945,6 +6945,37 @@
           "sha256": "eb6daf5c83e7ef5e07c76795f27440311fecdbc82f114497f4a7dc863539a133",
           "pages": 166,
           "text_sha256": "6d191588c25af435024dba072ef0ef1b9b58246e3a802271012fb3d7727ef0e1"
+        }
+      ]
+    },
+    {
+      "edition_key": "shakespeare_the-two-noble-kinsmen_fra",
+      "edition_id": "shakespeare-the-two-noble-kinsmen-fra",
+      "source_tei": "shakespeare_the-two-noble-kinsmen_fra.xml",
+      "source_path": "tei/shakespeare/shakespeare_the-two-noble-kinsmen_fra.xml",
+      "source_sha256": "b29661950a8b561c98227af042abc1542955de6fe21624c72015c314c1dd4751",
+      "title": "Les Deux Nobles Parents",
+      "author": "William Shakespeare (1564-1616); John Fletcher",
+      "language": "fr",
+      "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/the-two-noble-kinsmen",
+      "files": [
+        {
+          "theme": "light",
+          "file": "shakespeare_the-two-noble-kinsmen_fra-light.pdf",
+          "path": "books/shakespeare/shakespeare_the-two-noble-kinsmen_fra/shakespeare_the-two-noble-kinsmen_fra-light.pdf",
+          "bytes": 311970,
+          "sha256": "71ac0b0baedb740fb5bdfd04ca826623c9f5028d3eb72eb85bb889889a5c71d0",
+          "pages": 142,
+          "text_sha256": "5598c92c6232f1d22f10b827197ae71aff714d2b0928a36aee632fb5b5ea2e98"
+        },
+        {
+          "theme": "dark",
+          "file": "shakespeare_the-two-noble-kinsmen_fra-dark.pdf",
+          "path": "books/shakespeare/shakespeare_the-two-noble-kinsmen_fra/shakespeare_the-two-noble-kinsmen_fra-dark.pdf",
+          "bytes": 329025,
+          "sha256": "6ecfea51025940f082b06ec5c1267ca17914b80057675b728934e58ccef3062a",
+          "pages": 142,
+          "text_sha256": "5598c92c6232f1d22f10b827197ae71aff714d2b0928a36aee632fb5b5ea2e98"
         }
       ]
     },

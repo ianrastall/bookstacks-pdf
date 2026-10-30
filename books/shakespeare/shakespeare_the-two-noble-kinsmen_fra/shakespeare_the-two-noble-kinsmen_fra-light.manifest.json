@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "edition_id": "shakespeare-the-two-noble-kinsmen-fra",
+  "work_id": "shakespeare:the-two-noble-kinsmen",
+  "title": "Les Deux Nobles Parents",
+  "author": "William Shakespeare (1564-1616); John Fletcher",
+  "language": "fr",
+  "pdf_theme": "paper",
+  "canonical_url": "https://bookstacks.org/fr/authors/shakespeare/the-two-noble-kinsmen",
+  "source_tei": "shakespeare_the-two-noble-kinsmen_fra.xml",
+  "source_sha256": "b29661950a8b561c98227af042abc1542955de6fe21624c72015c314c1dd4751",
+  "generator_fingerprint": "f90a3c316e39c0bf0bb30c1ebb1340a4b419430edfe66190a6819f7904904f8e",
+  "validations": {
+    "pdf": {
+      "pages": 142,
+      "outline_items": 10
+    }
+  },
+  "files": [
+    {
+      "name": "shakespeare_the-two-noble-kinsmen_fra-light.pdf",
+      "bytes": 311970,
+      "sha256": "71ac0b0baedb740fb5bdfd04ca826623c9f5028d3eb72eb85bb889889a5c71d0"
+    }
+  ]
+}
